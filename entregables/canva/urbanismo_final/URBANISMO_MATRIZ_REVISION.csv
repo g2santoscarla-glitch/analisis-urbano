@@ -1,0 +1,62 @@
+﻿Página original,Contenido,Problemas detectados,Corrección del profesor relacionada,Páginas complementarias(142),Acción propuesta/ejecutada,Páginas finales
+1,Portada y delimitación de las tres secciones,Portada sin índice ni paginación; situación territorial insuficiente.,"Conservar concepto de portada; cambiar colorimetría; índice,paginación,situación y conexiones.","2, 4, 5, 6, 7",Modificar,"1, 2, 3, 4, 5"
+2,Separador sociodemográfico,"Separador sin criterios,objetivos o implicaciones.","Qué se analiza; criterios,objetivos e implicaciones en cada apartado.",No necesaria,Modificar,6
+3,Estructura por edad y sexo,Conclusión de homogeneidad incompatible con las diferencias de edad entre secciones.,Más mapas y menos tablas/texto; gráficos adecuados; conclusiones e implicaciones relacionadas.,"10, 11, 12, 14",Sustituir,"7, 9, 11"
+4,Evolución reciente y densidad de población,Afirmación de crecimiento continuo no sostenida por la serie; tablas pequeñas.,Más mapas y menos tablas/texto; gráficos adecuados; conclusiones e implicaciones relacionadas.,"9, 13",Sustituir,"8, 10"
+5,Saldo vegetativo y migratorio,Saldos vegetativo y migratorio sin trazabilidad suficiente para conservar sus valores.,Más mapas y menos tablas/texto; gráficos adecuados; conclusiones e implicaciones relacionadas.,9,Sustituir,8
+6,Interpretación demográfica,Conclusiones causales y generalización del envejecimiento a todo el ámbito.,Más mapas y menos tablas/texto; gráficos adecuados; conclusiones e implicaciones relacionadas.,"12, 14, 58, 59, 60",Modificar,"9, 11, 12, 73, 75, 76"
+7,Separador socioeconómico,"Separador sin criterios,objetivos o implicaciones.","Qué se analiza; criterios,objetivos e implicaciones en cada apartado.",No necesaria,Modificar,13
+8,Renta y nivel de estudios,Gráfico educativo mezclaTOTAL y una cifra monetaria; categorías y denominador incorrectos.,Más mapas y menos tablas/texto; gráficos adecuados; conclusiones e implicaciones relacionadas.,"17, 18, 19, 20",Sustituir,"14, 15, 16, 17"
+9,"Actividad, empleo, desempleo y sectores",Rótulos de actividad/edad y tasas de empleo sin universo contrastado.,Más mapas y menos tablas/texto; gráficos adecuados; conclusiones e implicaciones relacionadas.,47,Sustituir,"18, 33"
+10,Perfil de actividades productivas,Barras y tablas poco jerarquizadas; diferenciar actividad de locales y empleo residente.,Más mapas y menos tablas/texto; gráficos adecuados; conclusiones e implicaciones relacionadas.,"47, 48",Modificar,"18, 33, 34"
+11,Interpretación socioeconómica,Conclusiones extensas y perfil homogéneo excesivamente general.,Más mapas y menos tablas/texto; gráficos adecuados; conclusiones e implicaciones relacionadas.,"18, 20, 58, 59, 60",Modificar,"15, 16, 18, 73, 75, 76"
+12,Separador residencial,"Separador sin criterios,objetivos o implicaciones.","Qué se analiza; criterios,objetivos e implicaciones en cada apartado.",No necesaria,Modificar,19
+13,"Viviendas, densidad y antigüedad",Tablas pequeñas y confusión potencial entre viviendas no principales y vacías.,Más mapas y menos tablas/texto; gráficos adecuados; conclusiones e implicaciones relacionadas.,25,Sustituir,22
+14,Tamaño de vivienda y tenencia,Tamaño y tenencia necesitan formato comparativo y denominadores claros.,Más mapas y menos tablas/texto; gráficos adecuados; conclusiones e implicaciones relacionadas.,"23, 24",Sustituir,"20, 21"
+15,Vivienda y estructura social,"Necesidad de relacionar hogares,edad y parque sin atribuir perfiles individuales.",Más mapas y menos tablas/texto; gráficos adecuados; conclusiones e implicaciones relacionadas.,24,Modificar,"21, 24, 25"
+16,Valor del suelo y vivienda: Catastro,Valores catastrales no son precios de mercado; fuente y versión insuficientes.,Más mapas y menos tablas/texto; gráficos adecuados; conclusiones e implicaciones relacionadas.,27,Sustituir,"23, 25, 77"
+17,Interpretación residencial,Párrafos y conclusiones sin enlace espacial directo.,Más mapas y menos tablas/texto; gráficos adecuados; conclusiones e implicaciones relacionadas.,"27, 58, 59, 60",Modificar,"23, 25, 73, 75, 76"
+18,Separador vulnerabilidad,"Separador sin criterios,objetivos o implicaciones.","Qué se analiza; criterios,objetivos e implicaciones en cada apartado.",No necesaria,Modificar,26
+19,Identificación de grupos vulnerables,"Edad,nacionalidad o vivir solo no demuestran vulnerabilidad individual.",Más mapas y menos tablas/texto; gráficos adecuados; conclusiones e implicaciones relacionadas.,31,Modificar,"27, 30"
+20,Índices de vulnerabilidad y agentes locales,"Se mezcla8,36 de una esfera conIVTA; escalas y años heterogéneos; celdas incompletas.",Más mapas y menos tablas/texto; gráficos adecuados; conclusiones e implicaciones relacionadas.,"32, 33",Sustituir,"28, 29, 77"
+21,Mapa social y tejido asociativo,Mapa asociativo sin registro verificable de localización/actualización.,Más mapas y menos tablas/texto; gráficos adecuados; conclusiones e implicaciones relacionadas.,"31, 51",Sustituir,"27, 30, 38"
+22,Interpretación de vulnerabilidad,Síntesis genérica y escasa conexión con accesibilidad y residencia.,Más mapas y menos tablas/texto; gráficos adecuados; conclusiones e implicaciones relacionadas.,"58, 59, 60",Modificar,"30, 31, 73, 74, 75, 76"
+23,Separador funcional y movilidad,"Separador sin criterios,objetivos o implicaciones.","Qué se analiza; criterios,objetivos e implicaciones en cada apartado.",No necesaria,Modificar,32
+24,Usos y actividades,Usos y ramas no acreditan empleo de residentes o proximidad peatonal.,Detallar movilidad y conexiones.,"47, 48, 51",Modificar,"33, 34, 38"
+25,Movilidad y accesibilidad,Mapa recortado y texto de líneas sin frecuencia o servicio actual contrastado.,Detallar movilidad y conexiones.,"49, 50",Sustituir,"35, 36, 37, 39"
+26,"Conflictos, fortalezas y síntesis funcional","Afirmaciones no medidas sobre bicicleta,estado de aceras y conexiones.",Detallar movilidad y conexiones.,"49, 50, 58, 59, 60",Sustituir,"35, 36, 37, 39, 40, 73, 74, 75, 76"
+27,"Calidad de vida, equipamientos y estructura comercial",Promedio de rentas por hogar sin ponderadores; equipamientos de redes diferentes.,Detallar movilidad y conexiones.,51,Sustituir,"38, 40"
+28,Cuestiones ambientales y trabajo de campo,"Ruido,humos,aparcamiento y conservación sin fecha o medición de campo aportada.",Detallar movilidad y conexiones.,50,Sustituir,"37, 39, 40, 77"
+29,Separador tejido urbano,"Separador sin criterios,objetivos o implicaciones.","Qué se analiza; criterios,objetivos e implicaciones en cada apartado.",No necesaria,Modificar,41
+30,"Ámbito ampliado: San Juan Bautista, San Pascual, Piovera y El Salvador",Diferenciar los tres distritos y no recortar conexiones del entorno.,Destacar historia y mapa general del tejido.,4,Modificar,"3, 42"
+31,"Evolución histórica 1956, 1976, 1996 y 2026",Rótulos 1956/1996/2026 sin correspondencia contrastada; faltan marcas de comparación.,Destacar historia y mapa general del tejido.,"35, 36, 37",Sustituir,"43, 44, 52"
+32,Llenos y vacíos,Cambiar denominación a espacio edificado; sin huella no equivale a espacio público.,Destacar historia y mapa general del tejido.,38,Sustituir,"45, 52"
+33,Parcelación San Juan Bautista,Falta fuente/fecha/escala y conviene comparar con intervalos comunes.,Destacar historia y mapa general del tejido.,42,Sustituir,"47, 52"
+34,Parcelación San Pascual,Falta fuente/fecha/escala y conviene comparar con intervalos comunes.,Destacar historia y mapa general del tejido.,42,Sustituir,"47, 52"
+35,Parcelación Piovera,Falta fuente/fecha/escala y conviene comparar con intervalos comunes.,Destacar historia y mapa general del tejido.,42,Sustituir,"47, 52"
+36,Parcelación El Salvador,Falta fuente/fecha/escala y conviene comparar con intervalos comunes.,Destacar historia y mapa general del tejido.,42,Sustituir,"47, 52"
+37,Edificación San Juan Bautista,Clasificación manual sin fecha; mejorar contraste y leyenda.,Destacar historia y mapa general del tejido.,39,Modificar,"46, 49"
+38,"Edificación: texto San Pascual, título San Juan Bautista","El título diceSan Juan Bautista,pero la lámina corresponde aSanPascual.",Destacar historia y mapa general del tejido.,39,Modificar,"46, 49"
+39,Edificación Piovera,Clasificación manual sin validación espacial externa; conservar alcance interpretativo.,Destacar historia y mapa general del tejido.,39,Modificar,"46, 49"
+40,Edificación El Salvador,Clasificación manual sin validación espacial externa; conservar alcance interpretativo.,Destacar historia y mapa general del tejido.,39,Modificar,"46, 49"
+41,Espacio público y privado San Juan Bautista,Porcentaje35/65 público/privado sin fuente ni cálculo verificable.,Destacar historia y mapa general del tejido.,"56, 57",Sustituir,"50, 77"
+42,Espacio público y privado San Pascual,Porcentaje50/50 público/privado sin fuente ni cálculo verificable.,Destacar historia y mapa general del tejido.,"56, 57",Sustituir,"50, 77"
+43,Espacio público y privado El Salvador,Porcentaje60/40 público/privado sin fuente ni cálculo verificable.,Destacar historia y mapa general del tejido.,"56, 57",Sustituir,"50, 77"
+44,Espacio público y privado Piovera,Porcentaje40/60 público/privado sin fuente ni cálculo verificable.,Destacar historia y mapa general del tejido.,"56, 57",Sustituir,"50, 77"
+45,Parcelación construida San Juan Bautista,Ocupación gráfica no certifica situación legal o vacancia de parcela.,Destacar historia y mapa general del tejido.,43,Sustituir,"51, 52"
+46,Parcelación construida San Pascual,Ocupación gráfica no certifica situación legal o vacancia de parcela.,Destacar historia y mapa general del tejido.,43,Sustituir,"51, 52"
+47,Parcelación construida El Salvador,Ocupación gráfica no certifica situación legal o vacancia de parcela.,Destacar historia y mapa general del tejido.,43,Sustituir,"51, 52"
+48,Parcelación construida Piovera,Ocupación gráfica no certifica situación legal o vacancia de parcela.,Destacar historia y mapa general del tejido.,43,Sustituir,"51, 52"
+49,Separador morfotipológico,"Separador sin criterios,objetivos o implicaciones.","Qué se analiza; criterios,objetivos e implicaciones en cada apartado.",No necesaria,Modificar,53
+50,Manzanas y parcelas,Leyendas pequeñas; aclarar manzana/parcela y mantener referencias1–3.,Mejorar morfotipología y reducir texto.,44,Modificar,"48, 54"
+51,Tipo 1: manzanas y parcelas,"Exceso de texto; no equiparar forma de manzana,parcela y tipología.",Mejorar morfotipología y reducir texto.,No necesaria,Modificar,"55, 58"
+52,Tipo 2: manzanas y parcelas,Exceso de texto y afirmaciones de acceso/propiedad no demostradas.,Mejorar morfotipología y reducir texto.,No necesaria,Modificar,"56, 58"
+53,Tipo 3: manzanas y parcelas,Exceso de texto; irregularidad y espacios interiores no prueban permeabilidad.,Mejorar morfotipología y reducir texto.,No necesaria,Modificar,"57, 58"
+54,Implicaciones tipológicas,"Implicaciones deben relacionar ocupación,altura y densidad.",Mejorar morfotipología y reducir texto.,45,Modificar,"58, 59, 60"
+55,Conclusión morfotipológica,Conclusión demasiado extensa y generalizaciones de trama.,Mejorar morfotipología y reducir texto.,"45, 58, 59, 60",Modificar,"59, 60, 61, 73, 74, 75, 76"
+56,Separador público y paisaje,"Separador sin criterios,objetivos o implicaciones.","Qué se analiza; criterios,objetivos e implicaciones en cada apartado.",No necesaria,Modificar,62
+57,Mapa de vías,Jerarquía viaria sin fuente; mejorar conexiones y simbolización.,"Más mapas,relaciones y revisión deLynch.",No necesaria,Sustituir,63
+58,"Espacio público: materiales, mobiliario, usos y equipamientos","Texto excesivo; materiales,uso,acceso y titularidad son dimensiones distintas.","Más mapas,relaciones y revisión deLynch.","13, 53, 54, 55, 57",Modificar,"64, 67, 68, 69, 70, 72"
+59,Secciones de calle del ámbito censal,"Collage original sin cotas,fecha o fuentes fotográficas individualizadas.","Más mapas,relaciones y revisión deLynch.",No necesaria,Conservar,"65, 72, 77"
+60,Secciones de calle de Arturo Soria,"Collage original sin cotas,fecha o fuentes fotográficas individualizadas.","Más mapas,relaciones y revisión deLynch.",No necesaria,Conservar,"66, 72, 77"
+61,Mapa mental de Lynch,Leyenda cromática poco diferenciada; cambio de trama; no se identifican hitos.,"Más mapas,relaciones y revisión deLynch.","58, 59, 60",Modificar,"71, 72, 73, 75, 76, 77"

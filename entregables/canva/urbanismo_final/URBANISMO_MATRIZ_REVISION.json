@@ -1,0 +1,551 @@
+[
+  {
+    "Página original": 1,
+    "Contenido": "Portada y delimitación de las tres secciones",
+    "Problemas detectados": "Portada sin índice ni paginación; situación territorial insuficiente.",
+    "Corrección del profesor relacionada": "Conservar concepto de portada; cambiar colorimetría; índice,paginación,situación y conexiones.",
+    "Páginas complementarias(142)": "2, 4, 5, 6, 7",
+    "Acción propuesta/ejecutada": "Modificar",
+    "Páginas finales": "1, 2, 3, 4, 5"
+  },
+  {
+    "Página original": 2,
+    "Contenido": "Separador sociodemográfico",
+    "Problemas detectados": "Separador sin criterios,objetivos o implicaciones.",
+    "Corrección del profesor relacionada": "Qué se analiza; criterios,objetivos e implicaciones en cada apartado.",
+    "Páginas complementarias(142)": "No necesaria",
+    "Acción propuesta/ejecutada": "Modificar",
+    "Páginas finales": "6"
+  },
+  {
+    "Página original": 3,
+    "Contenido": "Estructura por edad y sexo",
+    "Problemas detectados": "Conclusión de homogeneidad incompatible con las diferencias de edad entre secciones.",
+    "Corrección del profesor relacionada": "Más mapas y menos tablas/texto; gráficos adecuados; conclusiones e implicaciones relacionadas.",
+    "Páginas complementarias(142)": "10, 11, 12, 14",
+    "Acción propuesta/ejecutada": "Sustituir",
+    "Páginas finales": "7, 9, 11"
+  },
+  {
+    "Página original": 4,
+    "Contenido": "Evolución reciente y densidad de población",
+    "Problemas detectados": "Afirmación de crecimiento continuo no sostenida por la serie; tablas pequeñas.",
+    "Corrección del profesor relacionada": "Más mapas y menos tablas/texto; gráficos adecuados; conclusiones e implicaciones relacionadas.",
+    "Páginas complementarias(142)": "9, 13",
+    "Acción propuesta/ejecutada": "Sustituir",
+    "Páginas finales": "8, 10"
+  },
+  {
+    "Página original": 5,
+    "Contenido": "Saldo vegetativo y migratorio",
+    "Problemas detectados": "Saldos vegetativo y migratorio sin trazabilidad suficiente para conservar sus valores.",
+    "Corrección del profesor relacionada": "Más mapas y menos tablas/texto; gráficos adecuados; conclusiones e implicaciones relacionadas.",
+    "Páginas complementarias(142)": "9",
+    "Acción propuesta/ejecutada": "Sustituir",
+    "Páginas finales": "8"
+  },
+  {
+    "Página original": 6,
+    "Contenido": "Interpretación demográfica",
+    "Problemas detectados": "Conclusiones causales y generalización del envejecimiento a todo el ámbito.",
+    "Corrección del profesor relacionada": "Más mapas y menos tablas/texto; gráficos adecuados; conclusiones e implicaciones relacionadas.",
+    "Páginas complementarias(142)": "12, 14, 58, 59, 60",
+    "Acción propuesta/ejecutada": "Modificar",
+    "Páginas finales": "9, 11, 12, 73, 75, 76"
+  },
+  {
+    "Página original": 7,
+    "Contenido": "Separador socioeconómico",
+    "Problemas detectados": "Separador sin criterios,objetivos o implicaciones.",
+    "Corrección del profesor relacionada": "Qué se analiza; criterios,objetivos e implicaciones en cada apartado.",
+    "Páginas complementarias(142)": "No necesaria",
+    "Acción propuesta/ejecutada": "Modificar",
+    "Páginas finales": "13"
+  },
+  {
+    "Página original": 8,
+    "Contenido": "Renta y nivel de estudios",
+    "Problemas detectados": "Gráfico educativo mezclaTOTAL y una cifra monetaria; categorías y denominador incorrectos.",
+    "Corrección del profesor relacionada": "Más mapas y menos tablas/texto; gráficos adecuados; conclusiones e implicaciones relacionadas.",
+    "Páginas complementarias(142)": "17, 18, 19, 20",
+    "Acción propuesta/ejecutada": "Sustituir",
+    "Páginas finales": "14, 15, 16, 17"
+  },
+  {
+    "Página original": 9,
+    "Contenido": "Actividad, empleo, desempleo y sectores",
+    "Problemas detectados": "Rótulos de actividad/edad y tasas de empleo sin universo contrastado.",
+    "Corrección del profesor relacionada": "Más mapas y menos tablas/texto; gráficos adecuados; conclusiones e implicaciones relacionadas.",
+    "Páginas complementarias(142)": "47",
+    "Acción propuesta/ejecutada": "Sustituir",
+    "Páginas finales": "18, 33"
+  },
+  {
+    "Página original": 10,
+    "Contenido": "Perfil de actividades productivas",
+    "Problemas detectados": "Barras y tablas poco jerarquizadas; diferenciar actividad de locales y empleo residente.",
+    "Corrección del profesor relacionada": "Más mapas y menos tablas/texto; gráficos adecuados; conclusiones e implicaciones relacionadas.",
+    "Páginas complementarias(142)": "47, 48",
+    "Acción propuesta/ejecutada": "Modificar",
+    "Páginas finales": "18, 33, 34"
+  },
+  {
+    "Página original": 11,
+    "Contenido": "Interpretación socioeconómica",
+    "Problemas detectados": "Conclusiones extensas y perfil homogéneo excesivamente general.",
+    "Corrección del profesor relacionada": "Más mapas y menos tablas/texto; gráficos adecuados; conclusiones e implicaciones relacionadas.",
+    "Páginas complementarias(142)": "18, 20, 58, 59, 60",
+    "Acción propuesta/ejecutada": "Modificar",
+    "Páginas finales": "15, 16, 18, 73, 75, 76"
+  },
+  {
+    "Página original": 12,
+    "Contenido": "Separador residencial",
+    "Problemas detectados": "Separador sin criterios,objetivos o implicaciones.",
+    "Corrección del profesor relacionada": "Qué se analiza; criterios,objetivos e implicaciones en cada apartado.",
+    "Páginas complementarias(142)": "No necesaria",
+    "Acción propuesta/ejecutada": "Modificar",
+    "Páginas finales": "19"
+  },
+  {
+    "Página original": 13,
+    "Contenido": "Viviendas, densidad y antigüedad",
+    "Problemas detectados": "Tablas pequeñas y confusión potencial entre viviendas no principales y vacías.",
+    "Corrección del profesor relacionada": "Más mapas y menos tablas/texto; gráficos adecuados; conclusiones e implicaciones relacionadas.",
+    "Páginas complementarias(142)": "25",
+    "Acción propuesta/ejecutada": "Sustituir",
+    "Páginas finales": "22"
+  },
+  {
+    "Página original": 14,
+    "Contenido": "Tamaño de vivienda y tenencia",
+    "Problemas detectados": "Tamaño y tenencia necesitan formato comparativo y denominadores claros.",
+    "Corrección del profesor relacionada": "Más mapas y menos tablas/texto; gráficos adecuados; conclusiones e implicaciones relacionadas.",
+    "Páginas complementarias(142)": "23, 24",
+    "Acción propuesta/ejecutada": "Sustituir",
+    "Páginas finales": "20, 21"
+  },
+  {
+    "Página original": 15,
+    "Contenido": "Vivienda y estructura social",
+    "Problemas detectados": "Necesidad de relacionar hogares,edad y parque sin atribuir perfiles individuales.",
+    "Corrección del profesor relacionada": "Más mapas y menos tablas/texto; gráficos adecuados; conclusiones e implicaciones relacionadas.",
+    "Páginas complementarias(142)": "24",
+    "Acción propuesta/ejecutada": "Modificar",
+    "Páginas finales": "21, 24, 25"
+  },
+  {
+    "Página original": 16,
+    "Contenido": "Valor del suelo y vivienda: Catastro",
+    "Problemas detectados": "Valores catastrales no son precios de mercado; fuente y versión insuficientes.",
+    "Corrección del profesor relacionada": "Más mapas y menos tablas/texto; gráficos adecuados; conclusiones e implicaciones relacionadas.",
+    "Páginas complementarias(142)": "27",
+    "Acción propuesta/ejecutada": "Sustituir",
+    "Páginas finales": "23, 25, 77"
+  },
+  {
+    "Página original": 17,
+    "Contenido": "Interpretación residencial",
+    "Problemas detectados": "Párrafos y conclusiones sin enlace espacial directo.",
+    "Corrección del profesor relacionada": "Más mapas y menos tablas/texto; gráficos adecuados; conclusiones e implicaciones relacionadas.",
+    "Páginas complementarias(142)": "27, 58, 59, 60",
+    "Acción propuesta/ejecutada": "Modificar",
+    "Páginas finales": "23, 25, 73, 75, 76"
+  },
+  {
+    "Página original": 18,
+    "Contenido": "Separador vulnerabilidad",
+    "Problemas detectados": "Separador sin criterios,objetivos o implicaciones.",
+    "Corrección del profesor relacionada": "Qué se analiza; criterios,objetivos e implicaciones en cada apartado.",
+    "Páginas complementarias(142)": "No necesaria",
+    "Acción propuesta/ejecutada": "Modificar",
+    "Páginas finales": "26"
+  },
+  {
+    "Página original": 19,
+    "Contenido": "Identificación de grupos vulnerables",
+    "Problemas detectados": "Edad,nacionalidad o vivir solo no demuestran vulnerabilidad individual.",
+    "Corrección del profesor relacionada": "Más mapas y menos tablas/texto; gráficos adecuados; conclusiones e implicaciones relacionadas.",
+    "Páginas complementarias(142)": "31",
+    "Acción propuesta/ejecutada": "Modificar",
+    "Páginas finales": "27, 30"
+  },
+  {
+    "Página original": 20,
+    "Contenido": "Índices de vulnerabilidad y agentes locales",
+    "Problemas detectados": "Se mezcla8,36 de una esfera conIVTA; escalas y años heterogéneos; celdas incompletas.",
+    "Corrección del profesor relacionada": "Más mapas y menos tablas/texto; gráficos adecuados; conclusiones e implicaciones relacionadas.",
+    "Páginas complementarias(142)": "32, 33",
+    "Acción propuesta/ejecutada": "Sustituir",
+    "Páginas finales": "28, 29, 77"
+  },
+  {
+    "Página original": 21,
+    "Contenido": "Mapa social y tejido asociativo",
+    "Problemas detectados": "Mapa asociativo sin registro verificable de localización/actualización.",
+    "Corrección del profesor relacionada": "Más mapas y menos tablas/texto; gráficos adecuados; conclusiones e implicaciones relacionadas.",
+    "Páginas complementarias(142)": "31, 51",
+    "Acción propuesta/ejecutada": "Sustituir",
+    "Páginas finales": "27, 30, 38"
+  },
+  {
+    "Página original": 22,
+    "Contenido": "Interpretación de vulnerabilidad",
+    "Problemas detectados": "Síntesis genérica y escasa conexión con accesibilidad y residencia.",
+    "Corrección del profesor relacionada": "Más mapas y menos tablas/texto; gráficos adecuados; conclusiones e implicaciones relacionadas.",
+    "Páginas complementarias(142)": "58, 59, 60",
+    "Acción propuesta/ejecutada": "Modificar",
+    "Páginas finales": "30, 31, 73, 74, 75, 76"
+  },
+  {
+    "Página original": 23,
+    "Contenido": "Separador funcional y movilidad",
+    "Problemas detectados": "Separador sin criterios,objetivos o implicaciones.",
+    "Corrección del profesor relacionada": "Qué se analiza; criterios,objetivos e implicaciones en cada apartado.",
+    "Páginas complementarias(142)": "No necesaria",
+    "Acción propuesta/ejecutada": "Modificar",
+    "Páginas finales": "32"
+  },
+  {
+    "Página original": 24,
+    "Contenido": "Usos y actividades",
+    "Problemas detectados": "Usos y ramas no acreditan empleo de residentes o proximidad peatonal.",
+    "Corrección del profesor relacionada": "Detallar movilidad y conexiones.",
+    "Páginas complementarias(142)": "47, 48, 51",
+    "Acción propuesta/ejecutada": "Modificar",
+    "Páginas finales": "33, 34, 38"
+  },
+  {
+    "Página original": 25,
+    "Contenido": "Movilidad y accesibilidad",
+    "Problemas detectados": "Mapa recortado y texto de líneas sin frecuencia o servicio actual contrastado.",
+    "Corrección del profesor relacionada": "Detallar movilidad y conexiones.",
+    "Páginas complementarias(142)": "49, 50",
+    "Acción propuesta/ejecutada": "Sustituir",
+    "Páginas finales": "35, 36, 37, 39"
+  },
+  {
+    "Página original": 26,
+    "Contenido": "Conflictos, fortalezas y síntesis funcional",
+    "Problemas detectados": "Afirmaciones no medidas sobre bicicleta,estado de aceras y conexiones.",
+    "Corrección del profesor relacionada": "Detallar movilidad y conexiones.",
+    "Páginas complementarias(142)": "49, 50, 58, 59, 60",
+    "Acción propuesta/ejecutada": "Sustituir",
+    "Páginas finales": "35, 36, 37, 39, 40, 73, 74, 75, 76"
+  },
+  {
+    "Página original": 27,
+    "Contenido": "Calidad de vida, equipamientos y estructura comercial",
+    "Problemas detectados": "Promedio de rentas por hogar sin ponderadores; equipamientos de redes diferentes.",
+    "Corrección del profesor relacionada": "Detallar movilidad y conexiones.",
+    "Páginas complementarias(142)": "51",
+    "Acción propuesta/ejecutada": "Sustituir",
+    "Páginas finales": "38, 40"
+  },
+  {
+    "Página original": 28,
+    "Contenido": "Cuestiones ambientales y trabajo de campo",
+    "Problemas detectados": "Ruido,humos,aparcamiento y conservación sin fecha o medición de campo aportada.",
+    "Corrección del profesor relacionada": "Detallar movilidad y conexiones.",
+    "Páginas complementarias(142)": "50",
+    "Acción propuesta/ejecutada": "Sustituir",
+    "Páginas finales": "37, 39, 40, 77"
+  },
+  {
+    "Página original": 29,
+    "Contenido": "Separador tejido urbano",
+    "Problemas detectados": "Separador sin criterios,objetivos o implicaciones.",
+    "Corrección del profesor relacionada": "Qué se analiza; criterios,objetivos e implicaciones en cada apartado.",
+    "Páginas complementarias(142)": "No necesaria",
+    "Acción propuesta/ejecutada": "Modificar",
+    "Páginas finales": "41"
+  },
+  {
+    "Página original": 30,
+    "Contenido": "Ámbito ampliado: San Juan Bautista, San Pascual, Piovera y El Salvador",
+    "Problemas detectados": "Diferenciar los tres distritos y no recortar conexiones del entorno.",
+    "Corrección del profesor relacionada": "Destacar historia y mapa general del tejido.",
+    "Páginas complementarias(142)": "4",
+    "Acción propuesta/ejecutada": "Modificar",
+    "Páginas finales": "3, 42"
+  },
+  {
+    "Página original": 31,
+    "Contenido": "Evolución histórica 1956, 1976, 1996 y 2026",
+    "Problemas detectados": "Rótulos 1956/1996/2026 sin correspondencia contrastada; faltan marcas de comparación.",
+    "Corrección del profesor relacionada": "Destacar historia y mapa general del tejido.",
+    "Páginas complementarias(142)": "35, 36, 37",
+    "Acción propuesta/ejecutada": "Sustituir",
+    "Páginas finales": "43, 44, 52"
+  },
+  {
+    "Página original": 32,
+    "Contenido": "Llenos y vacíos",
+    "Problemas detectados": "Cambiar denominación a espacio edificado; sin huella no equivale a espacio público.",
+    "Corrección del profesor relacionada": "Destacar historia y mapa general del tejido.",
+    "Páginas complementarias(142)": "38",
+    "Acción propuesta/ejecutada": "Sustituir",
+    "Páginas finales": "45, 52"
+  },
+  {
+    "Página original": 33,
+    "Contenido": "Parcelación San Juan Bautista",
+    "Problemas detectados": "Falta fuente/fecha/escala y conviene comparar con intervalos comunes.",
+    "Corrección del profesor relacionada": "Destacar historia y mapa general del tejido.",
+    "Páginas complementarias(142)": "42",
+    "Acción propuesta/ejecutada": "Sustituir",
+    "Páginas finales": "47, 52"
+  },
+  {
+    "Página original": 34,
+    "Contenido": "Parcelación San Pascual",
+    "Problemas detectados": "Falta fuente/fecha/escala y conviene comparar con intervalos comunes.",
+    "Corrección del profesor relacionada": "Destacar historia y mapa general del tejido.",
+    "Páginas complementarias(142)": "42",
+    "Acción propuesta/ejecutada": "Sustituir",
+    "Páginas finales": "47, 52"
+  },
+  {
+    "Página original": 35,
+    "Contenido": "Parcelación Piovera",
+    "Problemas detectados": "Falta fuente/fecha/escala y conviene comparar con intervalos comunes.",
+    "Corrección del profesor relacionada": "Destacar historia y mapa general del tejido.",
+    "Páginas complementarias(142)": "42",
+    "Acción propuesta/ejecutada": "Sustituir",
+    "Páginas finales": "47, 52"
+  },
+  {
+    "Página original": 36,
+    "Contenido": "Parcelación El Salvador",
+    "Problemas detectados": "Falta fuente/fecha/escala y conviene comparar con intervalos comunes.",
+    "Corrección del profesor relacionada": "Destacar historia y mapa general del tejido.",
+    "Páginas complementarias(142)": "42",
+    "Acción propuesta/ejecutada": "Sustituir",
+    "Páginas finales": "47, 52"
+  },
+  {
+    "Página original": 37,
+    "Contenido": "Edificación San Juan Bautista",
+    "Problemas detectados": "Clasificación manual sin fecha; mejorar contraste y leyenda.",
+    "Corrección del profesor relacionada": "Destacar historia y mapa general del tejido.",
+    "Páginas complementarias(142)": "39",
+    "Acción propuesta/ejecutada": "Modificar",
+    "Páginas finales": "46, 49"
+  },
+  {
+    "Página original": 38,
+    "Contenido": "Edificación: texto San Pascual, título San Juan Bautista",
+    "Problemas detectados": "El título diceSan Juan Bautista,pero la lámina corresponde aSanPascual.",
+    "Corrección del profesor relacionada": "Destacar historia y mapa general del tejido.",
+    "Páginas complementarias(142)": "39",
+    "Acción propuesta/ejecutada": "Modificar",
+    "Páginas finales": "46, 49"
+  },
+  {
+    "Página original": 39,
+    "Contenido": "Edificación Piovera",
+    "Problemas detectados": "Clasificación manual sin validación espacial externa; conservar alcance interpretativo.",
+    "Corrección del profesor relacionada": "Destacar historia y mapa general del tejido.",
+    "Páginas complementarias(142)": "39",
+    "Acción propuesta/ejecutada": "Modificar",
+    "Páginas finales": "46, 49"
+  },
+  {
+    "Página original": 40,
+    "Contenido": "Edificación El Salvador",
+    "Problemas detectados": "Clasificación manual sin validación espacial externa; conservar alcance interpretativo.",
+    "Corrección del profesor relacionada": "Destacar historia y mapa general del tejido.",
+    "Páginas complementarias(142)": "39",
+    "Acción propuesta/ejecutada": "Modificar",
+    "Páginas finales": "46, 49"
+  },
+  {
+    "Página original": 41,
+    "Contenido": "Espacio público y privado San Juan Bautista",
+    "Problemas detectados": "Porcentaje35/65 público/privado sin fuente ni cálculo verificable.",
+    "Corrección del profesor relacionada": "Destacar historia y mapa general del tejido.",
+    "Páginas complementarias(142)": "56, 57",
+    "Acción propuesta/ejecutada": "Sustituir",
+    "Páginas finales": "50, 77"
+  },
+  {
+    "Página original": 42,
+    "Contenido": "Espacio público y privado San Pascual",
+    "Problemas detectados": "Porcentaje50/50 público/privado sin fuente ni cálculo verificable.",
+    "Corrección del profesor relacionada": "Destacar historia y mapa general del tejido.",
+    "Páginas complementarias(142)": "56, 57",
+    "Acción propuesta/ejecutada": "Sustituir",
+    "Páginas finales": "50, 77"
+  },
+  {
+    "Página original": 43,
+    "Contenido": "Espacio público y privado El Salvador",
+    "Problemas detectados": "Porcentaje60/40 público/privado sin fuente ni cálculo verificable.",
+    "Corrección del profesor relacionada": "Destacar historia y mapa general del tejido.",
+    "Páginas complementarias(142)": "56, 57",
+    "Acción propuesta/ejecutada": "Sustituir",
+    "Páginas finales": "50, 77"
+  },
+  {
+    "Página original": 44,
+    "Contenido": "Espacio público y privado Piovera",
+    "Problemas detectados": "Porcentaje40/60 público/privado sin fuente ni cálculo verificable.",
+    "Corrección del profesor relacionada": "Destacar historia y mapa general del tejido.",
+    "Páginas complementarias(142)": "56, 57",
+    "Acción propuesta/ejecutada": "Sustituir",
+    "Páginas finales": "50, 77"
+  },
+  {
+    "Página original": 45,
+    "Contenido": "Parcelación construida San Juan Bautista",
+    "Problemas detectados": "Ocupación gráfica no certifica situación legal o vacancia de parcela.",
+    "Corrección del profesor relacionada": "Destacar historia y mapa general del tejido.",
+    "Páginas complementarias(142)": "43",
+    "Acción propuesta/ejecutada": "Sustituir",
+    "Páginas finales": "51, 52"
+  },
+  {
+    "Página original": 46,
+    "Contenido": "Parcelación construida San Pascual",
+    "Problemas detectados": "Ocupación gráfica no certifica situación legal o vacancia de parcela.",
+    "Corrección del profesor relacionada": "Destacar historia y mapa general del tejido.",
+    "Páginas complementarias(142)": "43",
+    "Acción propuesta/ejecutada": "Sustituir",
+    "Páginas finales": "51, 52"
+  },
+  {
+    "Página original": 47,
+    "Contenido": "Parcelación construida El Salvador",
+    "Problemas detectados": "Ocupación gráfica no certifica situación legal o vacancia de parcela.",
+    "Corrección del profesor relacionada": "Destacar historia y mapa general del tejido.",
+    "Páginas complementarias(142)": "43",
+    "Acción propuesta/ejecutada": "Sustituir",
+    "Páginas finales": "51, 52"
+  },
+  {
+    "Página original": 48,
+    "Contenido": "Parcelación construida Piovera",
+    "Problemas detectados": "Ocupación gráfica no certifica situación legal o vacancia de parcela.",
+    "Corrección del profesor relacionada": "Destacar historia y mapa general del tejido.",
+    "Páginas complementarias(142)": "43",
+    "Acción propuesta/ejecutada": "Sustituir",
+    "Páginas finales": "51, 52"
+  },
+  {
+    "Página original": 49,
+    "Contenido": "Separador morfotipológico",
+    "Problemas detectados": "Separador sin criterios,objetivos o implicaciones.",
+    "Corrección del profesor relacionada": "Qué se analiza; criterios,objetivos e implicaciones en cada apartado.",
+    "Páginas complementarias(142)": "No necesaria",
+    "Acción propuesta/ejecutada": "Modificar",
+    "Páginas finales": "53"
+  },
+  {
+    "Página original": 50,
+    "Contenido": "Manzanas y parcelas",
+    "Problemas detectados": "Leyendas pequeñas; aclarar manzana/parcela y mantener referencias1–3.",
+    "Corrección del profesor relacionada": "Mejorar morfotipología y reducir texto.",
+    "Páginas complementarias(142)": "44",
+    "Acción propuesta/ejecutada": "Modificar",
+    "Páginas finales": "48, 54"
+  },
+  {
+    "Página original": 51,
+    "Contenido": "Tipo 1: manzanas y parcelas",
+    "Problemas detectados": "Exceso de texto; no equiparar forma de manzana,parcela y tipología.",
+    "Corrección del profesor relacionada": "Mejorar morfotipología y reducir texto.",
+    "Páginas complementarias(142)": "No necesaria",
+    "Acción propuesta/ejecutada": "Modificar",
+    "Páginas finales": "55, 58"
+  },
+  {
+    "Página original": 52,
+    "Contenido": "Tipo 2: manzanas y parcelas",
+    "Problemas detectados": "Exceso de texto y afirmaciones de acceso/propiedad no demostradas.",
+    "Corrección del profesor relacionada": "Mejorar morfotipología y reducir texto.",
+    "Páginas complementarias(142)": "No necesaria",
+    "Acción propuesta/ejecutada": "Modificar",
+    "Páginas finales": "56, 58"
+  },
+  {
+    "Página original": 53,
+    "Contenido": "Tipo 3: manzanas y parcelas",
+    "Problemas detectados": "Exceso de texto; irregularidad y espacios interiores no prueban permeabilidad.",
+    "Corrección del profesor relacionada": "Mejorar morfotipología y reducir texto.",
+    "Páginas complementarias(142)": "No necesaria",
+    "Acción propuesta/ejecutada": "Modificar",
+    "Páginas finales": "57, 58"
+  },
+  {
+    "Página original": 54,
+    "Contenido": "Implicaciones tipológicas",
+    "Problemas detectados": "Implicaciones deben relacionar ocupación,altura y densidad.",
+    "Corrección del profesor relacionada": "Mejorar morfotipología y reducir texto.",
+    "Páginas complementarias(142)": "45",
+    "Acción propuesta/ejecutada": "Modificar",
+    "Páginas finales": "58, 59, 60"
+  },
+  {
+    "Página original": 55,
+    "Contenido": "Conclusión morfotipológica",
+    "Problemas detectados": "Conclusión demasiado extensa y generalizaciones de trama.",
+    "Corrección del profesor relacionada": "Mejorar morfotipología y reducir texto.",
+    "Páginas complementarias(142)": "45, 58, 59, 60",
+    "Acción propuesta/ejecutada": "Modificar",
+    "Páginas finales": "59, 60, 61, 73, 74, 75, 76"
+  },
+  {
+    "Página original": 56,
+    "Contenido": "Separador público y paisaje",
+    "Problemas detectados": "Separador sin criterios,objetivos o implicaciones.",
+    "Corrección del profesor relacionada": "Qué se analiza; criterios,objetivos e implicaciones en cada apartado.",
+    "Páginas complementarias(142)": "No necesaria",
+    "Acción propuesta/ejecutada": "Modificar",
+    "Páginas finales": "62"
+  },
+  {
+    "Página original": 57,
+    "Contenido": "Mapa de vías",
+    "Problemas detectados": "Jerarquía viaria sin fuente; mejorar conexiones y simbolización.",
+    "Corrección del profesor relacionada": "Más mapas,relaciones y revisión deLynch.",
+    "Páginas complementarias(142)": "No necesaria",
+    "Acción propuesta/ejecutada": "Sustituir",
+    "Páginas finales": "63"
+  },
+  {
+    "Página original": 58,
+    "Contenido": "Espacio público: materiales, mobiliario, usos y equipamientos",
+    "Problemas detectados": "Texto excesivo; materiales,uso,acceso y titularidad son dimensiones distintas.",
+    "Corrección del profesor relacionada": "Más mapas,relaciones y revisión deLynch.",
+    "Páginas complementarias(142)": "13, 53, 54, 55, 57",
+    "Acción propuesta/ejecutada": "Modificar",
+    "Páginas finales": "64, 67, 68, 69, 70, 72"
+  },
+  {
+    "Página original": 59,
+    "Contenido": "Secciones de calle del ámbito censal",
+    "Problemas detectados": "Collage original sin cotas,fecha o fuentes fotográficas individualizadas.",
+    "Corrección del profesor relacionada": "Más mapas,relaciones y revisión deLynch.",
+    "Páginas complementarias(142)": "No necesaria",
+    "Acción propuesta/ejecutada": "Conservar",
+    "Páginas finales": "65, 72, 77"
+  },
+  {
+    "Página original": 60,
+    "Contenido": "Secciones de calle de Arturo Soria",
+    "Problemas detectados": "Collage original sin cotas,fecha o fuentes fotográficas individualizadas.",
+    "Corrección del profesor relacionada": "Más mapas,relaciones y revisión deLynch.",
+    "Páginas complementarias(142)": "No necesaria",
+    "Acción propuesta/ejecutada": "Conservar",
+    "Páginas finales": "66, 72, 77"
+  },
+  {
+    "Página original": 61,
+    "Contenido": "Mapa mental de Lynch",
+    "Problemas detectados": "Leyenda cromática poco diferenciada; cambio de trama; no se identifican hitos.",
+    "Corrección del profesor relacionada": "Más mapas,relaciones y revisión deLynch.",
+    "Páginas complementarias(142)": "58, 59, 60",
+    "Acción propuesta/ejecutada": "Modificar",
+    "Páginas finales": "71, 72, 73, 75, 76, 77"
+  }
+]

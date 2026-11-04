@@ -1,0 +1,1354 @@
+{
+  "paginas": 78,
+  "capitulos": {
+    "1": 6,
+    "2": 13,
+    "3": 19,
+    "4": 26,
+    "5": 32,
+    "6": 41,
+    "7": 53,
+    "8": 62
+  },
+  "diapositivas": [
+    {
+      "pagina_final": 1,
+      "titulo": "CIUDAD Y URBANISMO",
+      "bloque": 0,
+      "paginas_original": [
+        1
+      ],
+      "paginas_complemento": [],
+      "tipo": "portada",
+      "fuente": "Reinterpretación de la portada original,Grupo09,p1; base y delimitación oficial Ayuntamiento de Madrid,Geoportal/SIGMA. Consulta04/11/2026."
+    },
+    {
+      "pagina_final": 2,
+      "titulo": "Índice",
+      "bloque": 0,
+      "paginas_original": [
+        1
+      ],
+      "paginas_complemento": [
+        2
+      ],
+      "tipo": "indice"
+    },
+    {
+      "pagina_final": 3,
+      "titulo": "Situación: Madrid, barrio y conexiones",
+      "bloque": 0,
+      "paginas_original": [
+        1,
+        30
+      ],
+      "paginas_complemento": [
+        4
+      ],
+      "tipo": "mapa",
+      "conclusion": "LaM-30 y laA-2 estructuran el borde; ArturoSoria y Ramón yCajal conectan el barrio con su entorno.",
+      "fuente": "Ayto. Madrid, Geoportal/SIGMA, distritos/barrios y viales nominales; consulta04/11/2026. Escalas gráficas en cada panel."
+    },
+    {
+      "pagina_final": 4,
+      "titulo": "Del barrio a las tres secciones de estudio",
+      "bloque": 0,
+      "paginas_original": [
+        1
+      ],
+      "paginas_complemento": [
+        5
+      ],
+      "tipo": "mapa",
+      "conclusion": "Se mantienen dos lecturas: el barrio completo proporciona contexto y las tres secciones revelan diferencias próximas.",
+      "fuente": "Ayto. Madrid, explotación municipal del Padrón, BDM 0302010203232/0302010203242, 2026; límites Geoportal/SIGMA24–25, EPSG:25830."
+    },
+    {
+      "pagina_final": 5,
+      "titulo": "Objetivos, criterios y escalas del análisis",
+      "bloque": 0,
+      "paginas_original": [
+        1
+      ],
+      "paginas_complemento": [
+        6,
+        7
+      ],
+      "tipo": "relaciones",
+      "conclusion": "Padrón2026,renta2023,alquiler2024,vivienda2021,actividades2023 eIGUALA2024 conservan sus propios universos.",
+      "fuente": "Metodologías de las fuentes originales; Libro de datos y registro de cambios."
+    },
+    {
+      "pagina_final": 6,
+      "titulo": "Sociodemográfico",
+      "bloque": 1,
+      "paginas_original": [
+        2
+      ],
+      "paginas_complemento": [],
+      "tipo": "inicio_apartado",
+      "fuente": "Revisión del apartado original y fuentes específicas identificadas en las figuras siguientes."
+    },
+    {
+      "pagina_final": 7,
+      "titulo": "Edad y sexo: contrastes entre las tres secciones",
+      "bloque": 1,
+      "paginas_original": [
+        3
+      ],
+      "paginas_complemento": [
+        10,
+        11
+      ],
+      "tipo": "grafico",
+      "conclusion": "Las necesidades de cuidados y vivienda accesible no se distribuyen uniformemente.",
+      "fuente": "Ayto. Madrid · explotación municipal del Padrón · BDM · series 0302010203232, 0302010203242"
+    },
+    {
+      "pagina_final": 8,
+      "titulo": "Evolución de población: crecimiento con oscilaciones",
+      "bloque": 1,
+      "paginas_original": [
+        4,
+        5
+      ],
+      "paginas_complemento": [
+        9
+      ],
+      "tipo": "grafico",
+      "conclusion": "La evolución por código debe contrastarse con vivienda y composición de hogares; los límites históricos no están armonizados.",
+      "fuente": "Ayto. Madrid · explotación municipal del Padrón · BDM · series 0302010203231, 0302010203232, 0302010203241, 0302010203242"
+    },
+    {
+      "pagina_final": 9,
+      "titulo": "Composición por edades: sección,barrio y ciudad",
+      "bloque": 1,
+      "paginas_original": [
+        3,
+        6
+      ],
+      "paginas_complemento": [
+        12
+      ],
+      "tipo": "grafico",
+      "conclusion": "Volumen de población y estructura por edades expresan demandas distintas.",
+      "fuente": "Ayto. Madrid · explotación municipal del Padrón · BDM · series 0302010203232, 0302010203242"
+    },
+    {
+      "pagina_final": 10,
+      "titulo": "Densidad: intensidad residencial y soporte físico",
+      "bloque": 1,
+      "paginas_original": [
+        4
+      ],
+      "paginas_complemento": [
+        13
+      ],
+      "tipo": "mapa",
+      "conclusion": "15180 alcanza32.902hab./km²,frente a9.228 en15148. La densidad debe leerse junto a huella,altura y espacios libres.",
+      "fuente": "Ayto. Madrid, explotación municipal del Padrón, BDM 0302010203232/0302010203242, 2026; límites Geoportal/SIGMA24–25, EPSG:25830."
+    },
+    {
+      "pagina_final": 11,
+      "titulo": "Población de80y más: localización de necesidades potenciales",
+      "bloque": 1,
+      "paginas_original": [
+        3,
+        6
+      ],
+      "paginas_complemento": [
+        14
+      ],
+      "tipo": "mapa",
+      "conclusion": "15148 registra12,1% de80y más;15180,2,7%. Edad avanzada no equivale a dependencia individual.",
+      "fuente": "Ayto. Madrid, explotación municipal del Padrón, BDM 0302010203232/0302010203242, 2026; límites Geoportal/SIGMA24–25, EPSG:25830."
+    },
+    {
+      "pagina_final": 12,
+      "titulo": "Demografía: de los perfiles a las preguntas urbanas",
+      "bloque": 1,
+      "paginas_original": [
+        6
+      ],
+      "paginas_complemento": [],
+      "tipo": "sintesis",
+      "conclusion": "El ámbito exige respuestas diferenciadas; los datos no acreditan déficits de servicio por sí solos.",
+      "fuente": "Ayto. Madrid, explotación municipal del Padrón, BDM 0302010203232/0302010203242, 2026; límites Geoportal/SIGMA24–25, EPSG:25830."
+    },
+    {
+      "pagina_final": 13,
+      "titulo": "Socioeconómico",
+      "bloque": 2,
+      "paginas_original": [
+        7
+      ],
+      "paginas_complemento": [],
+      "tipo": "inicio_apartado",
+      "fuente": "Revisión del apartado original y fuentes específicas identificadas en las figuras siguientes."
+    },
+    {
+      "pagina_final": 14,
+      "titulo": "Renta neta por persona: diferencias dentro del ámbito",
+      "bloque": 2,
+      "paginas_original": [
+        8
+      ],
+      "paginas_complemento": [
+        17
+      ],
+      "tipo": "grafico",
+      "conclusion": "La renta media del barrio no representa por igual a las tres secciones.",
+      "fuente": "INE · Atlas de renta · difusión Banco de Datos de Madrid · series 0403010000010, 0403010000020"
+    },
+    {
+      "pagina_final": 15,
+      "titulo": "Distribución territorial de la renta neta por persona",
+      "bloque": 2,
+      "paginas_original": [
+        8,
+        11
+      ],
+      "paginas_complemento": [
+        20
+      ],
+      "tipo": "mapa",
+      "conclusion": "Las diferencias entre secciones son próximas espacialmente. No se infiere desigualdad individual a partir de medias.",
+      "fuente": "INE, Atlas de distribución de renta de los hogares, ingresos2023; BDM 0403010000010/0403010000020; límites SIGMA24–25."
+    },
+    {
+      "pagina_final": 16,
+      "titulo": "Evolución de la renta neta por persona",
+      "bloque": 2,
+      "paginas_original": [
+        8,
+        11
+      ],
+      "paginas_complemento": [
+        18
+      ],
+      "tipo": "grafico",
+      "conclusion": "Nivel inicial,inflación y cambios de composición deben acompañar la lectura de evolución.",
+      "fuente": "INE · Atlas de renta · difusión Banco de Datos de Madrid · series 0403010000010, 0403010000020"
+    },
+    {
+      "pagina_final": 17,
+      "titulo": "Titulaciones universitarias identificadas en el Padrón",
+      "bloque": 2,
+      "paginas_original": [
+        8
+      ],
+      "paginas_complemento": [
+        19
+      ],
+      "tipo": "grafico",
+      "conclusion": "El perfil educativo complementa la renta; no constituye una medición de empleo de residentes.",
+      "fuente": "Ayto. Madrid · explotación municipal del Padrón · BDM · series 0302010700012, 0302010700052"
+    },
+    {
+      "pagina_final": 18,
+      "titulo": "Recursos,educación y funcionamiento económico",
+      "bloque": 2,
+      "paginas_original": [
+        9,
+        10,
+        11
+      ],
+      "paginas_complemento": [],
+      "tipo": "relaciones",
+      "conclusion": "Los tres enfoques son complementarios; no se mantienen tasas de paro del original sin un universo y denominador contrastados.",
+      "fuente": "INE, Atlas de distribución de renta de los hogares, ingresos2023; BDM 0403010000010/0403010000020; límites SIGMA24–25. Padrón2026 y Censo de Locales y Actividades,BDM0402040000042."
+    },
+    {
+      "pagina_final": 19,
+      "titulo": "Residencial",
+      "bloque": 3,
+      "paginas_original": [
+        12
+      ],
+      "paginas_complemento": [],
+      "tipo": "inicio_apartado",
+      "fuente": "Revisión del apartado original y fuentes específicas identificadas en las figuras siguientes."
+    },
+    {
+      "pagina_final": 20,
+      "titulo": "Tenencia de las viviendas principales",
+      "bloque": 3,
+      "paginas_original": [
+        14
+      ],
+      "paginas_complemento": [
+        23
+      ],
+      "tipo": "grafico",
+      "conclusion": "Propiedad predominante y mercado de alquiler conviven. Viviendas no principales no significa viviendas vacías.",
+      "fuente": "INE · Censo de Población y Viviendas 2021 · difusión BDM · series 0303050200040"
+    },
+    {
+      "pagina_final": 21,
+      "titulo": "Superficie útil de las viviendas: perfiles territoriales",
+      "bloque": 3,
+      "paginas_original": [
+        14,
+        15
+      ],
+      "paginas_complemento": [
+        24
+      ],
+      "tipo": "grafico",
+      "conclusion": "El tamaño debe relacionarse con la composición de hogares; no mide hacinamiento ni superficie disponible por persona.",
+      "fuente": "INE · Censo de Población y Viviendas 2021 · difusión BDM · series 0303050200030"
+    },
+    {
+      "pagina_final": 22,
+      "titulo": "Antigüedad del parque residencial",
+      "bloque": 3,
+      "paginas_original": [
+        13
+      ],
+      "paginas_complemento": [
+        25
+      ],
+      "tipo": "grafico",
+      "conclusion": "La cronología orienta el estudio del parque,pero no certifica su estado o accesibilidad.",
+      "fuente": "INE · Censo de Población y Viviendas 2021 · difusión BDM · series 0303050200010"
+    },
+    {
+      "pagina_final": 23,
+      "titulo": "Alquiler observado: diferencias entre secciones",
+      "bloque": 3,
+      "paginas_original": [
+        16,
+        17
+      ],
+      "paginas_complemento": [
+        27
+      ],
+      "tipo": "mapa",
+      "conclusion": "Las medianas15148/15178/15180 son11,97/15,75/15,97€/m²/mes. No son precios de anuncios ni valores catastrales.",
+      "fuente": "MIVAU, Sistema Estatal de Referencia del Precio del Alquiler de Vivienda, fuentes tributarias2024; BDM0504040000010/20; SIGMA24–25."
+    },
+    {
+      "pagina_final": 24,
+      "titulo": "Tamaño medio del hogar y configuración residencial",
+      "bloque": 3,
+      "paginas_original": [
+        15
+      ],
+      "paginas_complemento": [
+        24
+      ],
+      "tipo": "mapa",
+      "conclusion": "La composición de hogares ayuda a interpretar la demanda residencial sin confundir tamaño del hogar con tamaño de vivienda.",
+      "fuente": "Ayto. Madrid, explotación municipal del Padrón, BDM 0302010203232/0302010203242, 2026; límites Geoportal/SIGMA24–25, EPSG:25830. Hogares:BDM0302010600102."
+    },
+    {
+      "pagina_final": 25,
+      "titulo": "Vivienda,envejecimiento y acceso al parque",
+      "bloque": 3,
+      "paginas_original": [
+        15,
+        16,
+        17
+      ],
+      "paginas_complemento": [],
+      "tipo": "relaciones",
+      "conclusion": "No se calcula esfuerzo de alquiler mezclando renta2023 y medianas tributarias2024 de universos distintos.",
+      "fuente": "INE,Censo2021 yADRH2023;MIVAU-SEIR2024;Padrón municipal2026."
+    },
+    {
+      "pagina_final": 26,
+      "titulo": "Vulnerabilidad urbana",
+      "bloque": 4,
+      "paginas_original": [
+        18
+      ],
+      "paginas_complemento": [],
+      "tipo": "inicio_apartado",
+      "fuente": "Revisión del apartado original y fuentes específicas identificadas en las figuras siguientes."
+    },
+    {
+      "pagina_final": 27,
+      "titulo": "Hogares de mayores que viven solos",
+      "bloque": 4,
+      "paginas_original": [
+        19,
+        21
+      ],
+      "paginas_complemento": [
+        31
+      ],
+      "tipo": "mapa",
+      "conclusion": "15148 alcanza21,6% de hogares con una persona de65y más que vive sola. No prueba soledad no deseada.",
+      "fuente": "Ayto. Madrid, explotación municipal del Padrón, BDM 0302010203232/0302010203242, 2026; límites Geoportal/SIGMA24–25, EPSG:25830. Hogares:BDM0302010600102."
+    },
+    {
+      "pagina_final": 28,
+      "titulo": "IGUALA: contexto de vulnerabilidad del distrito",
+      "bloque": 4,
+      "paginas_original": [
+        20
+      ],
+      "paginas_complemento": [
+        32
+      ],
+      "tipo": "grafico",
+      "conclusion": "CiudadLineal queda por debajo de la referencia ciudad. Su valor no se atribuye al barrio ni a las secciones.",
+      "fuente": "Ayto. Madrid,IGUALA,archivo300577-1,hoja«Vul.esferas distritos»,Fecha datos2024."
+    },
+    {
+      "pagina_final": 29,
+      "titulo": "Vulnerabilidad por esferas: Ciudad Lineal y Madrid",
+      "bloque": 4,
+      "paginas_original": [
+        20
+      ],
+      "paginas_complemento": [
+        33
+      ],
+      "tipo": "grafico",
+      "conclusion": "El desglose revela dimensiones distintas; no hay un único perfil local deducible del índice distrital.",
+      "fuente": "Ayto. Madrid · IGUALA · 300577-1 · Vul. esferas distritos · 2024; límites: Geoportal"
+    },
+    {
+      "pagina_final": 30,
+      "titulo": "Vulnerabilidad potencial: lectura por sección",
+      "bloque": 4,
+      "paginas_original": [
+        19,
+        21,
+        22
+      ],
+      "paginas_complemento": [],
+      "tipo": "sintesis",
+      "conclusion": "No se fabrica un índice de vulnerabilidad ni se deducen pobreza,dependencia o aislamiento individual.",
+      "fuente": "Ayto. Madrid, explotación municipal del Padrón, BDM 0302010203232/0302010203242, 2026; límites Geoportal/SIGMA24–25, EPSG:25830. Hogares2026;INE,ADRH2023."
+    },
+    {
+      "pagina_final": 31,
+      "titulo": "Cuidados y accesibilidad: una relación que debe comprobarse",
+      "bloque": 4,
+      "paginas_original": [
+        22
+      ],
+      "paginas_complemento": [],
+      "tipo": "relaciones",
+      "conclusion": "La proximidad de un centro no acredita acceso efectivo; las conclusiones enlazan con movilidad y espacio público.",
+      "fuente": "Padrón2026;Censo2021;IGUALA2024;inventariosGeoportal consultados04/11/2026."
+    },
+    {
+      "pagina_final": 32,
+      "titulo": "Funcional y movilidad",
+      "bloque": 5,
+      "paginas_original": [
+        23
+      ],
+      "paginas_complemento": [],
+      "tipo": "inicio_apartado",
+      "fuente": "Revisión del apartado original y fuentes específicas identificadas en las figuras siguientes."
+    },
+    {
+      "pagina_final": 33,
+      "titulo": "Actividades en locales abiertos: perfil del barrio",
+      "bloque": 5,
+      "paginas_original": [
+        9,
+        10,
+        24
+      ],
+      "paginas_complemento": [
+        47
+      ],
+      "tipo": "grafico",
+      "conclusion": "El perfil funcional exige contraste espacial y horarios; la rama de comercio no demuestra por sí sola proximidad.",
+      "fuente": "Ayto. Madrid, Censo de Locales y Actividades; BDM, serie 0402040000042; puerta de calle y agrupados, julio 2018–julio 2023."
+    },
+    {
+      "pagina_final": 34,
+      "titulo": "Evolución de las actividades en locales abiertos",
+      "bloque": 5,
+      "paginas_original": [
+        10,
+        24
+      ],
+      "paginas_complemento": [
+        48
+      ],
+      "tipo": "grafico",
+      "conclusion": "La estabilidad del total puede ocultar sustituciones de ramas o establecimientos.",
+      "fuente": "Ayto. Madrid, Censo de Locales y Actividades; BDM, serie 0402040000042; puerta de calle y agrupados, julio 2018–julio 2023."
+    },
+    {
+      "pagina_final": 35,
+      "titulo": "Conexiones territoriales: transporte y barrios próximos",
+      "bloque": 5,
+      "paginas_original": [
+        25,
+        26
+      ],
+      "paginas_complemento": [
+        49
+      ],
+      "tipo": "mapa",
+      "conclusion": "La red conecta ámbitos administrativos distintos; localizar paradas no acredita frecuencia,capacidad ni calidad.",
+      "fuente": "CRTM, serviciosM4_Red/M6_Red, referencia29/05/2026; Ayto. Madrid, Geoportal/SIGMA: viario y límites. Fuentes complementarias."
+    },
+    {
+      "pagina_final": 36,
+      "titulo": "Transporte próximo: del recorrido a la parada",
+      "bloque": 5,
+      "paginas_original": [
+        25,
+        26
+      ],
+      "paginas_complemento": [
+        49
+      ],
+      "tipo": "mapa",
+      "conclusion": "La accesibilidad cotidiana depende del acceso a las paradas y de las condiciones del itinerario,además de su presencia.",
+      "fuente": "CRTM, serviciosM4_Red/M6_Red, referencia29/05/2026; Ayto. Madrid, Geoportal/SIGMA: viario y límites. Fuentes complementarias."
+    },
+    {
+      "pagina_final": 37,
+      "titulo": "Aceras: una geometría que requiere comprobación",
+      "bloque": 5,
+      "paginas_original": [
+        25,
+        26,
+        28
+      ],
+      "paginas_complemento": [
+        50
+      ],
+      "tipo": "mapa",
+      "conclusion": "Relacionar envejecimiento y recorridos requiere medir el paso libre y verificar los cruces,no solo colorear anchos geométricos.",
+      "fuente": "Ayto. Madrid,SIGMA CARTOGRAFIA/ANCHO_MEDIO_ACERA/0 y límites; consulta04/11/2026. Indicador geométrico de la fuente."
+    },
+    {
+      "pagina_final": 38,
+      "titulo": "Equipamientos: localización y red de cuidados",
+      "bloque": 5,
+      "paginas_original": [
+        21,
+        24,
+        27
+      ],
+      "paginas_complemento": [
+        51
+      ],
+      "tipo": "mapa",
+      "conclusion": "La localización ofrece una base para comprobar itinerarios y capacidad. No se representa el catálogo completo de servicios.",
+      "fuente": "Ayto. Madrid,Geoportal/SIGMA,BIENESTAR_SOCIAL: salud,mayores,centros de día y servicios sociales; consulta04/11/2026."
+    },
+    {
+      "pagina_final": 39,
+      "titulo": "Ejes de conexión y bordes infraestructurales",
+      "bloque": 5,
+      "paginas_original": [
+        25,
+        26,
+        28
+      ],
+      "paginas_complemento": [],
+      "tipo": "mapa",
+      "conclusion": "Las infraestructuras de borde y los ejes interiores deben leerse juntos para evaluar la continuidad entre barrios.",
+      "fuente": "Ayto. Madrid,Geoportal/SIGMA,CARTOGRAFIA/viario nominal,CV_TX_DENOM yDEN_TX_NOMBRE; consulta04/11/2026."
+    },
+    {
+      "pagina_final": 40,
+      "titulo": "Funcionamiento cotidiano: una cadena de acceso",
+      "bloque": 5,
+      "paginas_original": [
+        26,
+        27,
+        28
+      ],
+      "paginas_complemento": [],
+      "tipo": "relaciones",
+      "conclusion": "Las menciones originales a ruido,humos,ciclismo o aparcamiento se conservan como cuestiones de campo,no como hechos medidos.",
+      "fuente": "Censo de Locales y Actividades2023;CRTM2026;Geoportal municipal. Trabajo de campo original sin fecha o mediciones aportadas."
+    },
+    {
+      "pagina_final": 41,
+      "titulo": "Tejido urbano",
+      "bloque": 6,
+      "paginas_original": [
+        29
+      ],
+      "paginas_complemento": [],
+      "tipo": "inicio_apartado",
+      "fuente": "Revisión del apartado original y fuentes específicas identificadas en las figuras siguientes."
+    },
+    {
+      "pagina_final": 42,
+      "titulo": "Cuatro barrios: contexto común y tejidos distintos",
+      "bloque": 6,
+      "paginas_original": [
+        30
+      ],
+      "paginas_complemento": [
+        4
+      ],
+      "tipo": "mapa",
+      "conclusion": "Se mantienen las comparaciones del original,con la misma clasificación y sin confundir barrio y distrito.",
+      "fuente": "Ayto. Madrid,Geoportal/SIGMA,LIMITES_ADMINISTRATIVOS/25–26. Códigos155,156,162 y208."
+    },
+    {
+      "pagina_final": 43,
+      "titulo": "Evolución histórica:1957,1976 y 2023",
+      "bloque": 6,
+      "paginas_original": [
+        31
+      ],
+      "paginas_complemento": [
+        35,
+        36,
+        37
+      ],
+      "tipo": "historico",
+      "conclusion": "La comparación permite reconocer cambios de ocupación y trazado; los contornos actuales se usan solo como referencia espacial.",
+      "fuente": "Ayto. Madrid, Geoportal, WMS ORTO1957_40000,ORTO1976_E4500_10_10,ORTO2023_10_10; años de vuelo indicados. Límites SIGMA24–25.",
+      "mejora": "Tres ortofotos con ventanasA/B conservadas; marcas editables de comparación."
+    },
+    {
+      "pagina_final": 44,
+      "titulo": "Lectura temporal del entorno:1957 y2023",
+      "bloque": 6,
+      "paginas_original": [
+        31
+      ],
+      "paginas_complemento": [
+        35,
+        36,
+        37
+      ],
+      "tipo": "historico",
+      "conclusion": "Las infraestructuras y la ocupación deben contrastarse sobre la misma extensión. No se atribuyen fechas de construcción a piezas individuales.",
+      "fuente": "Ayto. Madrid, Geoportal, WMS ORTO1957_40000,ORTO1976_E4500_10_10,ORTO2023_10_10; años de vuelo indicados. Límites SIGMA24–25."
+    },
+    {
+      "pagina_final": 45,
+      "titulo": "Espacio edificado: comparación de huellas",
+      "bloque": 6,
+      "paginas_original": [
+        32
+      ],
+      "paginas_complemento": [
+        38
+      ],
+      "tipo": "mapa_comparativo",
+      "conclusion": "La huella evidencia diferencias de ocupación en planta. Su interpretación necesita altura,parcelación y condiciones de acceso.",
+      "fuente": "Ayto. Madrid, Geoportal/SIGMA: EDIFICIOS_ALTURAS/0, manzanero y límites; D.G.Catastro INSPIRECP28900-MADRID(21/08/2026). EPSG:25830."
+    },
+    {
+      "pagina_final": 46,
+      "titulo": "Alturas del espacio edificado: dimensión vertical",
+      "bloque": 6,
+      "paginas_original": [
+        37,
+        38,
+        39,
+        40
+      ],
+      "paginas_complemento": [
+        39
+      ],
+      "tipo": "mapa",
+      "conclusion": "Una huella reducida puede coexistir con mayor altura; el espacio edificado no se explica solo con llenos y vacíos.",
+      "fuente": "Ayto. Madrid,SIGMA CARTOGRAFIA/EDIFICIOS_ALTURAS/0,atributoALTURA; consulta04/11/2026."
+    },
+    {
+      "pagina_final": 47,
+      "titulo": "Parcelación: cuatro barrios,los mismos intervalos",
+      "bloque": 6,
+      "paginas_original": [
+        33,
+        34,
+        35,
+        36
+      ],
+      "paginas_complemento": [
+        42
+      ],
+      "tipo": "mapa_comparativo",
+      "conclusion": "El grano parcelario permite comparar fragmentación sin identificar titularidad,uso o condiciones legales.",
+      "fuente": "D.G.Catastro,INSPIRECP28900-MADRID,areaValue,actualizaciónATOM21/08/2026; límitesAyto.Madrid/SIGMA25."
+    },
+    {
+      "pagina_final": 48,
+      "titulo": "Manzanas: tamaño y organización de los recintos",
+      "bloque": 6,
+      "paginas_original": [
+        50
+      ],
+      "paginas_complemento": [
+        44
+      ],
+      "tipo": "mapa_comparativo",
+      "conclusion": "Los grandes recintos y la trama menuda condicionan las posibilidades de recorrido; su permeabilidad no se deduce del tamaño.",
+      "fuente": "Ayto. Madrid,manzanero municipal yGeoportal/SIGMA; superficie completa del recinto; consulta04/11/2026."
+    },
+    {
+      "pagina_final": 49,
+      "titulo": "Espacio edificado: conservar y revisar la clasificación original",
+      "bloque": 6,
+      "paginas_original": [
+        37,
+        38,
+        39,
+        40
+      ],
+      "paginas_complemento": [],
+      "tipo": "mapa_original_reconstruido",
+      "conclusion": "Se preserva la lectura del original y se mejora su leyenda; la validación de cada tipología requiere contraste de campo y parcelario.",
+      "fuente": "Grupo09,documento original,p37–40,clasificación manual sin fecha indicada; categorías vectorizadas y recoloreadas según su leyenda."
+    },
+    {
+      "pagina_final": 50,
+      "titulo": "Espacio libre,verde y titularidad: dimensiones distintas",
+      "bloque": 6,
+      "paginas_original": [
+        41,
+        42,
+        43,
+        44
+      ],
+      "paginas_complemento": [
+        56,
+        57
+      ],
+      "tipo": "grafico",
+      "conclusion": "La presencia de verde no demuestra propiedad pública,acceso universal o disponibilidad. Esas condiciones se deben verificar.",
+      "fuente": "Ayto. Madrid, SIGMA: conservaciónZZVV/4(ZV21),/5(PV24), arbolado/11 y límites24–25; consulta04/11/2026."
+    },
+    {
+      "pagina_final": 51,
+      "titulo": "Ocupación por huella en las parcelas",
+      "bloque": 6,
+      "paginas_original": [
+        45,
+        46,
+        47,
+        48
+      ],
+      "paginas_complemento": [
+        43
+      ],
+      "tipo": "mapa_comparativo",
+      "conclusion": "La relación huella/suelo expresa ocupación geométrica; no certifica si una parcela está legalmente edificada,vacante o disponible.",
+      "fuente": "Ayto. Madrid, Geoportal/SIGMA: EDIFICIOS_ALTURAS/0, manzanero y límites; D.G.Catastro INSPIRECP28900-MADRID(21/08/2026). EPSG:25830."
+    },
+    {
+      "pagina_final": 52,
+      "titulo": "Tejido urbano: historia,grano e intensidad",
+      "bloque": 6,
+      "paginas_original": [
+        31,
+        32,
+        33,
+        34,
+        35,
+        36,
+        45,
+        46,
+        47,
+        48
+      ],
+      "paginas_complemento": [],
+      "tipo": "relaciones",
+      "conclusion": "El análisis conjunto evita confundir espacio no cubierto con espacio público,o mayor altura con mayor densidad en todos los casos.",
+      "fuente": "Ayto. Madrid, Geoportal/SIGMA: EDIFICIOS_ALTURAS/0, manzanero y límites; D.G.Catastro INSPIRECP28900-MADRID(21/08/2026). EPSG:25830. Ortofotos oficiales1957,1976 y2023."
+    },
+    {
+      "pagina_final": 53,
+      "titulo": "Morfotipología",
+      "bloque": 7,
+      "paginas_original": [
+        49
+      ],
+      "paginas_complemento": [],
+      "tipo": "inicio_apartado",
+      "fuente": "Revisión del apartado original y fuentes específicas identificadas en las figuras siguientes."
+    },
+    {
+      "pagina_final": 54,
+      "titulo": "Manzanas y parcelas: conservar los tres casos originales",
+      "bloque": 7,
+      "paginas_original": [
+        50
+      ],
+      "paginas_complemento": [],
+      "tipo": "mapa_original_reconstruido",
+      "conclusion": "El tamaño de manzana no determina por sí solo una tipología. Una misma trama admite implantaciones diferentes.",
+      "fuente": "Grupo09,originalp50; manzanero y parcelación ilustrativos originales,vectorizados; intervalos de tamaño según su leyenda."
+    },
+    {
+      "pagina_final": 55,
+      "titulo": "Caso1 · Trama regular: distintas implantaciones en la alineación",
+      "bloque": 7,
+      "paginas_original": [
+        51
+      ],
+      "paginas_complemento": [],
+      "tipo": "caso_original",
+      "conclusion": "La regularidad viaria permite comparar parcelas y retiros sin asumir una única forma de edificio.",
+      "fuente": "Grupo09,originalp51 y plano dep50. Mismas categorías gráficas,vectorizadas; no se añaden medidas o titulares."
+    },
+    {
+      "pagina_final": 56,
+      "titulo": "Caso2 · Recinto alargado: borde y espacio interior",
+      "bloque": 7,
+      "paginas_original": [
+        52
+      ],
+      "paginas_complemento": [],
+      "tipo": "caso_original",
+      "conclusion": "La disposición longitudinal exige distinguir el borde construido del espacio interior y de sus accesos.",
+      "fuente": "Grupo09,originalp52 y plano dep50. Mismas categorías gráficas,vectorizadas; no se añaden medidas o titulares."
+    },
+    {
+      "pagina_final": 57,
+      "titulo": "Caso3 · Recinto irregular: adaptación y espacios interiores",
+      "bloque": 7,
+      "paginas_original": [
+        53
+      ],
+      "paginas_complemento": [],
+      "tipo": "caso_original",
+      "conclusion": "La irregularidad de la manzana no demuestra permeabilidad. Los accesos y pasajes deben contrastarse.",
+      "fuente": "Grupo09,originalp53 y plano dep50. Mismas categorías gráficas,vectorizadas; no se añaden medidas o titulares."
+    },
+    {
+      "pagina_final": 58,
+      "titulo": "Criterios morfotipológicos: reconocer la implantación",
+      "bloque": 7,
+      "paginas_original": [
+        51,
+        52,
+        53,
+        54
+      ],
+      "paginas_complemento": [],
+      "tipo": "diagramas",
+      "conclusion": "La clasificación mejora al explicitar criterios espaciales. Un espacio interior no garantiza paso público.",
+      "fuente": "Esquemas analíticos propios a partir de los criterios del originalp51–54; sin medidas ni atribución catastral."
+    },
+    {
+      "pagina_final": 59,
+      "titulo": "Soporte residencial: viviendas por tipo de edificio",
+      "bloque": 7,
+      "paginas_original": [
+        54,
+        55
+      ],
+      "paginas_complemento": [
+        45
+      ],
+      "tipo": "grafico",
+      "conclusion": "El predominio de vivienda colectiva no distingue manzana abierta,cerrada o bloque aislado. El denominador son viviendas,no edificios.",
+      "fuente": "INE · Censo de Población y Viviendas 2021 · difusión BDM · series 0303050200020"
+    },
+    {
+      "pagina_final": 60,
+      "titulo": "Ocupación y verticalidad: tres combinaciones",
+      "bloque": 7,
+      "paginas_original": [
+        54,
+        55
+      ],
+      "paginas_complemento": [],
+      "tipo": "sintesis",
+      "conclusion": "Relacionar plano,altura y población evita deducir intensidad de una sola característica.",
+      "fuente": "Ayto. Madrid, Geoportal/SIGMA: EDIFICIOS_ALTURAS/0, manzanero y límites; D.G.Catastro INSPIRECP28900-MADRID(21/08/2026). EPSG:25830. Padrón municipal2026."
+    },
+    {
+      "pagina_final": 61,
+      "titulo": "Morfotipología: del dibujo a las condiciones urbanas",
+      "bloque": 7,
+      "paginas_original": [
+        55
+      ],
+      "paginas_complemento": [],
+      "tipo": "relaciones",
+      "conclusion": "Se conservan los casos originales y se limita su interpretación a lo que el dibujo y las fuentes permiten demostrar.",
+      "fuente": "Grupo09,originalp50–55; Censo2021 y capas cartográficas oficiales citadas."
+    },
+    {
+      "pagina_final": 62,
+      "titulo": "Espacio público y paisaje",
+      "bloque": 8,
+      "paginas_original": [
+        56
+      ],
+      "paginas_complemento": [],
+      "tipo": "inicio_apartado",
+      "fuente": "Revisión del apartado original y fuentes específicas identificadas en las figuras siguientes."
+    },
+    {
+      "pagina_final": 63,
+      "titulo": "Viario: ejes,bordes y calles del ámbito",
+      "bloque": 8,
+      "paginas_original": [
+        57
+      ],
+      "paginas_complemento": [],
+      "tipo": "mapa",
+      "conclusion": "El plano identifica estructura de conexión; las condiciones de cruce y estancia deben contrastarse a escala de calle.",
+      "fuente": "Ayto. Madrid,Geoportal/SIGMA,viario nominal. Originalp57 reconstruido sin asignar jerarquías no verificadas."
+    },
+    {
+      "pagina_final": 64,
+      "titulo": "Espacio libre y verde: presencia no equivale a acceso",
+      "bloque": 8,
+      "paginas_original": [
+        58
+      ],
+      "paginas_complemento": [
+        53,
+        57
+      ],
+      "tipo": "mapa",
+      "conclusion": "Para evaluar espacio público deben añadirse condiciones de acceso,uso y continuidad; el verde inventariado no demuestra titularidad.",
+      "fuente": "Ayto. Madrid, SIGMA: conservaciónZZVV/4(ZV21),/5(PV24), arbolado/11 y límites24–25; consulta04/11/2026."
+    },
+    {
+      "pagina_final": 65,
+      "titulo": "Sección interpretativa del ámbito: paisaje y espacio libre",
+      "bloque": 8,
+      "paginas_original": [
+        59
+      ],
+      "paginas_complemento": [],
+      "tipo": "imagen_original",
+      "conclusion": "La sección aporta una lectura espacial complementaria al plano; sus proporciones ilustrativas no sustituyen medidas de campo.",
+      "fuente": "Grupo09,documento original,p59; imagen extraída a resolución nativa. Fecha y fuentes fotográficas no indicadas en el documento."
+    },
+    {
+      "pagina_final": 66,
+      "titulo": "ArturoSoria: sección interpretativa y escala de calle",
+      "bloque": 8,
+      "paginas_original": [
+        60
+      ],
+      "paginas_complemento": [],
+      "tipo": "imagen_original",
+      "conclusion": "La sección aporta una lectura espacial complementaria al plano; sus proporciones ilustrativas no sustituyen medidas de campo.",
+      "fuente": "Grupo09,documento original,p60; imagen extraída a resolución nativa. Fecha y fuentes fotográficas no indicadas en el documento."
+    },
+    {
+      "pagina_final": 67,
+      "titulo": "Zonas verdes: conexión con el espacio cotidiano",
+      "bloque": 8,
+      "paginas_original": [
+        58
+      ],
+      "paginas_complemento": [
+        53,
+        57
+      ],
+      "tipo": "mapa",
+      "conclusion": "Los barrios tienen contextos paisajísticos distintos; superficie,acceso,sombra y calidad son dimensiones diferentes.",
+      "fuente": "Ayto. Madrid, SIGMA: conservaciónZZVV/4(ZV21),/5(PV24), arbolado/11 y límites24–25; consulta04/11/2026."
+    },
+    {
+      "pagina_final": 68,
+      "titulo": "ArboladoZV21: concentraciones y discontinuidades",
+      "bloque": 8,
+      "paginas_original": [
+        58
+      ],
+      "paginas_complemento": [
+        54
+      ],
+      "tipo": "mapa",
+      "conclusion": "El patrón del inventario permite localizar ámbitos que requieren comprobar continuidad y condiciones de los recorridos. No mide sombra.",
+      "fuente": "Ayto. Madrid, SIGMA: conservaciónZZVV/4(ZV21),/5(PV24), arbolado/11 y límites24–25; consulta04/11/2026."
+    },
+    {
+      "pagina_final": 69,
+      "titulo": "Densidad y paisaje: superponer preguntas,no indicadores incompatibles",
+      "bloque": 8,
+      "paginas_original": [
+        58
+      ],
+      "paginas_complemento": [
+        13,
+        53
+      ],
+      "tipo": "mapa_relaciones",
+      "conclusion": "La coincidencia espacial no acredita acceso ni suficiencia. La continuidad y los usos deben contrastarse sobre el terreno.",
+      "fuente": "Ayto. Madrid, explotación municipal del Padrón, BDM 0302010203232/0302010203242, 2026; límites Geoportal/SIGMA24–25, EPSG:25830. InventariosZV21+PV24."
+    },
+    {
+      "pagina_final": 70,
+      "titulo": "Arbolado: composición botánica del inventario",
+      "bloque": 8,
+      "paginas_original": [
+        58
+      ],
+      "paginas_complemento": [
+        55
+      ],
+      "tipo": "mapa",
+      "conclusion": "5.623registros y115denominaciones ayudan a caracterizar el paisaje inventariado; no equivalen a toda la biodiversidad.",
+      "fuente": "Ayto. Madrid,SIGMA MEDIO_AMBIENTE/ARBOLADO/MapServer/11,campoNOMBRE_ESPECIE; consulta04/11/2026."
+    },
+    {
+      "pagina_final": 71,
+      "titulo": "KevinLynch: categorías,tramas y correspondencia",
+      "bloque": 8,
+      "paginas_original": [
+        61
+      ],
+      "paginas_complemento": [],
+      "tipo": "lectura_perceptiva",
+      "conclusion": "La trama diferencia áreas de carácter similar; sendas,bordes y nodos conservan posiciones y significados del dibujo original.",
+      "fuente": "Grupo09,documento original,p61; vectorización de categorías y nueva simbología. Fecha y fuente del plano base no indicadas."
+    },
+    {
+      "pagina_final": 72,
+      "titulo": "Paisaje y espacio público: de la presencia a la experiencia",
+      "bloque": 8,
+      "paginas_original": [
+        58,
+        59,
+        60,
+        61
+      ],
+      "paginas_complemento": [],
+      "tipo": "relaciones",
+      "conclusion": "El plano,la sección y la lectura perceptiva se complementan; ninguno demuestra por sí solo calidad o accesibilidad universal.",
+      "fuente": "Grupo09,p57–61; Padrón y capas oficiales delGeoportal/SIGMA citadas."
+    },
+    {
+      "pagina_final": 73,
+      "titulo": "Síntesis: ocho análisis que se explican entre sí",
+      "bloque": 0,
+      "paginas_original": [
+        6,
+        11,
+        17,
+        22,
+        26,
+        55,
+        61
+      ],
+      "paginas_complemento": [
+        58,
+        59,
+        60
+      ],
+      "tipo": "diagrama_sintesis",
+      "conclusion": "La síntesis relaciona composición social,soporte físico y acceso cotidiano sin reducirlos a un único indicador.",
+      "fuente": "Síntesis propia de los ocho apartados y sus fuentes; la lectura mantiene años,escalas y universos diferenciados."
+    },
+    {
+      "pagina_final": 74,
+      "titulo": "Mapa de síntesis: tres perfiles próximos y distintos",
+      "bloque": 0,
+      "paginas_original": [
+        22,
+        26,
+        55
+      ],
+      "paginas_complemento": [
+        58,
+        59
+      ],
+      "tipo": "mapa_sintesis",
+      "conclusion": "Los perfiles identifican prioridades de comprobación,conservando la diversidad interna del ámbito.",
+      "fuente": "Padrón municipal2026; INE,ADRH2023; inventarios de verde y cartografía oficial consultados04/11/2026."
+    },
+    {
+      "pagina_final": 75,
+      "titulo": "Implicaciones: criterios para continuar el diagnóstico",
+      "bloque": 0,
+      "paginas_original": [
+        6,
+        11,
+        17,
+        22,
+        26,
+        55,
+        61
+      ],
+      "paginas_complemento": [],
+      "tipo": "sintesis",
+      "conclusion": "Son criterios derivados de los resultados,no actuaciones proyectadas ni déficits ya demostrados.",
+      "fuente": "Interpretación propia de los resultados representados en esta presentación."
+    },
+    {
+      "pagina_final": 76,
+      "titulo": "Conclusiones generales",
+      "bloque": 0,
+      "paginas_original": [
+        6,
+        11,
+        17,
+        22,
+        26,
+        55,
+        61
+      ],
+      "paginas_complemento": [
+        60
+      ],
+      "tipo": "conclusiones",
+      "conclusion": "La entrega combina mapas,gráficos,secciones y esquemas para sostener conclusiones verificables y preguntas urbanísticas concretas.",
+      "fuente": "Síntesis propia de las fuentes citadas; ninguna conclusión presupone causalidad o características de cada residente."
+    },
+    {
+      "pagina_final": 77,
+      "titulo": "Alcance de las evidencias",
+      "bloque": 0,
+      "paginas_original": [
+        16,
+        20,
+        28,
+        41,
+        42,
+        43,
+        44,
+        59,
+        60,
+        61
+      ],
+      "paginas_complemento": [],
+      "tipo": "limites",
+      "fuente": "Metodologías y metadatos de las fuentes; registros de cambios y control de calidad de la entrega."
+    },
+    {
+      "pagina_final": 78,
+      "titulo": "Fuentes y procedencia de los resultados",
+      "bloque": 0,
+      "paginas_original": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37,
+        38,
+        39,
+        40,
+        41,
+        42,
+        43,
+        44,
+        45,
+        46,
+        47,
+        48,
+        49,
+        50,
+        51,
+        52,
+        53,
+        54,
+        55,
+        56,
+        57,
+        58,
+        59,
+        60,
+        61
+      ],
+      "paginas_complemento": [],
+      "tipo": "fuentes",
+      "fuente": "Consulta de fuentes:04/11/2026. Portales:servpub.madrid.es/CSEBD_WBINTER/arbol.html ygeoportal.madrid.es/IDEAM_WBGEOPORTAL/index.iam."
+    }
+  ],
+  "mapas": [
+    {
+      "pagina": 10,
+      "variable": "density_per_km2",
+      "ambito": "156",
+      "unidad": "habitantes/km²"
+    },
+    {
+      "pagina": 11,
+      "variable": "share_80_plus",
+      "ambito": "156",
+      "unidad": "% de habitantes de80y más"
+    },
+    {
+      "pagina": 15,
+      "variable": "net_income_person_2023",
+      "ambito": "156",
+      "unidad": "€/persona/año"
+    },
+    {
+      "pagina": 23,
+      "variable": "collective_rent_median_eur_m2_month",
+      "ambito": "156",
+      "unidad": "mediana,€/m²/mes"
+    },
+    {
+      "pagina": 24,
+      "variable": "mean_household_size_published",
+      "ambito": "156",
+      "unidad": "personas/hogar"
+    },
+    {
+      "pagina": 27,
+      "variable": "share_households_person_65_plus_alone",
+      "ambito": "156",
+      "unidad": "% del total de hogares"
+    },
+    {
+      "pagina": 35,
+      "variable": "transporte",
+      "ambito": "4"
+    },
+    {
+      "pagina": 36,
+      "variable": "transporte",
+      "ambito": "156"
+    },
+    {
+      "pagina": 37,
+      "variable": "aceras",
+      "ambito": "156"
+    },
+    {
+      "pagina": 38,
+      "variable": "equip",
+      "ambito": "156"
+    },
+    {
+      "pagina": 45,
+      "variable": "huella",
+      "ambito": "156"
+    },
+    {
+      "pagina": 45,
+      "variable": "huella",
+      "ambito": "155"
+    },
+    {
+      "pagina": 45,
+      "variable": "huella",
+      "ambito": "162"
+    },
+    {
+      "pagina": 45,
+      "variable": "huella",
+      "ambito": "208"
+    },
+    {
+      "pagina": 46,
+      "variable": "alturas",
+      "ambito": "156"
+    },
+    {
+      "pagina": 47,
+      "variable": "parcelas",
+      "ambito": "156"
+    },
+    {
+      "pagina": 47,
+      "variable": "parcelas",
+      "ambito": "155"
+    },
+    {
+      "pagina": 47,
+      "variable": "parcelas",
+      "ambito": "162"
+    },
+    {
+      "pagina": 47,
+      "variable": "parcelas",
+      "ambito": "208"
+    },
+    {
+      "pagina": 48,
+      "variable": "manzanas",
+      "ambito": "156"
+    },
+    {
+      "pagina": 48,
+      "variable": "manzanas",
+      "ambito": "155"
+    },
+    {
+      "pagina": 48,
+      "variable": "manzanas",
+      "ambito": "162"
+    },
+    {
+      "pagina": 48,
+      "variable": "manzanas",
+      "ambito": "208"
+    },
+    {
+      "pagina": 51,
+      "variable": "ocupacion",
+      "ambito": "156"
+    },
+    {
+      "pagina": 51,
+      "variable": "ocupacion",
+      "ambito": "155"
+    },
+    {
+      "pagina": 51,
+      "variable": "ocupacion",
+      "ambito": "162"
+    },
+    {
+      "pagina": 51,
+      "variable": "ocupacion",
+      "ambito": "208"
+    },
+    {
+      "pagina": 64,
+      "variable": "verdes",
+      "ambito": "156"
+    },
+    {
+      "pagina": 67,
+      "variable": "verdes",
+      "ambito": "4"
+    },
+    {
+      "pagina": 68,
+      "variable": "grid",
+      "ambito": "156"
+    },
+    {
+      "pagina": 70,
+      "variable": "especies",
+      "ambito": "156"
+    }
+  ]
+}

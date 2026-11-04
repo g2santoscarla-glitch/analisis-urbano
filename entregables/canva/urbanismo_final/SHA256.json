@@ -1,0 +1,58 @@
+{
+  "Correcciones_docentes.json": {
+    "bytes": 3239,
+    "sha256": "9a3c2bde68448f7f679193c367da3374c03fa640f5148b47755984433f1d5e92"
+  },
+  "Navegacion_final.json": {
+    "bytes": 43142,
+    "sha256": "8a5fb0555dae10c4cf08bf11a5c3d0f1ca244fb7db1b1ea67a6bbd9ff13e6773"
+  },
+  "README.md": {
+    "bytes": 1459,
+    "sha256": "185cecebf1f4e4b907abcb5af5ada526de35d61faa0b2ba1f28f0ae41ea88f5a"
+  },
+  "URBANISMO_CONTROL_CALIDAD.md": {
+    "bytes": 4729,
+    "sha256": "2ac8f2da1f0c12bd0c2c4ca8450ac768fd28cb7f9283dff86293414f88119610"
+  },
+  "URBANISMO_DATOS_Y_REVISION.xlsx": {
+    "bytes": 2731632,
+    "sha256": "d65b01d1331eb8be138a8d54c90c292f713fe8b0fbfdd8ed17d2553fad0aea6e"
+  },
+  "URBANISMO_ENTREGA_FINAL.zip": {
+    "bytes": 24750326,
+    "sha256": "9dabd429230e1e276267f076bbc0af1c05c52372295d6c878ae225744de26ad0"
+  },
+  "URBANISMO_MATRIZ_REVISION.csv": {
+    "bytes": 12547,
+    "sha256": "54c6253631383840a09948d5bca4d4325f9439c5a90a597dcaf560ead69d8633"
+  },
+  "URBANISMO_MATRIZ_REVISION.json": {
+    "bytes": 26492,
+    "sha256": "84455c74f2e04f776fe2cb6613d4f41e05a753ecdda797e41641583f0513a12b"
+  },
+  "URBANISMO_MATRIZ_REVISION.xlsx": {
+    "bytes": 10237,
+    "sha256": "d99b0ad48079aa69b43e76c1c8f262c66d7943f27cd0d4a9ea46ee4590b17921"
+  },
+  "URBANISMO_PORTADA.png": {
+    "bytes": 92908,
+    "sha256": "ca7bb404e812ffb010adc2092e8f0e0595cfc45559a08a1265d6bf6fa2823a71"
+  },
+  "URBANISMO_PRESENTACION_FINAL.pdf": {
+    "bytes": 15647220,
+    "sha256": "c651b7054c75b1b64ee719107bb32f389868ff3dcdd2dc48722dc932576a6e3b"
+  },
+  "URBANISMO_PRESENTACION_FINAL.pptx": {
+    "bytes": 12711325,
+    "sha256": "23473afada3955f4cd5db277deaf7ac9a63925074e4f8e61938355edbee9a6fd"
+  },
+  "URBANISMO_REGISTRO_CAMBIOS.md": {
+    "bytes": 26850,
+    "sha256": "440ab8a526b3d60a595f057c744b08718c785644ab081dda73fff992917def86"
+  },
+  "Validacion_final.json": {
+    "bytes": 1485,
+    "sha256": "7c0a66be61c759e1cac23406afd7a88e9a10e66f1f3646c5a0e5afe8b8b65160"
+  }
+}

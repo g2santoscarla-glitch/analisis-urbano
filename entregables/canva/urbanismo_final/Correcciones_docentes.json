@@ -1,0 +1,87 @@
+[
+  {
+    "observacion": "Paginación",
+    "solucion": "Todas las láminas1–78.",
+    "estado": "Resuelta"
+  },
+  {
+    "observacion": "Índice",
+    "solucion": "Página2,con enlaces internos a ocho apartados.",
+    "estado": "Resuelta"
+  },
+  {
+    "observacion": "Qué se analiza,criterios,objetivos e implicaciones",
+    "solucion": "Aperturas6,13,19,26,32,41,53 y62.",
+    "estado": "Resuelta"
+  },
+  {
+    "observacion": "Revisar conclusiones y relacionar temas",
+    "solucion": "Cierres de cada bloque y síntesis73–76.",
+    "estado": "Resuelta"
+  },
+  {
+    "observacion": "Figuras con título,fuente,leyenda y escala",
+    "solucion": "MapasGIS con norte,escala yEPSG:25830; excepciones documentadas para planos interpretativos originales.",
+    "estado": "Resuelta con excepciones explícitas"
+  },
+  {
+    "observacion": "Más mapas,menos tablas y texto",
+    "solucion": "Datos territoriales representados en mapas; ninguna tabla estadística pequeña en el cuerpo.",
+    "estado": "Resuelta"
+  },
+  {
+    "observacion": "Revisar formato de gráficos",
+    "solucion": "Gráficos reconstruidos como formas y textos; educación sinTOTAL ni cifras monetarias incompatibles.",
+    "estado": "Resuelta"
+  },
+  {
+    "observacion": "Edificación→espacio edificado",
+    "solucion": "Títulos45,46 y49; se conserva «edificio» cuando es la unidad técnica delCenso.",
+    "estado": "Resuelta"
+  },
+  {
+    "observacion": "Fotos históricas y marcar cosas",
+    "solucion": "Página43:1957,1976 y 2023 con ventanasA/B; página44:entorno 1957/2023.",
+    "estado": "Resuelta"
+  },
+  {
+    "observacion": "Morfotipología:abierta,cerrada,unifamiliar",
+    "solucion": "Casos originales54–57; taxonomía58; contraste censal59 y relaciones60–61.",
+    "estado": "Resuelta en representación; validación de campo no aportada"
+  },
+  {
+    "observacion": "Movilidad y función:detallar más",
+    "solucion": "Red territorial35,detalle36,aceras37,equipamientos38,bordes39 y síntesis40.",
+    "estado": "Resuelta; no se inventan frecuencias o isócronas"
+  },
+  {
+    "observacion": "Tejido:historia y lectura general",
+    "solucion": "Páginas42–52 enlazan ortofotos,huella,altura,parcelación y manzanas.",
+    "estado": "Resuelta"
+  },
+  {
+    "observacion": "Espacio público:más mapas y menos texto",
+    "solucion": "Páginas63–72 relacionan viario,verde,arbolado,secciones yLynch.",
+    "estado": "Resuelta"
+  },
+  {
+    "observacion": "Lynch:cambio de trama",
+    "solucion": "Página71:trama diagonal,sendasOrange,bordesTomato,nodosOlive y áreasVanilla; posiciones originales.",
+    "estado": "Resuelta; hitos no inventariados no se suponen"
+  },
+  {
+    "observacion": "Relación entre temas",
+    "solucion": "Diagramas y mapas de síntesis73–75,sin índices compuestos inventados.",
+    "estado": "Resuelta"
+  },
+  {
+    "observacion": "Cambiar color y profesionalizar",
+    "solucion": "RetículaA3 original,fondo blanco,Arial y cinco colores; gráficos originales reconstruidos.",
+    "estado": "Resuelta"
+  },
+  {
+    "observacion": "Situación completa y conexiones",
+    "solucion": "Página3:Madrid completo y entorno de cuatro barrios conM-30,A-2 y ejes nominales.",
+    "estado": "Resuelta"
+  }
+]
