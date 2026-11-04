@@ -1,0 +1,143 @@
+﻿pagina,tipo,id,titulo,seccion
+1,portada,,San Juan Bautista,CIUDAD Y URBANISMO
+2,indice,,Índice de lectura,CIUDAD Y URBANISMO
+3,sintesis,,Tres claves para interpretar el ámbito,LECTURA TRANSVERSAL
+4,mapa,CTX4,Localización de los cuatro barrios,CONTEXTO TERRITORIAL
+5,mapa,CTX_SJ,Barrio completo y ámbito original,CONTEXTO TERRITORIAL
+6,contenido,,"Escalas, fuentes y años: cómo leer el documento",MARCO DEL ANÁLISIS
+7,tabla,,Del detalle local a la referencia de Madrid,CONTEXTO MULTIESCALAR
+8,apertura_bloque,B1,Aspecto sociodemográfico,BLOQUE 01
+9,grafico,D01_evolucion,Evolución de la población: ritmos de crecimiento,Aspecto sociodemográfico
+10,grafico,"D02_piramides_[0, 2]",Estructuras de edad contrastadas: 15148 y 15180,Aspecto sociodemográfico
+11,grafico,"D02_piramides_[1, 3]",15178 y el conjunto: qué oculta la agregación,Aspecto sociodemográfico
+12,grafico,D03_estructura_edad,Composición por grandes grupos de edad,Aspecto sociodemográfico
+13,mapa,SJ_density_per_km2,San Juan Bautista · Densidad de población,Aspecto sociodemográfico
+14,mapa,SJ_share_80_plus,San Juan Bautista · Población de 80 y más años,Aspecto sociodemográfico
+15,mapa,4B_density_per_km2,Los cuatro barrios · Densidad de población,Aspecto sociodemográfico
+16,apertura_bloque,B2,Aspecto socioeconómico,BLOQUE 02
+17,grafico,02_01_renta_2023,Renta neta por persona: diferencias dentro del ámbito,Aspecto socioeconómico
+18,grafico,02_02_renta_evolucion,Evolución de la renta neta por persona,Aspecto socioeconómico
+19,grafico,E01_educacion,Titulaciones universitarias identificadas en el Padrón,Aspecto socioeconómico
+20,mapa,SJ_net_income_person_2023,San Juan Bautista · Renta neta media por persona,Aspecto socioeconómico
+21,mapa,4B_net_income_person_2023,Los cuatro barrios · Renta neta media por persona,Aspecto socioeconómico
+22,apertura_bloque,B3,Aspecto residencial,BLOQUE 03
+23,grafico,03_02_tenencia_2021,Tenencia de las viviendas principales,Aspecto residencial
+24,grafico,03_03_superficie_2021,Superficie útil de las viviendas: perfiles territoriales,Aspecto residencial
+25,grafico,03_04_antiguedad_2021,Antigüedad del parque residencial,Aspecto residencial
+26,grafico,03_01_alquiler_2024,Alquiler: nivel y dispersión por sección,Aspecto residencial
+27,mapa,SJ_collective_rent_median_eur_m2_month,San Juan Bautista · Alquiler colectivo: precio mediano por superficie,Aspecto residencial
+28,mapa,4B_collective_rent_median_eur_m2_month,Los cuatro barrios · Alquiler colectivo: precio mediano por superficie,Aspecto residencial
+29,apertura_bloque,B4,Vulnerabilidad urbana,BLOQUE 04
+30,grafico,V02_mayores_solos,Personas mayores que viven solas: dimensión residencial,Vulnerabilidad urbana
+31,mapa,SJ_share_households_person_65_plus_alone,San Juan Bautista · Hogares de una persona de 65 y más años,Vulnerabilidad urbana
+32,grafico,IGUALA_GLOBAL,IGUALA: el contexto distrital de Ciudad Lineal,Vulnerabilidad urbana
+33,grafico,V04_esferas_2024,Vulnerabilidad por esferas: Ciudad Lineal y Madrid,Vulnerabilidad urbana
+34,apertura_bloque,B5,Aspecto morfológico,BLOQUE 05
+35,mapa,ORTO_156_1957,Ortofoto 1957,Aspecto morfológico
+36,mapa,ORTO_156_1976,Ortofoto 1976,Aspecto morfológico
+37,mapa,ORTO_156_2023,Ortofoto 2023,Aspecto morfológico
+38,mapa,156_huella,San Juan Bautista · Llenos y vacíos cartográficos,Aspecto morfológico
+39,mapa,156_alturas,San Juan Bautista · Altura estimada de la edificación,Aspecto morfológico
+40,sintesis,,Tres maneras de combinar huella y verticalidad,Aspecto morfológico
+41,apertura_bloque,B6,Tejido urbano,BLOQUE 06
+42,mapa,156_parcelas,San Juan Bautista · Parcelación catastral por superficie,Tejido urbano
+43,mapa,156_ocupacion_parcelas,San Juan Bautista · Ocupación cartográfica de las parcelas,Tejido urbano
+44,mapa,156_manzanas,San Juan Bautista · Tamaño de las manzanas,Tejido urbano
+45,grafico,06_02_tipo_edificio_2021,Un tejido residencial dominado por edificios colectivos,Tejido urbano
+46,apertura_bloque,B7,Aspecto funcional y movilidad,BLOQUE 07
+47,grafico,F01_actividades,Actividades en locales abiertos: perfil del barrio,Aspecto funcional y movilidad
+48,grafico,F02_evolucion_actividades,Evolución de las actividades en locales abiertos,Aspecto funcional y movilidad
+49,mapa,156_transporte,San Juan Bautista · Red de transporte público,Aspecto funcional y movilidad
+50,mapa,156_aceras,San Juan Bautista · Ancho geométrico de las aceras,Aspecto funcional y movilidad
+51,mapa,156_equipamientos,San Juan Bautista · Equipamientos sanitarios y de atención social,Aspecto funcional y movilidad
+52,apertura_bloque,B8,Paisaje público y privado,BLOQUE 08
+53,mapa,156_verdes,San Juan Bautista · Superficies verdes inventariadas,Paisaje público y privado
+54,mapa,156_arbolado_grid,San Juan Bautista · Arbolado ZV21 por cuadrícula de 100 m,Paisaje público y privado
+55,mapa,156_especies,San Juan Bautista · Especies más frecuentes del arbolado ZV21,Paisaje público y privado
+56,grafico,VERDES_4B,Superficies verdes inventariadas: cuatro contextos distintos,Paisaje público y privado
+57,mapa,4_verdes,Los cuatro barrios · Superficies verdes inventariadas,Paisaje público y privado
+58,tabla,,"Tres secciones, tres combinaciones urbanas",SÍNTESIS TRANSVERSAL
+59,sintesis,,De los datos a las prioridades de comprobación,LECTURA TRANSVERSAL
+60,conclusiones,,"Conclusiones: leer relaciones, conservar diferencias",CIERRE DEL ANÁLISIS
+61,metodo,,Alcance y límites del documento,MÉTODO Y LÍMITES
+62,fuentes,,Fuentes de la lectura principal,FUENTES
+63,apertura_anexo,,Anexo · atlas completo de consulta,CARTOGRAFÍA Y DATOS
+64,indice_mapas,,Índice de los 97 mapas · 1/3,ANEXO / ÍNDICE CARTOGRÁFICO
+65,indice_mapas,,Índice de los 97 mapas · 2/3,ANEXO / ÍNDICE CARTOGRÁFICO
+66,indice_mapas,,Índice de los 97 mapas · 3/3,ANEXO / ÍNDICE CARTOGRÁFICO
+67,mapa,SJ_population,San Juan Bautista · Habitantes por sección censal,ANEXO CARTOGRÁFICO / San Juan Bautista
+68,mapa,SJ_share_0_14,San Juan Bautista · Población de 0 a 14 años,ANEXO CARTOGRÁFICO / San Juan Bautista
+69,mapa,SJ_share_65_plus,San Juan Bautista · Población de 65 y más años,ANEXO CARTOGRÁFICO / San Juan Bautista
+70,mapa,SJ_dependency_0_14_65_plus_per100_15_64,San Juan Bautista · Dependencia demográfica potencial,ANEXO CARTOGRÁFICO / San Juan Bautista
+71,mapa,SJ_share_women,San Juan Bautista · Mujeres registradas en el Padrón,ANEXO CARTOGRÁFICO / San Juan Bautista
+72,mapa,SJ_median_age_interval,San Juan Bautista · Grupo quinquenal que contiene la mediana,ANEXO CARTOGRÁFICO / San Juan Bautista
+73,mapa,SJ_population_change_2015_2026_pct,San Juan Bautista · Variación de población por código de sección,ANEXO CARTOGRÁFICO / San Juan Bautista
+74,mapa,SJ_households_total,San Juan Bautista · Número de hogares registrados,ANEXO CARTOGRÁFICO / San Juan Bautista
+75,mapa,SJ_mean_household_size_published,San Juan Bautista · Tamaño medio del hogar,ANEXO CARTOGRÁFICO / San Juan Bautista
+76,mapa,SJ_share_households_1_person,San Juan Bautista · Hogares unipersonales,ANEXO CARTOGRÁFICO / San Juan Bautista
+77,mapa,SJ_share_25_plus_university,San Juan Bautista · Titulaciones universitarias identificadas,ANEXO CARTOGRÁFICO / San Juan Bautista
+78,mapa,SJ_education_primary_incomplete_or_less_pct,San Juan Bautista · Sin estudios o primaria incompleta,ANEXO CARTOGRÁFICO / San Juan Bautista
+79,mapa,SJ_net_income_household_2023,San Juan Bautista · Renta neta media por hogar,ANEXO CARTOGRÁFICO / San Juan Bautista
+80,mapa,SJ_net_income_change_2015_2023_pct,San Juan Bautista · Evolución nominal de renta por persona,ANEXO CARTOGRÁFICO / San Juan Bautista
+81,mapa,SJ_rented_dwellings_total,San Juan Bautista · Viviendas arrendadas del universo tributario,ANEXO CARTOGRÁFICO / San Juan Bautista
+82,mapa,SJ_collective_amount_median_eur_month,San Juan Bautista · Alquiler colectivo: importe mediano mensual,ANEXO CARTOGRÁFICO / San Juan Bautista
+83,mapa,SJ_collective_area_median_m2,San Juan Bautista · Superficie mediana de viviendas colectivas alquiladas,ANEXO CARTOGRÁFICO / San Juan Bautista
+84,mapa,SJ_collective_rent_IQR_eur_m2_month,San Juan Bautista · Dispersión del alquiler colectivo,ANEXO CARTOGRÁFICO / San Juan Bautista
+85,mapa,4B_population,Los cuatro barrios · Habitantes por sección censal,ANEXO CARTOGRÁFICO / Los cuatro barrios
+86,mapa,4B_share_0_14,Los cuatro barrios · Población de 0 a 14 años,ANEXO CARTOGRÁFICO / Los cuatro barrios
+87,mapa,4B_share_65_plus,Los cuatro barrios · Población de 65 y más años,ANEXO CARTOGRÁFICO / Los cuatro barrios
+88,mapa,4B_share_80_plus,Los cuatro barrios · Población de 80 y más años,ANEXO CARTOGRÁFICO / Los cuatro barrios
+89,mapa,4B_dependency_0_14_65_plus_per100_15_64,Los cuatro barrios · Dependencia demográfica potencial,ANEXO CARTOGRÁFICO / Los cuatro barrios
+90,mapa,4B_share_women,Los cuatro barrios · Mujeres registradas en el Padrón,ANEXO CARTOGRÁFICO / Los cuatro barrios
+91,mapa,4B_median_age_interval,Los cuatro barrios · Grupo quinquenal que contiene la mediana,ANEXO CARTOGRÁFICO / Los cuatro barrios
+92,mapa,4B_population_change_2015_2026_pct,Los cuatro barrios · Variación de población por código de sección,ANEXO CARTOGRÁFICO / Los cuatro barrios
+93,mapa,4B_households_total,Los cuatro barrios · Número de hogares registrados,ANEXO CARTOGRÁFICO / Los cuatro barrios
+94,mapa,4B_mean_household_size_published,Los cuatro barrios · Tamaño medio del hogar,ANEXO CARTOGRÁFICO / Los cuatro barrios
+95,mapa,4B_share_households_1_person,Los cuatro barrios · Hogares unipersonales,ANEXO CARTOGRÁFICO / Los cuatro barrios
+96,mapa,4B_share_households_person_65_plus_alone,Los cuatro barrios · Hogares de una persona de 65 y más años,ANEXO CARTOGRÁFICO / Los cuatro barrios
+97,mapa,4B_share_25_plus_university,Los cuatro barrios · Titulaciones universitarias identificadas,ANEXO CARTOGRÁFICO / Los cuatro barrios
+98,mapa,4B_education_primary_incomplete_or_less_pct,Los cuatro barrios · Sin estudios o primaria incompleta,ANEXO CARTOGRÁFICO / Los cuatro barrios
+99,mapa,4B_net_income_household_2023,Los cuatro barrios · Renta neta media por hogar,ANEXO CARTOGRÁFICO / Los cuatro barrios
+100,mapa,4B_net_income_change_2015_2023_pct,Los cuatro barrios · Evolución nominal de renta por persona,ANEXO CARTOGRÁFICO / Los cuatro barrios
+101,mapa,4B_rented_dwellings_total,Los cuatro barrios · Viviendas arrendadas del universo tributario,ANEXO CARTOGRÁFICO / Los cuatro barrios
+102,mapa,4B_collective_amount_median_eur_month,Los cuatro barrios · Alquiler colectivo: importe mediano mensual,ANEXO CARTOGRÁFICO / Los cuatro barrios
+103,mapa,4B_collective_area_median_m2,Los cuatro barrios · Superficie mediana de viviendas colectivas alquiladas,ANEXO CARTOGRÁFICO / Los cuatro barrios
+104,mapa,4B_collective_rent_IQR_eur_m2_month,Los cuatro barrios · Dispersión del alquiler colectivo,ANEXO CARTOGRÁFICO / Los cuatro barrios
+105,mapa,156_viario,San Juan Bautista · Ancho medio geométrico del viario,ANEXO CARTOGRÁFICO / San Juan Bautista
+106,mapa,155_huella,San Pascual · Llenos y vacíos cartográficos,ANEXO CARTOGRÁFICO / San Pascual
+107,mapa,155_alturas,San Pascual · Altura estimada de la edificación,ANEXO CARTOGRÁFICO / San Pascual
+108,mapa,155_manzanas,San Pascual · Tamaño de las manzanas,ANEXO CARTOGRÁFICO / San Pascual
+109,mapa,155_aceras,San Pascual · Ancho geométrico de las aceras,ANEXO CARTOGRÁFICO / San Pascual
+110,mapa,155_viario,San Pascual · Ancho medio geométrico del viario,ANEXO CARTOGRÁFICO / San Pascual
+111,mapa,155_parcelas,San Pascual · Parcelación catastral por superficie,ANEXO CARTOGRÁFICO / San Pascual
+112,mapa,155_ocupacion_parcelas,San Pascual · Ocupación cartográfica de las parcelas,ANEXO CARTOGRÁFICO / San Pascual
+113,mapa,162_huella,La Piovera · Llenos y vacíos cartográficos,ANEXO CARTOGRÁFICO / La Piovera
+114,mapa,162_alturas,La Piovera · Altura estimada de la edificación,ANEXO CARTOGRÁFICO / La Piovera
+115,mapa,162_manzanas,La Piovera · Tamaño de las manzanas,ANEXO CARTOGRÁFICO / La Piovera
+116,mapa,162_aceras,La Piovera · Ancho geométrico de las aceras,ANEXO CARTOGRÁFICO / La Piovera
+117,mapa,162_viario,La Piovera · Ancho medio geométrico del viario,ANEXO CARTOGRÁFICO / La Piovera
+118,mapa,162_parcelas,La Piovera · Parcelación catastral por superficie,ANEXO CARTOGRÁFICO / La Piovera
+119,mapa,162_ocupacion_parcelas,La Piovera · Ocupación cartográfica de las parcelas,ANEXO CARTOGRÁFICO / La Piovera
+120,mapa,208_huella,El Salvador · Llenos y vacíos cartográficos,ANEXO CARTOGRÁFICO / El Salvador
+121,mapa,208_alturas,El Salvador · Altura estimada de la edificación,ANEXO CARTOGRÁFICO / El Salvador
+122,mapa,208_manzanas,El Salvador · Tamaño de las manzanas,ANEXO CARTOGRÁFICO / El Salvador
+123,mapa,208_aceras,El Salvador · Ancho geométrico de las aceras,ANEXO CARTOGRÁFICO / El Salvador
+124,mapa,208_viario,El Salvador · Ancho medio geométrico del viario,ANEXO CARTOGRÁFICO / El Salvador
+125,mapa,208_parcelas,El Salvador · Parcelación catastral por superficie,ANEXO CARTOGRÁFICO / El Salvador
+126,mapa,208_ocupacion_parcelas,El Salvador · Ocupación cartográfica de las parcelas,ANEXO CARTOGRÁFICO / El Salvador
+127,mapa,156_trees_density,San Juan Bautista · Densidad de arbolado ZV21,ANEXO CARTOGRÁFICO / San Juan Bautista
+128,mapa,156_tree_species,San Juan Bautista · Riqueza de especies del inventario,ANEXO CARTOGRÁFICO / San Juan Bautista
+129,mapa,156_peatonal,San Juan Bautista · Áreas peatonales y residenciales señalizadas,ANEXO CARTOGRÁFICO / San Juan Bautista
+130,mapa,4_arbolado_grid,Los cuatro barrios · Arbolado ZV21 por cuadrícula de 100 m,ANEXO CARTOGRÁFICO / Los cuatro barrios
+131,mapa,4_trees_density,Los cuatro barrios · Densidad de arbolado ZV21,ANEXO CARTOGRÁFICO / Los cuatro barrios
+132,mapa,4_tree_species,Los cuatro barrios · Riqueza de especies del inventario,ANEXO CARTOGRÁFICO / Los cuatro barrios
+133,mapa,4_equipamientos,Los cuatro barrios · Equipamientos sanitarios y de atención social,ANEXO CARTOGRÁFICO / Los cuatro barrios
+134,mapa,4_peatonal,Los cuatro barrios · Áreas peatonales y residenciales señalizadas,ANEXO CARTOGRÁFICO / Los cuatro barrios
+135,mapa,4_transporte,Los cuatro barrios · Red de transporte público,ANEXO CARTOGRÁFICO / Los cuatro barrios
+136,mapa,ORTO_4_1957,Ortofoto 1957,ANEXO CARTOGRÁFICO / Los cuatro barrios
+137,mapa,ORTO_4_1976,Ortofoto 1976,ANEXO CARTOGRÁFICO / Los cuatro barrios
+138,mapa,ORTO_4_2023,Ortofoto 2023,ANEXO CARTOGRÁFICO / Los cuatro barrios
+139,tabla,,Datos esenciales de los cuatro barrios,ANEXO DE DATOS
+140,tabla,,Las nueve secciones de San Juan Bautista,ANEXO DE DATOS
+141,fuentes,,Registro de fuentes y trazabilidad,ANEXO / FUENTES
+142,guia,,Edición del documento,GUÍA DE USO

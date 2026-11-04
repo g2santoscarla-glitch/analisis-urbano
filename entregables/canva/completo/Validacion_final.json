@@ -1,0 +1,15 @@
+{
+  "paginas": 142,
+  "lectura_principal": 62,
+  "mapas_incluidos": 97,
+  "formas_nativas": 47717,
+  "tablas_editables": 4,
+  "fotos_sustituibles": 6,
+  "integridad_zip_pptx": "correcta",
+  "ids_duplicados": [],
+  "textos_largos_comprobados": 790,
+  "textos_largos_no_localizados": [],
+  "textos_fuera_de_pagina": [],
+  "apertura": "PPTX completo abierto/exportado con LibreOffice;5páginas con retoques de espaciado reexportadas;PDF completo abierto sin reparación y142páginas recorridas.",
+  "importacion_canva": "No probada en cuenta Canva;PPTX con objetos editables y ortofotos como imágenes sustituibles."
+}

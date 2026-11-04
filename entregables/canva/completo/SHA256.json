@@ -1,0 +1,42 @@
+{
+  "Analisis_urbano_completo.pdf": {
+    "bytes": 19259673,
+    "sha256": "dfb967243beb6d2390ca2cded2d6825f8f1d56ef3755ad2066be4c9ecd06dfc8"
+  },
+  "Analisis_urbano_completo_editable.pptx": {
+    "bytes": 21623046,
+    "sha256": "ad3e8afed1ce7c10a72c34ca9752e561eef5fa6124c5c274761fbb0c74ea26c4"
+  },
+  "Indice_documento_completo.csv": {
+    "bytes": 14993,
+    "sha256": "fd13788e7242295c4f0d205ab45f9bd6078b09c31e2608a4a61aab086255cd25"
+  },
+  "LEEME_PRESENTACION.md": {
+    "bytes": 4047,
+    "sha256": "10eecab00004a3b3e27cf5dfc91932f316f8319e554ca3a9724798cd8cf2b2b1"
+  },
+  "Libro_datos_analisis_completo.xlsx": {
+    "bytes": 2712827,
+    "sha256": "ff66c177c2a6457540d9026c5ebdb786432d2fa24aae080a8407d7609db8a0c1"
+  },
+  "Paquete_analisis_urbano_completo.zip": {
+    "bytes": 34854589,
+    "sha256": "bba3375ac6b85474baebd3b251057084af39651bd3b130faadbee69513b3f83b"
+  },
+  "Portada.png": {
+    "bytes": 46170,
+    "sha256": "da018b83c811bcffc209fe1aa0ddeb4b020ddbe66746233a118cf5aa116b0dc6"
+  },
+  "README.md": {
+    "bytes": 4239,
+    "sha256": "c4c49355270408a09d649d45606ed5aceeba99bd5d7da5482f33a97108c1b9c3"
+  },
+  "Resumen_entrega.md": {
+    "bytes": 443,
+    "sha256": "ef1055b8bcd76c0fff3505483468ed0ce569ee7b517052f5380b676344e6f8fb"
+  },
+  "Validacion_final.json": {
+    "bytes": 615,
+    "sha256": "7d0bd289928462cc246c802292e076ebd8c3d5524e6bcf5798f3f1a1c89e3d45"
+  }
+}
