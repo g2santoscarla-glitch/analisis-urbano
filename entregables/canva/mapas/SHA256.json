@@ -1,0 +1,46 @@
+{
+  "Atlas_completo_mapas_4barrios.pdf": {
+    "bytes": 10316874,
+    "sha256": "7944f3ecfd9aeb66c4205de724b07ab46643c1fea2f25ee3402fa9e598d228ad"
+  },
+  "Atlas_mapas_SanJuan_y_4barrios.pptx": {
+    "bytes": 4379076,
+    "sha256": "ff2a443a47a8a6bddd8bed98a4f82cf3d27d1d8521850dc2a75615ed4020ed9c"
+  },
+  "Catalogo_97_mapas.csv": {
+    "bytes": 64561,
+    "sha256": "c2ebbcf59eea46718f8c546091e7f4024187713a6f00e7fcec78e0b8947ce3dc"
+  },
+  "Catalogo_97_mapas.json": {
+    "bytes": 90331,
+    "sha256": "3ce4a8701e8cee45b4b3e4944ef1cfa35740b6a514a5c688d60f26f211dfe13c"
+  },
+  "Contexto_y_evolucion_historica.pptx": {
+    "bytes": 16958412,
+    "sha256": "ba1ece7632f129d245cab741f214e62b204bf7bb76113f9ef424b4f8dad7c6ae"
+  },
+  "Datos_y_fuentes_mapas.xlsx": {
+    "bytes": 419586,
+    "sha256": "6d04b42baa4f3837f0e5020087ae5200bbe1cfd533ab86deb1ae0d7aeec36809"
+  },
+  "LEEME_MAPAS.md": {
+    "bytes": 6768,
+    "sha256": "8ec12815247eca1cda4047861869962361af474ce0511b501e5db7495d6db58a"
+  },
+  "Paquete_mapas_editables.zip": {
+    "bytes": 33366463,
+    "sha256": "9e81a6ed8061c53b317cd85e6bba7ef080652f4fedce54d79a70dfaccc8ccd52"
+  },
+  "README.md": {
+    "bytes": 6768,
+    "sha256": "8ec12815247eca1cda4047861869962361af474ce0511b501e5db7495d6db58a"
+  },
+  "Validacion_entrega.json": {
+    "bytes": 2651,
+    "sha256": "bcb35243e1e19fb838a844a715ac00cfe9a0ec672c67a3370a70d8bd2e1f3ab4"
+  },
+  "Vista_previa_paleta.png": {
+    "bytes": 91440,
+    "sha256": "9e71c9df2bdfe6475e24069e199347d06a4c5e4660ee857d901951b8265c95ba"
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "mapas_totales": 97,
+  "paginas_pdf_completo": 103,
+  "fuente_en_cada_mapa": true,
+  "contenedores_pptx": [
+    {
+      "archivo": "Atlas_mapas_SanJuan_y_4barrios.pptx",
+      "diapositivas": 95,
+      "formas_nativas": 45805,
+      "imagenes": 0,
+      "ids_unicos_por_diapositiva": true,
+      "integridad_zip": "correcta"
+    },
+    {
+      "archivo": "Contexto_y_evolucion_historica.pptx",
+      "diapositivas": 8,
+      "formas_nativas": 323,
+      "imagenes": 6,
+      "ids_unicos_por_diapositiva": true,
+      "integridad_zip": "correcta"
+    }
+  ],
+  "validacion_datos": [
+    {
+      "control": "37 códigos únicos y datos de población 2026 presentes",
+      "correcto": true
+    },
+    {
+      "control": "0–14 + 15–64 + 65+ + edad desconocida = total",
+      "correcto": true
+    },
+    {
+      "control": "share_women dentro de 0–100 donde hay dato",
+      "correcto": true
+    },
+    {
+      "control": "share_0_14 dentro de 0–100 donde hay dato",
+      "correcto": true
+    },
+    {
+      "control": "share_65_plus dentro de 0–100 donde hay dato",
+      "correcto": true
+    },
+    {
+      "control": "share_80_plus dentro de 0–100 donde hay dato",
+      "correcto": true
+    },
+    {
+      "control": "share_households_1_person dentro de 0–100 donde hay dato",
+      "correcto": true
+    },
+    {
+      "control": "share_households_person_65_plus_alone dentro de 0–100 donde hay dato",
+      "correcto": true
+    },
+    {
+      "control": "share_25_plus_university dentro de 0–100 donde hay dato",
+      "correcto": true
+    },
+    {
+      "control": "Árboles por sección y cuadrícula conservan todos los puntos dentro del ámbito",
+      "correcto": true,
+      "arboles": 23288,
+      "celdas": 607
+    },
+    {
+      "control": "Áreas verdes no superan el área territorial",
+      "correcto": true
+    }
+  ],
+  "validacion_tablas_originales": [
+    {
+      "check": "Edad suma total y hombres+mujeres=ambos sexos",
+      "rows": 29299,
+      "passed": true
+    },
+    {
+      "check": "Hogares tamaños suman total y totales coinciden tamaño/composición",
+      "rows": 2462,
+      "passed": true
+    },
+    {
+      "check": "Educación categorías suman población25+",
+      "rows": 2462,
+      "passed": true
+    }
+  ],
+  "apertura": "PPTX abiertos y exportados con LibreOffice; PDF abierto y recorrido con PyMuPDF",
+  "revision_visual": "Muestras de estadística, parcelación, alturas, viario, zonas verdes, arbolado y transporte; ocho páginas de contexto/historia",
+  "canva": "Importación en Canva no probada; formas nativas y textos editables en PPTX, ortofotos como imágenes sustituibles"
+}
