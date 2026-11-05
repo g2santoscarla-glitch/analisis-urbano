@@ -1,0 +1,411 @@
+{
+  "alcance_recomendado": "San Juan Bautista y franja geométrica de 250 m, no isócrona ni distancia de recorrido.",
+  "bounds25830": [
+    443521.40423429175,
+    4477065.626686959,
+    445291.20896169636,
+    4478928.1138468245
+  ],
+  "fecha_red_CRTM": "29/05/2026",
+  "fecha_descarga_redes": "04/11/2026",
+  "fecha_revision_local": "05/11/2026",
+  "seleccion_diurna": [
+    "122",
+    "53",
+    "11",
+    "70",
+    "120"
+  ],
+  "criterio_seleccion": "Cinco líneas diurnas con más paradas presentes dentro de la geometría de San Juan Bautista en la publicación descargada. No clasificación por frecuencia ni viajeros.",
+  "paradas_barrio": 23,
+  "paradas_entorno250m": 46,
+  "estaciones_entorno250m": [
+    {
+      "DENOMINACION": "AVENIDA DE LA PAZ",
+      "LINEAS": "4"
+    },
+    {
+      "DENOMINACION": "ARTURO SORIA",
+      "LINEAS": "4"
+    }
+  ],
+  "limites": [
+    "No hay aforos, OD, frecuencias o encuestas de uso en los archivos seleccionados.",
+    "Las líneas seleccionadas no se pueden denominar las más utilizadas ni las más frecuentes.",
+    "La fecha de referencia de la red es 29/05/2026; no es una comprobación de operación en tiempo real.",
+    "El ancho de acera es geométrico y no equivale a paso libre accesible.",
+    "La capa de aceras no acredita continuidad, transitabilidad, titularidad ni seguridad de los cruces.",
+    "El viario nominal es poligonal; no es un grafo de rutas peatonales o de conducción.",
+    "No se deducen intensidades de tráfico ni reparto modal de la anchura o jerarquía de las calles.",
+    "Franja250m consultada de nuevo para viario y aceras el05/11/2026, con conteos y objetos únicos verificados. Las redes CRTM siguen la publicación del29/05/2026. La franja no representa una isócrona."
+  ],
+  "recomendacion_plano": [
+    "Dibujar fondo gris con viario nominal; resaltar ejes M-30/A-2 y calles principales sin grosor proporcional a tráfico.",
+    "Dibujar aceras disponibles en naranja y pasarela identificada por su nombre; llamarlas red peatonal cartografiada, no rutas más comunes.",
+    "Dibujar cinco líneas seleccionadas EMT con trazados verificados, paradas pequeñas y números de línea legibles; Metro L4 con estaciones y accesos.",
+    "Si se añaden flechas entre centralidades para síntesis, rotularlas como conexiones esquemáticas de interés, sin atribuir flujos, uso observado o rutas seguidas por residentes."
+  ],
+  "fuentes": {
+    "emt_tramos": {
+      "capa": "emt_tramos",
+      "servicio": "https://services5.arcgis.com/UxADft6QPcvFyDU1/arcgis/rest/services/M6_Red/FeatureServer/2",
+      "fecha_consulta": "2026-11-04T17:32:12.065076+00:00",
+      "bbox25830": "443521.40423429175,4476105.4703834625,448000.0950947741,4479557.944275985",
+      "registros_descargados": 707,
+      "geometrias_puntuales_restituidas_desde_extension": 0,
+      "geometrias_nulas": 0,
+      "descargas": [
+        {
+          "url": "https://services5.arcgis.com/UxADft6QPcvFyDU1/arcgis/rest/services/M6_Red/FeatureServer/2?f=json",
+          "archivo": "emt_tramos_metadatos.json",
+          "sha256": "3e7c23bb60e75504ec1bb6e4818a062423c8daa2cafb8992a356d21dfe5da046",
+          "bytes": 14665
+        },
+        {
+          "url": "https://services5.arcgis.com/UxADft6QPcvFyDU1/arcgis/rest/services/M6_Red/FeatureServer/2/query?where=1%3D1&geometry=443521.40423429175%2C4476105.4703834625%2C448000.0950947741%2C4479557.944275985&geometryType=esriGeometryEnvelope&inSR=25830&spatialRel=esriSpatialRelIntersects&returnCountOnly=true&f=json",
+          "archivo": "emt_tramos_count.json",
+          "sha256": "1f5cf85fe675f8bb9f09edbf486f7358af41dd08469903f4f4201b666052136d",
+          "bytes": 13
+        },
+        {
+          "url": "https://services5.arcgis.com/UxADft6QPcvFyDU1/arcgis/rest/services/M6_Red/FeatureServer/2/query?where=1%3D1&geometry=443521.40423429175%2C4476105.4703834625%2C448000.0950947741%2C4479557.944275985&geometryType=esriGeometryEnvelope&inSR=25830&spatialRel=esriSpatialRelIntersects&outFields=%2A&returnGeometry=true&outSR=25830&f=geojson&resultOffset=0&resultRecordCount=2000&orderByFields=OBJECTID+ASC",
+          "archivo": "emt_tramos_original_0.geojson",
+          "sha256": "84f9c7175985090c4e341c809544230c05c43539620e06b3b92d53778f9df868",
+          "bytes": 998680
+        }
+      ],
+      "creditos": "© CRTM",
+      "descripcion": "Itinerarios de la Red de Autobuses Urbanos de Madrid: EMT",
+      "estado": "descargado"
+    },
+    "emt_paradas": {
+      "capa": "emt_paradas",
+      "servicio": "https://services5.arcgis.com/UxADft6QPcvFyDU1/arcgis/rest/services/M6_Red/FeatureServer/0",
+      "fecha_consulta": "2026-11-04T17:32:10.256452+00:00",
+      "bbox25830": "443521.40423429175,4476105.4703834625,448000.0950947741,4479557.944275985",
+      "registros_descargados": 305,
+      "geometrias_puntuales_restituidas_desde_extension": 0,
+      "geometrias_nulas": 0,
+      "descargas": [
+        {
+          "url": "https://services5.arcgis.com/UxADft6QPcvFyDU1/arcgis/rest/services/M6_Red/FeatureServer/0?f=json",
+          "archivo": "emt_paradas_metadatos.json",
+          "sha256": "e0047198364ecd3916ca51162ba68bbb7b94c40f64d89d76867c17c140500de3",
+          "bytes": 18376
+        },
+        {
+          "url": "https://services5.arcgis.com/UxADft6QPcvFyDU1/arcgis/rest/services/M6_Red/FeatureServer/0/query?where=1%3D1&geometry=443521.40423429175%2C4476105.4703834625%2C448000.0950947741%2C4479557.944275985&geometryType=esriGeometryEnvelope&inSR=25830&spatialRel=esriSpatialRelIntersects&returnCountOnly=true&f=json",
+          "archivo": "emt_paradas_count.json",
+          "sha256": "7223eabda0e81d3cc2931281f784ca85a5669dc5e95801e1dfc9b2849ca8ad8a",
+          "bytes": 13
+        },
+        {
+          "url": "https://services5.arcgis.com/UxADft6QPcvFyDU1/arcgis/rest/services/M6_Red/FeatureServer/0/query?where=1%3D1&geometry=443521.40423429175%2C4476105.4703834625%2C448000.0950947741%2C4479557.944275985&geometryType=esriGeometryEnvelope&inSR=25830&spatialRel=esriSpatialRelIntersects&outFields=%2A&returnGeometry=true&outSR=25830&f=geojson&resultOffset=0&resultRecordCount=2000&orderByFields=OBJECTID+ASC",
+          "archivo": "emt_paradas_original_0.geojson",
+          "sha256": "31d5c3d58715b375bf9ae2d3ee5695e80a17f5ff19a9c33fd5b308a366e2d3dc",
+          "bytes": 401267
+        }
+      ],
+      "creditos": "© CRTM",
+      "descripcion": "Paradas de la Red de Autobuses Urbanos de Madrid: EMT",
+      "estado": "descargado"
+    },
+    "metro_estaciones": {
+      "capa": "metro_estaciones",
+      "servicio": "https://services5.arcgis.com/UxADft6QPcvFyDU1/arcgis/rest/services/M4_Red/FeatureServer/0",
+      "fecha_consulta": "2026-11-04T17:32:10.344163+00:00",
+      "bbox25830": "443521.40423429175,4476105.4703834625,448000.0950947741,4479557.944275985",
+      "registros_descargados": 12,
+      "geometrias_puntuales_restituidas_desde_extension": 0,
+      "geometrias_nulas": 0,
+      "descargas": [
+        {
+          "url": "https://services5.arcgis.com/UxADft6QPcvFyDU1/arcgis/rest/services/M4_Red/FeatureServer/0?f=json",
+          "archivo": "metro_estaciones_metadatos.json",
+          "sha256": "a1c9e4efd5187614d9cb036ea15dd7daab5d9b3b6ab17da590dcb8bc784ab3dc",
+          "bytes": 18835
+        },
+        {
+          "url": "https://services5.arcgis.com/UxADft6QPcvFyDU1/arcgis/rest/services/M4_Red/FeatureServer/0/query?where=1%3D1&geometry=443521.40423429175%2C4476105.4703834625%2C448000.0950947741%2C4479557.944275985&geometryType=esriGeometryEnvelope&inSR=25830&spatialRel=esriSpatialRelIntersects&returnCountOnly=true&f=json",
+          "archivo": "metro_estaciones_count.json",
+          "sha256": "8a5c7f0a249309a0a490436246d7e4c75abc97488ad2da0c6e85a517ac13cdd2",
+          "bytes": 12
+        },
+        {
+          "url": "https://services5.arcgis.com/UxADft6QPcvFyDU1/arcgis/rest/services/M4_Red/FeatureServer/0/query?where=1%3D1&geometry=443521.40423429175%2C4476105.4703834625%2C448000.0950947741%2C4479557.944275985&geometryType=esriGeometryEnvelope&inSR=25830&spatialRel=esriSpatialRelIntersects&outFields=%2A&returnGeometry=true&outSR=25830&f=geojson&resultOffset=0&resultRecordCount=1000&orderByFields=OBJECTID+ASC",
+          "archivo": "metro_estaciones_original_0.geojson",
+          "sha256": "9f02295743b2d52f94fd3948e3a6272f4d94e8f5c3ca6e384014741066cb38c0",
+          "bytes": 15504
+        }
+      ],
+      "creditos": "",
+      "descripcion": "",
+      "estado": "descargado"
+    },
+    "metro_tramos": {
+      "capa": "metro_tramos",
+      "servicio": "https://services5.arcgis.com/UxADft6QPcvFyDU1/arcgis/rest/services/M4_Red/FeatureServer/4",
+      "fecha_consulta": "2026-11-04T17:32:12.414426+00:00",
+      "bbox25830": "443521.40423429175,4476105.4703834625,448000.0950947741,4479557.944275985",
+      "registros_descargados": 34,
+      "geometrias_puntuales_restituidas_desde_extension": 0,
+      "geometrias_nulas": 0,
+      "descargas": [
+        {
+          "url": "https://services5.arcgis.com/UxADft6QPcvFyDU1/arcgis/rest/services/M4_Red/FeatureServer/4?f=json",
+          "archivo": "metro_tramos_metadatos.json",
+          "sha256": "ba3dfd9cc45e36514654c32156ebd7d07521762683a2a0abb4eae230fc60c1e2",
+          "bytes": 14758
+        },
+        {
+          "url": "https://services5.arcgis.com/UxADft6QPcvFyDU1/arcgis/rest/services/M4_Red/FeatureServer/4/query?where=1%3D1&geometry=443521.40423429175%2C4476105.4703834625%2C448000.0950947741%2C4479557.944275985&geometryType=esriGeometryEnvelope&inSR=25830&spatialRel=esriSpatialRelIntersects&returnCountOnly=true&f=json",
+          "archivo": "metro_tramos_count.json",
+          "sha256": "fcd4ee8e9dfd1a8035018ee208d1d2d0c3826be357d87256a3db9291f4b76199",
+          "bytes": 12
+        },
+        {
+          "url": "https://services5.arcgis.com/UxADft6QPcvFyDU1/arcgis/rest/services/M4_Red/FeatureServer/4/query?where=1%3D1&geometry=443521.40423429175%2C4476105.4703834625%2C448000.0950947741%2C4479557.944275985&geometryType=esriGeometryEnvelope&inSR=25830&spatialRel=esriSpatialRelIntersects&outFields=%2A&returnGeometry=true&outSR=25830&f=geojson&resultOffset=0&resultRecordCount=1000&orderByFields=OBJECTID+ASC",
+          "archivo": "metro_tramos_original_0.geojson",
+          "sha256": "d40d8ebcf538e6544b2229c50c56115121736532d317dcb31be0f08a341aaf83",
+          "bytes": 338211
+        }
+      ],
+      "creditos": "",
+      "descripcion": "",
+      "estado": "descargado"
+    },
+    "metro_accesos": {
+      "capa": "metro_accesos",
+      "servicio": "https://services5.arcgis.com/UxADft6QPcvFyDU1/arcgis/rest/services/M4_Red/FeatureServer/1",
+      "fecha_consulta": "2026-11-04T17:32:11.235740+00:00",
+      "bbox25830": "443521.40423429175,4476105.4703834625,448000.0950947741,4479557.944275985",
+      "registros_descargados": 35,
+      "geometrias_puntuales_restituidas_desde_extension": 0,
+      "geometrias_nulas": 0,
+      "descargas": [
+        {
+          "url": "https://services5.arcgis.com/UxADft6QPcvFyDU1/arcgis/rest/services/M4_Red/FeatureServer/1?f=json",
+          "archivo": "metro_accesos_metadatos.json",
+          "sha256": "8f4e7e232bb10b4fa6ab2b6a84e25feb8a1e134e40e60a3b4ca039051311f011",
+          "bytes": 14535
+        },
+        {
+          "url": "https://services5.arcgis.com/UxADft6QPcvFyDU1/arcgis/rest/services/M4_Red/FeatureServer/1/query?where=1%3D1&geometry=443521.40423429175%2C4476105.4703834625%2C448000.0950947741%2C4479557.944275985&geometryType=esriGeometryEnvelope&inSR=25830&spatialRel=esriSpatialRelIntersects&returnCountOnly=true&f=json",
+          "archivo": "metro_accesos_count.json",
+          "sha256": "8a6fca576710bfffa0b3fe856fb8503a03a587674fa9f5348f9eb8f6374c4f0b",
+          "bytes": 12
+        },
+        {
+          "url": "https://services5.arcgis.com/UxADft6QPcvFyDU1/arcgis/rest/services/M4_Red/FeatureServer/1/query?where=1%3D1&geometry=443521.40423429175%2C4476105.4703834625%2C448000.0950947741%2C4479557.944275985&geometryType=esriGeometryEnvelope&inSR=25830&spatialRel=esriSpatialRelIntersects&outFields=%2A&returnGeometry=true&outSR=25830&f=geojson&resultOffset=0&resultRecordCount=1000&orderByFields=OBJECTID+ASC",
+          "archivo": "metro_accesos_original_0.geojson",
+          "sha256": "edc903deacbff6fb7be3e0dfbdcd44a38af401f4e5160ba1a3f050e27e77af93",
+          "bytes": 33191
+        }
+      ],
+      "creditos": "",
+      "descripcion": "",
+      "estado": "descargado"
+    },
+    "viales": {
+      "capa": "viales",
+      "servicio": "https://sigma.madrid.es/hosted/rest/services/CALLEJERO/CALLEJERO_VIALES/MapServer/0",
+      "conteo_servidor": 483,
+      "conteo_descargado": 483,
+      "ids_unicos": 483,
+      "crs": "EPSG:25830",
+      "where": "1=1",
+      "bbox": [
+        443771.36760000046,
+        4476355.363700001,
+        447750.2973999996,
+        4479307.9504
+      ],
+      "descargas": [
+        {
+          "url": "https://sigma.madrid.es/hosted/rest/services/CALLEJERO/CALLEJERO_VIALES/MapServer/0?f=pjson",
+          "archivo": "viales_metadatos.json",
+          "sha256": "816af4307d3e9babecc48b06598244f69173959ca3c418ece76b1a8705b4fb51",
+          "bytes": 6048,
+          "consulta": "2026-11-04"
+        },
+        {
+          "url": "https://sigma.madrid.es/hosted/rest/services/CALLEJERO/CALLEJERO_VIALES/MapServer/0/query?where=1%3D1&geometry=443771.36760000046%2C4476355.363700001%2C447750.2973999996%2C4479307.9504&geometryType=esriGeometryEnvelope&inSR=25830&spatialRel=esriSpatialRelIntersects&returnCountOnly=true&f=json",
+          "archivo": "viales_count.json",
+          "sha256": "2a1b5c97b49a64d5d5107ba3cda425ddce9873e795adef21cc39256259f426b6",
+          "bytes": 13,
+          "consulta": "2026-11-04"
+        },
+        {
+          "url": "https://sigma.madrid.es/hosted/rest/services/CALLEJERO/CALLEJERO_VIALES/MapServer/0/query?where=1%3D1&geometry=443771.36760000046%2C4476355.363700001%2C447750.2973999996%2C4479307.9504&geometryType=esriGeometryEnvelope&inSR=25830&spatialRel=esriSpatialRelIntersects&outFields=%2A&returnGeometry=true&outSR=25830&resultOffset=0&resultRecordCount=1500&orderByFields=OBJECTID+ASC&f=geojson",
+          "archivo": "viales_original_0.geojson",
+          "sha256": "3acf79dc3e06188e0e43bed195ddb792b34e5639e84208744f73c5295150bfe8",
+          "bytes": 7111148,
+          "consulta": "2026-11-04"
+        }
+      ]
+    },
+    "aceras": {
+      "capa": "aceras",
+      "servicio": "https://sigma.madrid.es/hosted/rest/services/CARTOGRAFIA/ANCHO_MEDIO_ACERA/MapServer/0",
+      "conteo_servidor": 4469,
+      "conteo_descargado": 4469,
+      "ids_unicos": 4469,
+      "crs": "EPSG:25830",
+      "where": "1=1",
+      "bbox": [
+        443771.36760000046,
+        4476355.363700001,
+        447750.2973999996,
+        4479307.9504
+      ],
+      "descargas": [
+        {
+          "url": "https://sigma.madrid.es/hosted/rest/services/CARTOGRAFIA/ANCHO_MEDIO_ACERA/MapServer/0?f=pjson",
+          "archivo": "aceras_metadatos.json",
+          "sha256": "366398132e703975a611df90bc350c870a3191a30ee8ab3f2dd28fc8e99014a2",
+          "bytes": 6506,
+          "consulta": "2026-11-04"
+        },
+        {
+          "url": "https://sigma.madrid.es/hosted/rest/services/CARTOGRAFIA/ANCHO_MEDIO_ACERA/MapServer/0/query?where=1%3D1&geometry=443771.36760000046%2C4476355.363700001%2C447750.2973999996%2C4479307.9504&geometryType=esriGeometryEnvelope&inSR=25830&spatialRel=esriSpatialRelIntersects&returnCountOnly=true&f=json",
+          "archivo": "aceras_count.json",
+          "sha256": "6be7491beaf881315f3c7f85dd21bde4fb24d1d056cee17ac8dd2104281e0459",
+          "bytes": 14,
+          "consulta": "2026-11-04"
+        },
+        {
+          "url": "https://sigma.madrid.es/hosted/rest/services/CARTOGRAFIA/ANCHO_MEDIO_ACERA/MapServer/0/query?where=1%3D1&geometry=443771.36760000046%2C4476355.363700001%2C447750.2973999996%2C4479307.9504&geometryType=esriGeometryEnvelope&inSR=25830&spatialRel=esriSpatialRelIntersects&outFields=%2A&returnGeometry=true&outSR=25830&resultOffset=0&resultRecordCount=1500&orderByFields=OBJECTID+ASC&f=geojson",
+          "archivo": "aceras_original_0.geojson",
+          "sha256": "6fe0834108cf9180b5b33a08c5c448535b7e8c0a4b8eb8a8e956d7f0a7e832df",
+          "bytes": 2240548,
+          "consulta": "2026-11-04"
+        },
+        {
+          "url": "https://sigma.madrid.es/hosted/rest/services/CARTOGRAFIA/ANCHO_MEDIO_ACERA/MapServer/0/query?where=1%3D1&geometry=443771.36760000046%2C4476355.363700001%2C447750.2973999996%2C4479307.9504&geometryType=esriGeometryEnvelope&inSR=25830&spatialRel=esriSpatialRelIntersects&outFields=%2A&returnGeometry=true&outSR=25830&resultOffset=1500&resultRecordCount=1500&orderByFields=OBJECTID+ASC&f=geojson",
+          "archivo": "aceras_original_1500.geojson",
+          "sha256": "9bda05b2f0b53d7b8f8cefdc797a3ebfaedd5a96aa44c8223455e676d6ff461d",
+          "bytes": 2597853,
+          "consulta": "2026-11-04"
+        },
+        {
+          "url": "https://sigma.madrid.es/hosted/rest/services/CARTOGRAFIA/ANCHO_MEDIO_ACERA/MapServer/0/query?where=1%3D1&geometry=443771.36760000046%2C4476355.363700001%2C447750.2973999996%2C4479307.9504&geometryType=esriGeometryEnvelope&inSR=25830&spatialRel=esriSpatialRelIntersects&outFields=%2A&returnGeometry=true&outSR=25830&resultOffset=3000&resultRecordCount=1500&orderByFields=OBJECTID+ASC&f=geojson",
+          "archivo": "aceras_original_3000.geojson",
+          "sha256": "0d97dde2910ffd50664bcfac58a833044704a8d4814b1e777463344c6d891436",
+          "bytes": 2610798,
+          "consulta": "2026-11-04"
+        }
+      ]
+    }
+  },
+  "originales_y_sha256": [
+    {
+      "archivo_original": "atlas_mapas_4barrios/tematicas/emt_paradas.geojson",
+      "sha256": "72d43978bdd5bd8a29a920496980583ef8e277fd24eb0587ca98bd2b53b8c469",
+      "registros_originales": 305
+    },
+    {
+      "archivo_original": "atlas_mapas_4barrios/tematicas/emt_tramos.geojson",
+      "sha256": "0952e56194fccef5707268ee48c38f7deb9e42d4d68471e897918283c4491556",
+      "registros_originales": 707
+    },
+    {
+      "archivo_original": "atlas_mapas_4barrios/tematicas/metro_estaciones.geojson",
+      "sha256": "4db7b59fce9bfaeb452518bbc230efb2388c4b3ad62773c482b4f53c321d21fd",
+      "registros_originales": 12
+    },
+    {
+      "archivo_original": "atlas_mapas_4barrios/tematicas/metro_tramos.geojson",
+      "sha256": "ce14abadb8505997b920dae88585bce877388768c61c95dbab08c0487cc4b5fb",
+      "registros_originales": 34
+    },
+    {
+      "archivo_original": "atlas_mapas_4barrios/tematicas/metro_accesos.geojson",
+      "sha256": "8e33bd38d9181ba62c03d05041296c00e054f7a3678f493672084e3d2d7e3800",
+      "registros_originales": 35
+    },
+    {
+      "archivo_original": "atlas_mapas_4barrios/morfologia/viales_originales.geojson",
+      "sha256": "6241b58104d0076f7bd3490676d4a90634129a7fe36ef373254a524b6985c241",
+      "registros_originales": 483
+    },
+    {
+      "archivo_original": "atlas_mapas_4barrios/morfologia/aceras_originales.geojson",
+      "sha256": "fbe6f87f9d33ca7e8d0eb661be1e88e444fad23cd6e54b21cf4fa5642c81b4f2",
+      "registros_originales": 4469
+    }
+  ],
+  "fuentes_actualizadas_franja": {
+    "viales": {
+      "servicio": "https://sigma.madrid.es/hosted/rest/services/CALLEJERO/CALLEJERO_VIALES/MapServer/0",
+      "consulta": "2026-11-05T09:36:18.018005+00:00",
+      "bbox25830": [
+        443521.40423429175,
+        4477065.626686959,
+        445291.20896169636,
+        4478928.1138468245
+      ],
+      "conteo_servidor_rectangulo": 171,
+      "conteo_geojson_recortado": 122,
+      "geometrias_nulas": 0,
+      "descargas": [
+        {
+          "url": "https://sigma.madrid.es/hosted/rest/services/CALLEJERO/CALLEJERO_VIALES/MapServer/0?f=pjson",
+          "archivo": "originales_franja/viales_metadatos.json",
+          "bytes": 6048,
+          "sha256": "816af4307d3e9babecc48b06598244f69173959ca3c418ece76b1a8705b4fb51"
+        },
+        {
+          "url": "https://sigma.madrid.es/hosted/rest/services/CALLEJERO/CALLEJERO_VIALES/MapServer/0/query?where=1%3D1&geometry=443521.40423429175%2C4477065.626686959%2C445291.20896169636%2C4478928.1138468245&geometryType=esriGeometryEnvelope&inSR=25830&spatialRel=esriSpatialRelIntersects&returnCountOnly=true&f=json",
+          "archivo": "originales_franja/viales_conteo.json",
+          "bytes": 13,
+          "sha256": "e789b538e28f86b843a507571e67519959d586999afd80e825c1b4f1ed859ee8"
+        },
+        {
+          "url": "https://sigma.madrid.es/hosted/rest/services/CALLEJERO/CALLEJERO_VIALES/MapServer/0/query?where=1%3D1&geometry=443521.40423429175%2C4477065.626686959%2C445291.20896169636%2C4478928.1138468245&geometryType=esriGeometryEnvelope&inSR=25830&spatialRel=esriSpatialRelIntersects&outFields=%2A&returnGeometry=true&outSR=25830&resultOffset=0&resultRecordCount=1000&orderByFields=OBJECTID+ASC&f=geojson",
+          "archivo": "originales_franja/viales_0.geojson",
+          "bytes": 3677615,
+          "sha256": "ded6a4721f955988e10bb4f11f888d767508999f32273abb632c7eead2e1ec5c"
+        }
+      ]
+    },
+    "aceras": {
+      "servicio": "https://sigma.madrid.es/hosted/rest/services/CARTOGRAFIA/ANCHO_MEDIO_ACERA/MapServer/0",
+      "consulta": "2026-11-05T09:36:29.339953+00:00",
+      "bbox25830": [
+        443521.40423429175,
+        4477065.626686959,
+        445291.20896169636,
+        4478928.1138468245
+      ],
+      "conteo_servidor_rectangulo": 1251,
+      "conteo_geojson_recortado": 801,
+      "geometrias_nulas": 0,
+      "descargas": [
+        {
+          "url": "https://sigma.madrid.es/hosted/rest/services/CARTOGRAFIA/ANCHO_MEDIO_ACERA/MapServer/0?f=pjson",
+          "archivo": "originales_franja/aceras_metadatos.json",
+          "bytes": 6506,
+          "sha256": "366398132e703975a611df90bc350c870a3191a30ee8ab3f2dd28fc8e99014a2"
+        },
+        {
+          "url": "https://sigma.madrid.es/hosted/rest/services/CARTOGRAFIA/ANCHO_MEDIO_ACERA/MapServer/0/query?where=1%3D1&geometry=443521.40423429175%2C4477065.626686959%2C445291.20896169636%2C4478928.1138468245&geometryType=esriGeometryEnvelope&inSR=25830&spatialRel=esriSpatialRelIntersects&returnCountOnly=true&f=json",
+          "archivo": "originales_franja/aceras_conteo.json",
+          "bytes": 14,
+          "sha256": "f5e3ddb879214ee0c710050fe0e68ab06c8c75c26e2de8ca8042050c3503a017"
+        },
+        {
+          "url": "https://sigma.madrid.es/hosted/rest/services/CARTOGRAFIA/ANCHO_MEDIO_ACERA/MapServer/0/query?where=1%3D1&geometry=443521.40423429175%2C4477065.626686959%2C445291.20896169636%2C4478928.1138468245&geometryType=esriGeometryEnvelope&inSR=25830&spatialRel=esriSpatialRelIntersects&outFields=%2A&returnGeometry=true&outSR=25830&resultOffset=0&resultRecordCount=1000&orderByFields=OBJECTID+ASC&f=geojson",
+          "archivo": "originales_franja/aceras_0.geojson",
+          "bytes": 1765425,
+          "sha256": "64af791aafcd7e01b55465f0f01dca66ea89b6265e2156dff838afa5ca62fd43"
+        },
+        {
+          "url": "https://sigma.madrid.es/hosted/rest/services/CARTOGRAFIA/ANCHO_MEDIO_ACERA/MapServer/0/query?where=1%3D1&geometry=443521.40423429175%2C4477065.626686959%2C445291.20896169636%2C4478928.1138468245&geometryType=esriGeometryEnvelope&inSR=25830&spatialRel=esriSpatialRelIntersects&outFields=%2A&returnGeometry=true&outSR=25830&resultOffset=1000&resultRecordCount=1000&orderByFields=OBJECTID+ASC&f=geojson",
+          "archivo": "originales_franja/aceras_1000.geojson",
+          "bytes": 393794,
+          "sha256": "672e7242bb2f25eaace2748c51885adc8a68c64f1cf824f7ca1ddf32b22e98f5"
+        }
+      ]
+    }
+  }
+}

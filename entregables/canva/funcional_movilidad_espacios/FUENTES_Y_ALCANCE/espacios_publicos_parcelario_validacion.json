@@ -1,0 +1,41 @@
+{
+  "ambito": "155,156,162,208",
+  "crs": "EPSG:25830",
+  "generalizacion_geometrica": false,
+  "clases_base_excluyentes": true,
+  "huella_edificada_superpuesta_no_sumar": true,
+  "resultados": [
+    {
+      "barrio": "San Pascual",
+      "codigo": "155",
+      "area_barrio_m2": 1052724.6118157513,
+      "suma_clases_base_m2": 1052724.6117022482,
+      "diferencia_m2": -0.00011350307613611221,
+      "cobertura_100_pct": true
+    },
+    {
+      "barrio": "El Salvador",
+      "codigo": "208",
+      "area_barrio_m2": 1880109.73779526,
+      "suma_clases_base_m2": 1880109.737795244,
+      "diferencia_m2": -1.6065314412117004e-08,
+      "cobertura_100_pct": true
+    },
+    {
+      "barrio": "San Juan Bautista",
+      "codigo": "156",
+      "area_barrio_m2": 1010844.211708565,
+      "suma_clases_base_m2": 1010844.2116363001,
+      "diferencia_m2": -7.226492743939161e-05,
+      "cobertura_100_pct": true
+    },
+    {
+      "barrio": "La Piovera",
+      "codigo": "162",
+      "area_barrio_m2": 3139650.419397598,
+      "suma_clases_base_m2": 3139650.419218121,
+      "diferencia_m2": -0.0001794770359992981,
+      "cobertura_100_pct": true
+    }
+  ]
+}

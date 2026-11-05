@@ -1,0 +1,72 @@
+[
+  {
+    "archivo": "docente_6104_ficha.html",
+    "sha256": "1a5c790b1586de4dd451af53398d17e2b3c30a3686ce88f451fb9deb43718801",
+    "bytes": 130891,
+    "organismo": "Ayuntamiento de Madrid",
+    "fecha_consulta": "2026-11-05"
+  },
+  {
+    "archivo": "docente_6145_ficha.html",
+    "sha256": "b9acd4d8fa186ba6e7a516747427149a258cd7e8d01aca88d2125b711b1be9ee",
+    "bytes": 131361,
+    "organismo": "Ayuntamiento de Madrid",
+    "fecha_consulta": "2026-11-05"
+  },
+  {
+    "archivo": "docente_6147_ficha.html",
+    "sha256": "0e77ce5f3db5835433abc7a7a0b19dc2d91ed11e7f470a4633f639d19f556c31",
+    "bytes": 131411,
+    "organismo": "Ayuntamiento de Madrid",
+    "fecha_consulta": "2026-11-05"
+  },
+  {
+    "archivo": "docente_6149_ficha.html",
+    "sha256": "e242a3df0c9213488afc3624c69141bf5aa47e8fdb19cb7f375798ded4440fee",
+    "bytes": 132761,
+    "organismo": "Ayuntamiento de Madrid",
+    "fecha_consulta": "2026-11-05"
+  },
+  {
+    "archivo": "hospital_9138_ficha.html",
+    "sha256": "d707b01720b7f6a22778b4a8025295bfa0465840a73b9d192cbf6101b2d259d0",
+    "bytes": 130064,
+    "organismo": "Ayuntamiento de Madrid",
+    "fecha_consulta": "2026-11-05"
+  },
+  {
+    "archivo": "hospital_9145_ficha.html",
+    "sha256": "c05960bf5b823634a721c15314260add8980669e7d5676bef4c47285548d1fda",
+    "bytes": 130369,
+    "organismo": "Ayuntamiento de Madrid",
+    "fecha_consulta": "2026-11-05"
+  },
+  {
+    "archivo": "hospital_9146_ficha.html",
+    "sha256": "45b9275e1ac1a6190b7fb413bdf93c38c99a65c8fd390fe72054b37c317eb4ae",
+    "bytes": 129371,
+    "organismo": "Ayuntamiento de Madrid",
+    "fecha_consulta": "2026-11-05"
+  },
+  {
+    "archivo": "hospital_9151_ficha.html",
+    "sha256": "52aa9200b05c2a332ac54af4db6600a1c7bfe65d7f7490e6cee8f3cd51acec66",
+    "bytes": 129795,
+    "organismo": "Ayuntamiento de Madrid",
+    "fecha_consulta": "2026-11-05"
+  },
+  {
+    "archivo": "hospital_9154_ficha.html",
+    "sha256": "9ca395654f31c492d569243bc62fd8ca07ba8e3955399ccd253df0967a657b01",
+    "bytes": 130046,
+    "organismo": "Ayuntamiento de Madrid",
+    "fecha_consulta": "2026-11-05"
+  },
+  {
+    "archivo": "hospital_9156_ficha.html",
+    "sha256": "920a02e603d5217ff06fa68c7998f0fbb3af8339003055a7c9c38da9ecf87e3a",
+    "bytes": 129584,
+    "organismo": "Ayuntamiento de Madrid",
+    "fecha_consulta": "2026-11-05"
+  }
+]

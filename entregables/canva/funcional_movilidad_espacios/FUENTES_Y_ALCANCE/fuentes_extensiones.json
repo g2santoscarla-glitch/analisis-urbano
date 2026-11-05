@@ -1,0 +1,457 @@
+[
+  {
+    "url": "https://sigma.madrid.es/hosted/rest/services/GEOPORTAL/EQUIPAMIENTOS_DEPORTIVOS/MapServer/0/query?objectIds=12&returnExtentOnly=true&outSR=25830&f=json",
+    "archivo": "deporte_extent_12.json",
+    "sha256": "81aeb923da0c4fb0b1fd04e841329e94eddb79cdde909a4b8bfbbfb694c2932f",
+    "bytes": 123,
+    "fecha_consulta": "2026-11-05"
+  },
+  {
+    "url": "https://sigma.madrid.es/hosted/rest/services/GEOPORTAL/EQUIPAMIENTOS_DEPORTIVOS/MapServer/0/query?objectIds=15&returnExtentOnly=true&outSR=25830&f=json",
+    "archivo": "deporte_extent_15.json",
+    "sha256": "3d00dbcf1117d3dfe1358bd1b8557ba59272f81c7c11b5289527066d2c332f47",
+    "bytes": 123,
+    "fecha_consulta": "2026-11-05"
+  },
+  {
+    "url": "https://sigma.madrid.es/hosted/rest/services/GEOPORTAL/EQUIPAMIENTOS_DEPORTIVOS/MapServer/0/query?objectIds=31&returnExtentOnly=true&outSR=25830&f=json",
+    "archivo": "deporte_extent_31.json",
+    "sha256": "a048f427b1d72fe80970671f2a905ec79db9d01eda2d8b9a34a11f17b71e04eb",
+    "bytes": 123,
+    "fecha_consulta": "2026-11-05"
+  },
+  {
+    "url": "https://sigma.madrid.es/hosted/rest/services/GEOPORTAL/EQUIPAMIENTOS_DEPORTIVOS/MapServer/0/query?objectIds=60&returnExtentOnly=true&outSR=25830&f=json",
+    "archivo": "deporte_extent_60.json",
+    "sha256": "885ee6f988fe015cf4ec9305145363157d4e9589e02ae6652ed76613fcbcd354",
+    "bytes": 123,
+    "fecha_consulta": "2026-11-05"
+  },
+  {
+    "url": "https://sigma.madrid.es/hosted/rest/services/GEOPORTAL/EQUIPAMIENTOS_DEPORTIVOS/MapServer/0/query?objectIds=66&returnExtentOnly=true&outSR=25830&f=json",
+    "archivo": "deporte_extent_66.json",
+    "sha256": "827a8f37473fe3f17f079b6fdc9afab331ed4f92f06e13bd1b7f5c4d2dc35491",
+    "bytes": 123,
+    "fecha_consulta": "2026-11-05"
+  },
+  {
+    "url": "https://sigma.madrid.es/hosted/rest/services/GEOPORTAL/EQUIPAMIENTOS_DEPORTIVOS/MapServer/2/query?objectIds=39&returnExtentOnly=true&outSR=25830&f=json",
+    "archivo": "deporte_basico_extent_39.json",
+    "sha256": "995cd5d19a7f7feed287e84601fee05cf01a374481ecac7377bc735a96f7e1cd",
+    "bytes": 123,
+    "fecha_consulta": "2026-11-05"
+  },
+  {
+    "url": "https://sigma.madrid.es/hosted/rest/services/GEOPORTAL/EQUIPAMIENTOS_DEPORTIVOS/MapServer/2/query?objectIds=62&returnExtentOnly=true&outSR=25830&f=json",
+    "archivo": "deporte_basico_extent_62.json",
+    "sha256": "90dc0397271375f76b98faac4eb71fee1b6dec35dbbe1d7ac30da37a8229701f",
+    "bytes": 123,
+    "fecha_consulta": "2026-11-05"
+  },
+  {
+    "url": "https://sigma.madrid.es/hosted/rest/services/GEOPORTAL/EQUIPAMIENTOS_DEPORTIVOS/MapServer/2/query?objectIds=79&returnExtentOnly=true&outSR=25830&f=json",
+    "archivo": "deporte_basico_extent_79.json",
+    "sha256": "5973e9dd142056a69b18d25cea3023c088ea6e5f35764e28a5a23a4c209cd07b",
+    "bytes": 123,
+    "fecha_consulta": "2026-11-05"
+  },
+  {
+    "url": "https://sigma.madrid.es/hosted/rest/services/GEOPORTAL/EQUIPAMIENTOS_DEPORTIVOS/MapServer/2/query?objectIds=82&returnExtentOnly=true&outSR=25830&f=json",
+    "archivo": "deporte_basico_extent_82.json",
+    "sha256": "ccc8aed7c20da50812591e18aa412ce103cca84c02b6e347dd124bb84de51078",
+    "bytes": 123,
+    "fecha_consulta": "2026-11-05"
+  },
+  {
+    "url": "https://sigma.madrid.es/hosted/rest/services/GEOPORTAL/EQUIPAMIENTOS_DEPORTIVOS/MapServer/2/query?objectIds=90&returnExtentOnly=true&outSR=25830&f=json",
+    "archivo": "deporte_basico_extent_90.json",
+    "sha256": "0dfd89b1c328a4eb4ca3a86dffc01420efa6fd0359bc1352e4a6146a0744dce6",
+    "bytes": 123,
+    "fecha_consulta": "2026-11-05"
+  },
+  {
+    "url": "https://sigma.madrid.es/hosted/rest/services/GEOPORTAL/EQUIPAMIENTOS_DEPORTIVOS/MapServer/2/query?objectIds=99&returnExtentOnly=true&outSR=25830&f=json",
+    "archivo": "deporte_basico_extent_99.json",
+    "sha256": "e82c150ab86af4775ad058e5c9f6579882ec9a64bb28b1811c482433ae502522",
+    "bytes": 123,
+    "fecha_consulta": "2026-11-05"
+  },
+  {
+    "url": "https://sigma.madrid.es/hosted/rest/services/GEOPORTAL/EQUIPAMIENTOS_DEPORTIVOS/MapServer/2/query?objectIds=105&returnExtentOnly=true&outSR=25830&f=json",
+    "archivo": "deporte_basico_extent_105.json",
+    "sha256": "7a2949e2ee96b4399ffd2bf28428628f23736ff8051eb5592ac605d53ed81bb2",
+    "bytes": 123,
+    "fecha_consulta": "2026-11-05"
+  },
+  {
+    "url": "https://sigma.madrid.es/hosted/rest/services/GEOPORTAL/EQUIPAMIENTOS_DEPORTIVOS/MapServer/2/query?objectIds=126&returnExtentOnly=true&outSR=25830&f=json",
+    "archivo": "deporte_basico_extent_126.json",
+    "sha256": "faec174424740ed8f97415dd10d8bc902e902a2ee2810068328dc581acdabef4",
+    "bytes": 123,
+    "fecha_consulta": "2026-11-05"
+  },
+  {
+    "url": "https://sigma.madrid.es/hosted/rest/services/GEOPORTAL/EQUIPAMIENTOS_DEPORTIVOS/MapServer/2/query?objectIds=128&returnExtentOnly=true&outSR=25830&f=json",
+    "archivo": "deporte_basico_extent_128.json",
+    "sha256": "dbb8f5a0b03f26cca9506c74d29edbfdcb98293f8474056a0785db7f4ae55498",
+    "bytes": 123,
+    "fecha_consulta": "2026-11-05"
+  },
+  {
+    "url": "https://sigma.madrid.es/hosted/rest/services/GEOPORTAL/EQUIPAMIENTOS_DEPORTIVOS/MapServer/2/query?objectIds=132&returnExtentOnly=true&outSR=25830&f=json",
+    "archivo": "deporte_basico_extent_132.json",
+    "sha256": "bbc1fa47778c0bd8bd9c40197c8a4fcf5cf8d5c49be9085505b6d25fa004813e",
+    "bytes": 123,
+    "fecha_consulta": "2026-11-05"
+  },
+  {
+    "url": "https://sigma.madrid.es/hosted/rest/services/GEOPORTAL/EQUIPAMIENTOS_DEPORTIVOS/MapServer/2/query?objectIds=140&returnExtentOnly=true&outSR=25830&f=json",
+    "archivo": "deporte_basico_extent_140.json",
+    "sha256": "3f2bb56ac68a62e4b650284152b1eb05867d882ffbf2bf2005ac96460a4c8031",
+    "bytes": 123,
+    "fecha_consulta": "2026-11-05"
+  },
+  {
+    "url": "https://sigma.madrid.es/hosted/rest/services/GEOPORTAL/EQUIPAMIENTOS_DEPORTIVOS/MapServer/2/query?objectIds=153&returnExtentOnly=true&outSR=25830&f=json",
+    "archivo": "deporte_basico_extent_153.json",
+    "sha256": "af80785051d06aa01b49a354e10d557fe69dbb95ee636134e200f3c1b42a7c8b",
+    "bytes": 123,
+    "fecha_consulta": "2026-11-05"
+  },
+  {
+    "url": "https://sigma.madrid.es/hosted/rest/services/GEOPORTAL/EQUIPAMIENTOS_DEPORTIVOS/MapServer/2/query?objectIds=172&returnExtentOnly=true&outSR=25830&f=json",
+    "archivo": "deporte_basico_extent_172.json",
+    "sha256": "c1fb01ddac39de34e7b4f8dccdc285e0788909ffbbff52bc05cccbab2327dbd8",
+    "bytes": 123,
+    "fecha_consulta": "2026-11-05"
+  },
+  {
+    "url": "https://sigma.madrid.es/hosted/rest/services/GEOPORTAL/EQUIPAMIENTOS_DEPORTIVOS/MapServer/2/query?objectIds=173&returnExtentOnly=true&outSR=25830&f=json",
+    "archivo": "deporte_basico_extent_173.json",
+    "sha256": "33894781ec8aa64f5262fc4fb7a61830a539a87aba851482a00a5ece0dc07359",
+    "bytes": 123,
+    "fecha_consulta": "2026-11-05"
+  },
+  {
+    "url": "https://sigma.madrid.es/hosted/rest/services/GEOPORTAL/EQUIPAMIENTOS_DEPORTIVOS/MapServer/2/query?objectIds=195&returnExtentOnly=true&outSR=25830&f=json",
+    "archivo": "deporte_basico_extent_195.json",
+    "sha256": "299319260031fb04d9910fb42fa7501e899d5c30b7a5be218db91667c5d6fae6",
+    "bytes": 123,
+    "fecha_consulta": "2026-11-05"
+  },
+  {
+    "url": "https://sigma.madrid.es/hosted/rest/services/GEOPORTAL/EQUIPAMIENTOS_DEPORTIVOS/MapServer/2/query?objectIds=213&returnExtentOnly=true&outSR=25830&f=json",
+    "archivo": "deporte_basico_extent_213.json",
+    "sha256": "eb8fd7deb2fa4beeb22a6db3a5b9ec7aecc1a076b39989a8b2be597ecfb0dbc7",
+    "bytes": 123,
+    "fecha_consulta": "2026-11-05"
+  },
+  {
+    "url": "https://sigma.madrid.es/hosted/rest/services/GEOPORTAL/EQUIPAMIENTOS_DEPORTIVOS/MapServer/2/query?objectIds=252&returnExtentOnly=true&outSR=25830&f=json",
+    "archivo": "deporte_basico_extent_252.json",
+    "sha256": "a1f1374cc91047d3b586fcc4496f732129d316b6453d98d2121ca29f03ff5eb0",
+    "bytes": 123,
+    "fecha_consulta": "2026-11-05"
+  },
+  {
+    "url": "https://sigma.madrid.es/hosted/rest/services/GEOPORTAL/EQUIPAMIENTOS_DEPORTIVOS/MapServer/2/query?objectIds=277&returnExtentOnly=true&outSR=25830&f=json",
+    "archivo": "deporte_basico_extent_277.json",
+    "sha256": "a8949bb3662fc6dace7fc5f0927f83ed608eb1abc229b225b87d4f96ff1a1af5",
+    "bytes": 123,
+    "fecha_consulta": "2026-11-05"
+  },
+  {
+    "url": "https://sigma.madrid.es/hosted/rest/services/GEOPORTAL/EQUIPAMIENTOS_DEPORTIVOS/MapServer/2/query?objectIds=299&returnExtentOnly=true&outSR=25830&f=json",
+    "archivo": "deporte_basico_extent_299.json",
+    "sha256": "d6965c6c7dd5ad347ebfce058fd7e9cca7068b4b8ace2ae268f34c97f1504726",
+    "bytes": 123,
+    "fecha_consulta": "2026-11-05"
+  },
+  {
+    "url": "https://sigma.madrid.es/hosted/rest/services/GEOPORTAL/EQUIPAMIENTOS_DEPORTIVOS/MapServer/2/query?objectIds=310&returnExtentOnly=true&outSR=25830&f=json",
+    "archivo": "deporte_basico_extent_310.json",
+    "sha256": "21d42ea523d15de9e154439de3c4144ac801233fe748226daa6c446671520d38",
+    "bytes": 123,
+    "fecha_consulta": "2026-11-05"
+  },
+  {
+    "url": "https://sigma.madrid.es/hosted/rest/services/GEOPORTAL/EQUIPAMIENTOS_DEPORTIVOS/MapServer/2/query?objectIds=313&returnExtentOnly=true&outSR=25830&f=json",
+    "archivo": "deporte_basico_extent_313.json",
+    "sha256": "eed0c85a71c3049239a9c65ae3599e456266f04586bfe62d5199b567fe7ace5b",
+    "bytes": 123,
+    "fecha_consulta": "2026-11-05"
+  },
+  {
+    "url": "https://sigma.madrid.es/hosted/rest/services/GEOPORTAL/EQUIPAMIENTOS_DEPORTIVOS/MapServer/2/query?objectIds=323&returnExtentOnly=true&outSR=25830&f=json",
+    "archivo": "deporte_basico_extent_323.json",
+    "sha256": "fe6eaec17cd9695031761717be3d53b0f55fd88ed912e23688d0602bb4969200",
+    "bytes": 123,
+    "fecha_consulta": "2026-11-05"
+  },
+  {
+    "url": "https://sigma.madrid.es/hosted/rest/services/GEOPORTAL/EQUIPAMIENTOS_DEPORTIVOS/MapServer/2/query?objectIds=349&returnExtentOnly=true&outSR=25830&f=json",
+    "archivo": "deporte_basico_extent_349.json",
+    "sha256": "f044a5c3b150ca489d51617aeddd79067afd46992844a3d7344e980b0d96d965",
+    "bytes": 123,
+    "fecha_consulta": "2026-11-05"
+  },
+  {
+    "url": "https://sigma.madrid.es/hosted/rest/services/GEOPORTAL/EQUIPAMIENTOS_DEPORTIVOS/MapServer/2/query?objectIds=352&returnExtentOnly=true&outSR=25830&f=json",
+    "archivo": "deporte_basico_extent_352.json",
+    "sha256": "17fc6cf834b50d8bc2e3c712854eff0de261a4b959fcbf765e11e6f9d35a651e",
+    "bytes": 123,
+    "fecha_consulta": "2026-11-05"
+  },
+  {
+    "url": "https://sigma.madrid.es/hosted/rest/services/GEOPORTAL/EQUIPAMIENTOS_DEPORTIVOS/MapServer/2/query?objectIds=404&returnExtentOnly=true&outSR=25830&f=json",
+    "archivo": "deporte_basico_extent_404.json",
+    "sha256": "d6965c6c7dd5ad347ebfce058fd7e9cca7068b4b8ace2ae268f34c97f1504726",
+    "bytes": 123,
+    "fecha_consulta": "2026-11-05"
+  },
+  {
+    "url": "https://sigma.madrid.es/hosted/rest/services/GEOPORTAL/EQUIPAMIENTOS_DEPORTIVOS/MapServer/2/query?objectIds=407&returnExtentOnly=true&outSR=25830&f=json",
+    "archivo": "deporte_basico_extent_407.json",
+    "sha256": "0d11ebadd32d7c9e83dd964fd002d9f968f7c330722e33c4bf45bb42141d1fb6",
+    "bytes": 123,
+    "fecha_consulta": "2026-11-05"
+  },
+  {
+    "url": "https://sigma.madrid.es/hosted/rest/services/GEOPORTAL/EQUIPAMIENTOS_DEPORTIVOS/MapServer/2/query?objectIds=408&returnExtentOnly=true&outSR=25830&f=json",
+    "archivo": "deporte_basico_extent_408.json",
+    "sha256": "0d11ebadd32d7c9e83dd964fd002d9f968f7c330722e33c4bf45bb42141d1fb6",
+    "bytes": 123,
+    "fecha_consulta": "2026-11-05"
+  },
+  {
+    "url": "https://sigma.madrid.es/hosted/rest/services/GEOPORTAL/EQUIPAMIENTOS_DEPORTIVOS/MapServer/2/query?objectIds=409&returnExtentOnly=true&outSR=25830&f=json",
+    "archivo": "deporte_basico_extent_409.json",
+    "sha256": "0f03c30404124f34e76cc70aa9cdc7aac780a8ea3ccfb36f57c73910432e357d",
+    "bytes": 123,
+    "fecha_consulta": "2026-11-05"
+  },
+  {
+    "url": "https://sigma.madrid.es/hosted/rest/services/GEOPORTAL/EQUIPAMIENTOS_DEPORTIVOS/MapServer/2/query?objectIds=418&returnExtentOnly=true&outSR=25830&f=json",
+    "archivo": "deporte_basico_extent_418.json",
+    "sha256": "e7b67ab5a195b4662f8c13c709a74870476ba350ee4e271ba7b896fd98542d3b",
+    "bytes": 123,
+    "fecha_consulta": "2026-11-05"
+  },
+  {
+    "url": "https://sigma.madrid.es/hosted/rest/services/GEOPORTAL/EQUIPAMIENTOS_DEPORTIVOS/MapServer/2/query?objectIds=439&returnExtentOnly=true&outSR=25830&f=json",
+    "archivo": "deporte_basico_extent_439.json",
+    "sha256": "18de1f83224825ac7e6e9d48c4d4140f45bc8d635a6216c98c61680cd42bbf89",
+    "bytes": 123,
+    "fecha_consulta": "2026-11-05"
+  },
+  {
+    "url": "https://sigma.madrid.es/hosted/rest/services/GEOPORTAL/EQUIPAMIENTOS_DEPORTIVOS/MapServer/2/query?objectIds=441&returnExtentOnly=true&outSR=25830&f=json",
+    "archivo": "deporte_basico_extent_441.json",
+    "sha256": "c99d5e8992879eaa52a9e9d342db87247131013b3c47204a1cab0e677b698d08",
+    "bytes": 123,
+    "fecha_consulta": "2026-11-05"
+  },
+  {
+    "url": "https://sigma.madrid.es/hosted/rest/services/GEOPORTAL/EQUIPAMIENTOS_DEPORTIVOS/MapServer/2/query?objectIds=451&returnExtentOnly=true&outSR=25830&f=json",
+    "archivo": "deporte_basico_extent_451.json",
+    "sha256": "83a3114963e710db9a845c95ec0087f1c2b5abd7e20b36c6c1807ddce3162adf",
+    "bytes": 123,
+    "fecha_consulta": "2026-11-05"
+  },
+  {
+    "url": "https://sigma.madrid.es/hosted/rest/services/GEOPORTAL/EQUIPAMIENTOS_DEPORTIVOS/MapServer/2/query?objectIds=463&returnExtentOnly=true&outSR=25830&f=json",
+    "archivo": "deporte_basico_extent_463.json",
+    "sha256": "410ba5253e1a6f57dd954fd73114bbb15869155914db4fc275b58564959f087d",
+    "bytes": 123,
+    "fecha_consulta": "2026-11-05"
+  },
+  {
+    "url": "https://sigma.madrid.es/hosted/rest/services/GEOPORTAL/EQUIPAMIENTOS_DEPORTIVOS/MapServer/2/query?objectIds=465&returnExtentOnly=true&outSR=25830&f=json",
+    "archivo": "deporte_basico_extent_465.json",
+    "sha256": "c15905d5dc266f318f2dc714735069cc2bfb7f584a1994b51cc05994f2361f55",
+    "bytes": 123,
+    "fecha_consulta": "2026-11-05"
+  },
+  {
+    "url": "https://sigma.madrid.es/hosted/rest/services/CULTURA/CENTROS_CULTURALES/MapServer/5/query?objectIds=25&returnExtentOnly=true&outSR=25830&f=json",
+    "archivo": "cultura_extent_25.json",
+    "sha256": "964745d41e98b88d5e220e406ed30bb8affb7ff2f7e4415f8eb1f52a6b7857dc",
+    "bytes": 169,
+    "fecha_consulta": "2026-11-05"
+  },
+  {
+    "url": "https://sigma.madrid.es/hosted/rest/services/CULTURA/CENTROS_CULTURALES/MapServer/5/query?objectIds=26&returnExtentOnly=true&outSR=25830&f=json",
+    "archivo": "cultura_extent_26.json",
+    "sha256": "d3399baa29fcbd90d4092813a4a4dcd297d052533e0e65ef27b3cfc82b73cfff",
+    "bytes": 169,
+    "fecha_consulta": "2026-11-05"
+  },
+  {
+    "url": "https://sigma.madrid.es/hosted/rest/services/CULTURA/CENTROS_CULTURALES/MapServer/5/query?objectIds=29&returnExtentOnly=true&outSR=25830&f=json",
+    "archivo": "cultura_extent_29.json",
+    "sha256": "b4263c9c1d8c964c22dfa693fc3726056a19a741bd395fbb48f80fe01d55fb6c",
+    "bytes": 169,
+    "fecha_consulta": "2026-11-05"
+  },
+  {
+    "url": "https://sigma.madrid.es/hosted/rest/services/CULTURA/CENTROS_CULTURALES/MapServer/5/query?objectIds=74&returnExtentOnly=true&outSR=25830&f=json",
+    "archivo": "cultura_extent_74.json",
+    "sha256": "676ff42469b498c1e0c5019b840c6d165d7288d822d22b624ed0766ca54ef60f",
+    "bytes": 169,
+    "fecha_consulta": "2026-11-05"
+  },
+  {
+    "url": "https://sigma.madrid.es/hosted/rest/services/CULTURA/CENTROS_CULTURALES/MapServer/5/query?objectIds=91&returnExtentOnly=true&outSR=25830&f=json",
+    "archivo": "cultura_extent_91.json",
+    "sha256": "96b4ffde35724befd71e9e7011c055e45e06de7114c157ac0f41983e92d2e9f5",
+    "bytes": 169,
+    "fecha_consulta": "2026-11-05"
+  },
+  {
+    "url": "https://sigma.madrid.es/hosted/rest/services/GEOPORTAL/COLEGIOS_PUBLICOS__PATIOS_ESCOLARES_2022/MapServer/0/query?objectIds=644&returnExtentOnly=true&outSR=25830&f=json",
+    "archivo": "ceip0_extent_644.json",
+    "sha256": "1c81f5f0f4e6a07f42c731517a16abded1c8a72b68c48831860b312412032947",
+    "bytes": 123,
+    "fecha_consulta": "2026-11-05"
+  },
+  {
+    "url": "https://sigma.madrid.es/hosted/rest/services/GEOPORTAL/COLEGIOS_PUBLICOS__PATIOS_ESCOLARES_2022/MapServer/0/query?objectIds=645&returnExtentOnly=true&outSR=25830&f=json",
+    "archivo": "ceip0_extent_645.json",
+    "sha256": "64fe5533ab2b40e6201aa3836e75fec316a62c86b3660992ec806b39a09051b1",
+    "bytes": 123,
+    "fecha_consulta": "2026-11-05"
+  },
+  {
+    "url": "https://sigma.madrid.es/hosted/rest/services/GEOPORTAL/COLEGIOS_PUBLICOS__PATIOS_ESCOLARES_2022/MapServer/0/query?objectIds=661&returnExtentOnly=true&outSR=25830&f=json",
+    "archivo": "ceip0_extent_661.json",
+    "sha256": "a20e2bf07cdeaefbaa11512caec1b82eb55db5083285c1ca5948fd4ae1fbc3d4",
+    "bytes": 123,
+    "fecha_consulta": "2026-11-05"
+  },
+  {
+    "url": "https://sigma.madrid.es/hosted/rest/services/GEOPORTAL/COLEGIOS_PUBLICOS__PATIOS_ESCOLARES_2022/MapServer/1/query?objectIds=519&returnExtentOnly=true&outSR=25830&f=json",
+    "archivo": "ceip1_extent_519.json",
+    "sha256": "2449ca9f49cb802121cc064c15b023e4d7d966b76b35f7a913bd827fa0d8020f",
+    "bytes": 123,
+    "fecha_consulta": "2026-11-05"
+  },
+  {
+    "url": "https://sigma.madrid.es/hosted/rest/services/GEOPORTAL/COLEGIOS_PUBLICOS__PATIOS_ESCOLARES_2022/MapServer/2/query?objectIds=534&returnExtentOnly=true&outSR=25830&f=json",
+    "archivo": "ceip2_extent_534.json",
+    "sha256": "1f2099bcde58a6c8472ccfc43234544319ad9e6f3945e30cd76fd9bbd7ffd327",
+    "bytes": 123,
+    "fecha_consulta": "2026-11-05"
+  },
+  {
+    "url": "https://sigma.madrid.es/hosted/rest/services/GEOPORTAL/COLEGIOS_PUBLICOS__PATIOS_ESCOLARES_2022/MapServer/2/query?objectIds=551&returnExtentOnly=true&outSR=25830&f=json",
+    "archivo": "ceip2_extent_551.json",
+    "sha256": "8056bba0412eecb9df967d77e74aea5e5c38fd760274f818bc369bbd3293e343",
+    "bytes": 123,
+    "fecha_consulta": "2026-11-05"
+  },
+  {
+    "url": "https://sigma.madrid.es/hosted/rest/services/GEOPORTAL/COLEGIOS_PUBLICOS__PATIOS_ESCOLARES_2022/MapServer/2/query?objectIds=575&returnExtentOnly=true&outSR=25830&f=json",
+    "archivo": "ceip2_extent_575.json",
+    "sha256": "bfad1e2096ca732febfeb828f5c14257414820d51d5ef2ceb438dc8b8f88b04d",
+    "bytes": 123,
+    "fecha_consulta": "2026-11-05"
+  },
+  {
+    "url": "https://sigma.madrid.es/hosted/rest/services/GEOPORTAL/COLEGIOS_PUBLICOS__PATIOS_ESCOLARES_2022/MapServer/2/query?objectIds=597&returnExtentOnly=true&outSR=25830&f=json",
+    "archivo": "ceip2_extent_597.json",
+    "sha256": "3ec454a68c604e94bb447939c381b1ad0f651bb3f2ab21883d0a2b40a0f031cd",
+    "bytes": 123,
+    "fecha_consulta": "2026-11-05"
+  },
+  {
+    "url": "https://sigma.madrid.es/hosted/rest/services/GEOPORTAL/COLEGIOS_PUBLICOS__PATIOS_ESCOLARES_2022/MapServer/2/query?objectIds=606&returnExtentOnly=true&outSR=25830&f=json",
+    "archivo": "ceip2_extent_606.json",
+    "sha256": "53df40155f727d03c7a7ae08e090c4f6ab7ad097c96541860d0b0caa0caf63cb",
+    "bytes": 123,
+    "fecha_consulta": "2026-11-05"
+  },
+  {
+    "url": "https://sigma.madrid.es/hosted/rest/services/GEOPORTAL/COLEGIOS_PUBLICOS__PATIOS_ESCOLARES_2022/MapServer/2/query?objectIds=674&returnExtentOnly=true&outSR=25830&f=json",
+    "archivo": "ceip2_extent_674.json",
+    "sha256": "2fecb835a131ba17c2baa1dd0d37cdcb2fe8fb54d65555762eca774ef4533f03",
+    "bytes": 123,
+    "fecha_consulta": "2026-11-05"
+  },
+  {
+    "url": "https://sigma.madrid.es/hosted/rest/services/GEOPORTAL/COLEGIOS_PUBLICOS__PATIOS_ESCOLARES_2022/MapServer/2/query?objectIds=683&returnExtentOnly=true&outSR=25830&f=json",
+    "archivo": "ceip2_extent_683.json",
+    "sha256": "f7ad7617ab08fcc284bf05df6de4e98dfe2716c9d2916a4d5ee2a4cd4682591f",
+    "bytes": 123,
+    "fecha_consulta": "2026-11-05"
+  },
+  {
+    "url": "https://sigma.madrid.es/hosted/rest/services/GEOPORTAL/COLEGIOS_PUBLICOS__PATIOS_ESCOLARES_2022/MapServer/2/query?objectIds=724&returnExtentOnly=true&outSR=25830&f=json",
+    "archivo": "ceip2_extent_724.json",
+    "sha256": "7da6abc276ea03a082689672ba8c86a2eaefe4de7b7c818c30d9d220dda32215",
+    "bytes": 123,
+    "fecha_consulta": "2026-11-05"
+  },
+  {
+    "url": "https://sigma.madrid.es/hosted/rest/services/GEOPORTAL/COLEGIOS_PUBLICOS__PATIOS_ESCOLARES_2022/MapServer/2/query?objectIds=731&returnExtentOnly=true&outSR=25830&f=json",
+    "archivo": "ceip2_extent_731.json",
+    "sha256": "eff623d91649cc18e12be3be028c9c01cdee4212e71dd3b326bd665ca48478a9",
+    "bytes": 123,
+    "fecha_consulta": "2026-11-05"
+  },
+  {
+    "url": "https://sigma.madrid.es/hosted/rest/services/BIENESTAR_SOCIAL/CENTROS_DE_SALUD_DE_ATENCI%C3%93N_PRIMARIA/MapServer/0/query?objectIds=16&returnExtentOnly=true&outSR=25830&f=json",
+    "archivo": "salud_extent_16.json",
+    "sha256": "d8dbb82b3c38285fe215e29b94ac7bc31571898039fe1bb76e18fd14e12bcc13",
+    "bytes": 169,
+    "fecha_consulta": "2026-11-05"
+  },
+  {
+    "url": "https://sigma.madrid.es/hosted/rest/services/BIENESTAR_SOCIAL/CENTROS_DE_SALUD_DE_ATENCI%C3%93N_PRIMARIA/MapServer/0/query?objectIds=42&returnExtentOnly=true&outSR=25830&f=json",
+    "archivo": "salud_extent_42.json",
+    "sha256": "d0a6ba7c2c11f48a92675968f485af85c797d7e82546960e0cdf5b4333e7e0a1",
+    "bytes": 169,
+    "fecha_consulta": "2026-11-05"
+  },
+  {
+    "url": "https://sigma.madrid.es/hosted/rest/services/BIENESTAR_SOCIAL/CENTROS_DE_SALUD_DE_ATENCI%C3%93N_PRIMARIA/MapServer/0/query?objectIds=56&returnExtentOnly=true&outSR=25830&f=json",
+    "archivo": "salud_extent_56.json",
+    "sha256": "912a4c8f836d895167d433747615b6cb1decd75dc6572449f0731a1a9fec5ec4",
+    "bytes": 169,
+    "fecha_consulta": "2026-11-05"
+  },
+  {
+    "url": "https://sigma.madrid.es/hosted/rest/services/BIENESTAR_SOCIAL/CENTROS_DE_SALUD_DE_ATENCI%C3%93N_PRIMARIA/MapServer/0/query?objectIds=58&returnExtentOnly=true&outSR=25830&f=json",
+    "archivo": "salud_extent_58.json",
+    "sha256": "739ca475cb4b6fc364114fd7b9aa2d3736da2903c59a8c08cc0e2d2947b01130",
+    "bytes": 169,
+    "fecha_consulta": "2026-11-05"
+  },
+  {
+    "url": "https://sigma.madrid.es/hosted/rest/services/BIENESTAR_SOCIAL/CENTROS_DE_SALUD_DE_ATENCI%C3%93N_PRIMARIA/MapServer/0/query?objectIds=78&returnExtentOnly=true&outSR=25830&f=json",
+    "archivo": "salud_extent_78.json",
+    "sha256": "61e498c995088274995b594a91126b96f019ff9292dc330a821eb7c0ad6d9a48",
+    "bytes": 169,
+    "fecha_consulta": "2026-11-05"
+  },
+  {
+    "url": "https://sigma.madrid.es/hosted/rest/services/BIENESTAR_SOCIAL/CENTROS_DE_SALUD_DE_ATENCI%C3%93N_PRIMARIA/MapServer/0/query?objectIds=83&returnExtentOnly=true&outSR=25830&f=json",
+    "archivo": "salud_extent_83.json",
+    "sha256": "e005534dd16e949367442a879f6edd649d4f367ae0e143ba32d4fbf5e0fa7485",
+    "bytes": 169,
+    "fecha_consulta": "2026-11-05"
+  },
+  {
+    "url": "https://sigma.madrid.es/hosted/rest/services/BIENESTAR_SOCIAL/CENTROS_DE_SALUD_DE_ATENCI%C3%93N_PRIMARIA/MapServer/0/query?objectIds=86&returnExtentOnly=true&outSR=25830&f=json",
+    "archivo": "salud_extent_86.json",
+    "sha256": "39c77d914f98235da0644c5817d87142111628c7ea3ed519ec36db983509fe28",
+    "bytes": 169,
+    "fecha_consulta": "2026-11-05"
+  },
+  {
+    "url": "https://sigma.madrid.es/hosted/rest/services/BIENESTAR_SOCIAL/CENTROS_DE_SALUD_DE_ATENCI%C3%93N_PRIMARIA/MapServer/0/query?objectIds=87&returnExtentOnly=true&outSR=25830&f=json",
+    "archivo": "salud_extent_87.json",
+    "sha256": "adcdf6858c02d158c37e9e568de27677fe280994739520807c0b42947293d61c",
+    "bytes": 147,
+    "fecha_consulta": "2026-11-05"
+  }
+]

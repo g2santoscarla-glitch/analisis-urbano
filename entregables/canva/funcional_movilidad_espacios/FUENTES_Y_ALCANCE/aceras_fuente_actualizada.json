@@ -1,0 +1,39 @@
+{
+  "servicio": "https://sigma.madrid.es/hosted/rest/services/CARTOGRAFIA/ANCHO_MEDIO_ACERA/MapServer/0",
+  "consulta": "2026-11-05T09:36:29.339953+00:00",
+  "bbox25830": [
+    443521.40423429175,
+    4477065.626686959,
+    445291.20896169636,
+    4478928.1138468245
+  ],
+  "conteo_servidor_rectangulo": 1251,
+  "conteo_geojson_recortado": 801,
+  "geometrias_nulas": 0,
+  "descargas": [
+    {
+      "url": "https://sigma.madrid.es/hosted/rest/services/CARTOGRAFIA/ANCHO_MEDIO_ACERA/MapServer/0?f=pjson",
+      "archivo": "originales_franja/aceras_metadatos.json",
+      "bytes": 6506,
+      "sha256": "366398132e703975a611df90bc350c870a3191a30ee8ab3f2dd28fc8e99014a2"
+    },
+    {
+      "url": "https://sigma.madrid.es/hosted/rest/services/CARTOGRAFIA/ANCHO_MEDIO_ACERA/MapServer/0/query?where=1%3D1&geometry=443521.40423429175%2C4477065.626686959%2C445291.20896169636%2C4478928.1138468245&geometryType=esriGeometryEnvelope&inSR=25830&spatialRel=esriSpatialRelIntersects&returnCountOnly=true&f=json",
+      "archivo": "originales_franja/aceras_conteo.json",
+      "bytes": 14,
+      "sha256": "f5e3ddb879214ee0c710050fe0e68ab06c8c75c26e2de8ca8042050c3503a017"
+    },
+    {
+      "url": "https://sigma.madrid.es/hosted/rest/services/CARTOGRAFIA/ANCHO_MEDIO_ACERA/MapServer/0/query?where=1%3D1&geometry=443521.40423429175%2C4477065.626686959%2C445291.20896169636%2C4478928.1138468245&geometryType=esriGeometryEnvelope&inSR=25830&spatialRel=esriSpatialRelIntersects&outFields=%2A&returnGeometry=true&outSR=25830&resultOffset=0&resultRecordCount=1000&orderByFields=OBJECTID+ASC&f=geojson",
+      "archivo": "originales_franja/aceras_0.geojson",
+      "bytes": 1765425,
+      "sha256": "64af791aafcd7e01b55465f0f01dca66ea89b6265e2156dff838afa5ca62fd43"
+    },
+    {
+      "url": "https://sigma.madrid.es/hosted/rest/services/CARTOGRAFIA/ANCHO_MEDIO_ACERA/MapServer/0/query?where=1%3D1&geometry=443521.40423429175%2C4477065.626686959%2C445291.20896169636%2C4478928.1138468245&geometryType=esriGeometryEnvelope&inSR=25830&spatialRel=esriSpatialRelIntersects&outFields=%2A&returnGeometry=true&outSR=25830&resultOffset=1000&resultRecordCount=1000&orderByFields=OBJECTID+ASC&f=geojson",
+      "archivo": "originales_franja/aceras_1000.geojson",
+      "bytes": 393794,
+      "sha256": "672e7242bb2f25eaace2748c51885adc8a68c64f1cf824f7ca1ddf32b22e98f5"
+    }
+  ]
+}

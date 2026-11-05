@@ -1,0 +1,58 @@
+[
+  {
+    "url": "https://sigma.madrid.es/hosted/rest/services/GEOPORTAL/POIs_PUNTOS_DE_INTERES_TODOS/MapServer/0/query?where=1%3D1&geometry=442771.5141371656%2C4476315.767047835%2C446041.2058467855%2C4479678.013187299&geometryType=esriGeometryEnvelope&inSR=25830&spatialRel=esriSpatialRelIntersects&outFields=%2A&returnGeometry=true&outSR=25830&f=json&resultRecordCount=2000",
+    "archivo": "pois_raw.json",
+    "sha256": "99d1c1568d8ea38c2c33802772ddc413699b2c3ab64ebc6e758e56229bdc5093",
+    "bytes": 246164,
+    "fecha_consulta": "2026-11-05"
+  },
+  {
+    "url": "https://sigma.madrid.es/hosted/rest/services/GEOPORTAL/EQUIPAMIENTOS_DEPORTIVOS/MapServer/0/query?where=1%3D1&geometry=442771.5141371656%2C4476315.767047835%2C446041.2058467855%2C4479678.013187299&geometryType=esriGeometryEnvelope&inSR=25830&spatialRel=esriSpatialRelIntersects&outFields=%2A&returnGeometry=true&outSR=25830&f=json&resultRecordCount=2000",
+    "archivo": "deporte_raw.json",
+    "sha256": "f9b538133eb242b0a888fee469fdc7293709faae61714ff1679ff40f35150a6f",
+    "bytes": 1590,
+    "fecha_consulta": "2026-11-05"
+  },
+  {
+    "url": "https://sigma.madrid.es/hosted/rest/services/GEOPORTAL/EQUIPAMIENTOS_DEPORTIVOS/MapServer/2/query?where=1%3D1&geometry=442771.5141371656%2C4476315.767047835%2C446041.2058467855%2C4479678.013187299&geometryType=esriGeometryEnvelope&inSR=25830&spatialRel=esriSpatialRelIntersects&outFields=%2A&returnGeometry=true&outSR=25830&f=json&resultRecordCount=2000",
+    "archivo": "deporte_basico_raw.json",
+    "sha256": "4aa2389b887ad18dbf9490d9389cc4c3df9df38b6a685e6c3cccd68c71282ed4",
+    "bytes": 9278,
+    "fecha_consulta": "2026-11-05"
+  },
+  {
+    "url": "https://sigma.madrid.es/hosted/rest/services/CULTURA/CENTROS_CULTURALES/MapServer/5/query?where=1%3D1&geometry=442771.5141371656%2C4476315.767047835%2C446041.2058467855%2C4479678.013187299&geometryType=esriGeometryEnvelope&inSR=25830&spatialRel=esriSpatialRelIntersects&outFields=%2A&returnGeometry=true&outSR=25830&f=json&resultRecordCount=2000",
+    "archivo": "cultura_raw.json",
+    "sha256": "7f654759ffa12e8b31c12863559eba50ad541c1a7472c28df04ffcded33edaf8",
+    "bytes": 2336,
+    "fecha_consulta": "2026-11-05"
+  },
+  {
+    "url": "https://sigma.madrid.es/hosted/rest/services/GEOPORTAL/COLEGIOS_PUBLICOS__PATIOS_ESCOLARES_2022/MapServer/0/query?where=1%3D1&geometry=442771.5141371656%2C4476315.767047835%2C446041.2058467855%2C4479678.013187299&geometryType=esriGeometryEnvelope&inSR=25830&spatialRel=esriSpatialRelIntersects&outFields=%2A&returnGeometry=true&outSR=25830&f=json&resultRecordCount=2000",
+    "archivo": "ceip0_raw.json",
+    "sha256": "8c898edec158113da864efbfed417977a5057ff15668a71a0ac5e4a49c99dc5d",
+    "bytes": 6745,
+    "fecha_consulta": "2026-11-05"
+  },
+  {
+    "url": "https://sigma.madrid.es/hosted/rest/services/GEOPORTAL/COLEGIOS_PUBLICOS__PATIOS_ESCOLARES_2022/MapServer/1/query?where=1%3D1&geometry=442771.5141371656%2C4476315.767047835%2C446041.2058467855%2C4479678.013187299&geometryType=esriGeometryEnvelope&inSR=25830&spatialRel=esriSpatialRelIntersects&outFields=%2A&returnGeometry=true&outSR=25830&f=json&resultRecordCount=2000",
+    "archivo": "ceip1_raw.json",
+    "sha256": "1d3ef7a2c7c18e5a60854cc35661105b13781de675464f018c976dbba43c6329",
+    "bytes": 4713,
+    "fecha_consulta": "2026-11-05"
+  },
+  {
+    "url": "https://sigma.madrid.es/hosted/rest/services/GEOPORTAL/COLEGIOS_PUBLICOS__PATIOS_ESCOLARES_2022/MapServer/2/query?where=1%3D1&geometry=442771.5141371656%2C4476315.767047835%2C446041.2058467855%2C4479678.013187299&geometryType=esriGeometryEnvelope&inSR=25830&spatialRel=esriSpatialRelIntersects&outFields=%2A&returnGeometry=true&outSR=25830&f=json&resultRecordCount=2000",
+    "archivo": "ceip2_raw.json",
+    "sha256": "796258b4657265c49eb42862dac674d43c5a868c58669bc0908be000b41ce0f5",
+    "bytes": 12992,
+    "fecha_consulta": "2026-11-05"
+  },
+  {
+    "url": "https://sigma.madrid.es/hosted/rest/services/BIENESTAR_SOCIAL/CENTROS_DE_SALUD_DE_ATENCI%C3%93N_PRIMARIA/MapServer/0/query?where=1%3D1&geometry=442771.5141371656%2C4476315.767047835%2C446041.2058467855%2C4479678.013187299&geometryType=esriGeometryEnvelope&inSR=25830&spatialRel=esriSpatialRelIntersects&outFields=%2A&returnGeometry=true&outSR=25830&f=json&resultRecordCount=2000",
+    "archivo": "salud_raw.json",
+    "sha256": "a6edd948d603031027667901e6f163330500703c68c7989ce3f0ce8cf2045b0c",
+    "bytes": 4022,
+    "fecha_consulta": "2026-11-05"
+  }
+]

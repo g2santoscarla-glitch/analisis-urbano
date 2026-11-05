@@ -1,0 +1,197 @@
+[
+  {
+    "archivo": "ACTIVIDADES_2023_GRAFICO_CORREGIDO.pdf",
+    "bytes": 96676,
+    "sha256": "eb703eddc212c0785f5ff2d07b976c301bf10663e83f7f92fa4502f1956157ba"
+  },
+  {
+    "archivo": "ACTIVIDADES_2023_GRAFICO_CORREGIDO.pptx",
+    "bytes": 36623,
+    "sha256": "2dc4e3d34750f469ea4e9bfcb124acb906f25a3662675782bb0d51fec00346c0"
+  },
+  {
+    "archivo": "CONTROL_CALIDAD.md",
+    "bytes": 1224,
+    "sha256": "26c3e2b096fcdc7030fb3dd26b529ddb6ab9eb3ab36ac0d9632750ee0e2eeefc"
+  },
+  {
+    "archivo": "DATOS_FUNCIONAL_MOVILIDAD_ESPACIOS.xlsx",
+    "bytes": 201261,
+    "sha256": "59cadd4a4f45a3c811f3e5bf5136cfe9466c756ee3d4a1ce822daad484c7f37e"
+  },
+  {
+    "archivo": "DATOS_GIS/actividades_6ramas_localizadas.geojson",
+    "bytes": 104389,
+    "sha256": "87b3506c17a33d559989a69794f2bd6627810e6b0d368a1366824a34327e8491"
+  },
+  {
+    "archivo": "DATOS_GIS/bienes_municipales_puntos_4barrios.geojson",
+    "bytes": 27418,
+    "sha256": "14a9b61f4e53b13dab4d425588628d6f898812def240f375d7cfe49016b98a21"
+  },
+  {
+    "archivo": "DATOS_GIS/ejes_viarios_entorno250m.geojson",
+    "bytes": 488235,
+    "sha256": "5578bfe4bb5b29026e1d823d4319b6ba71ece0823c63676aaeb33a51a9f4b138"
+  },
+  {
+    "archivo": "DATOS_GIS/emt_cinco_lineas_unidas_entorno250m.geojson",
+    "bytes": 31774,
+    "sha256": "de53b9963dabcff54031bf37b403fb923545716a938325c1a5fa040d5cdf42cf"
+  },
+  {
+    "archivo": "DATOS_GIS/equipamientos_1km.geojson",
+    "bytes": 53576,
+    "sha256": "bd307c5f52d2cf2997ac26fb36571566e3f2517c4aa4010edf4f0806d95f047f"
+  },
+  {
+    "archivo": "DATOS_GIS/equipamientos_500m.geojson",
+    "bytes": 20723,
+    "sha256": "1b673e01392382a7b62c5d3661293607ef9956bc61e7d1deb3d15ffa99ec255f"
+  },
+  {
+    "archivo": "DATOS_GIS/espacios_publicos_parcelario_4barrios.geojson",
+    "bytes": 12209960,
+    "sha256": "a7a88f8080beaa31d870b24291ca1d2193a04e8c7b618a044f9e74be70effdc5"
+  },
+  {
+    "archivo": "DATOS_GIS/metro_estaciones_entorno250m.geojson",
+    "bytes": 641,
+    "sha256": "09b130297e327421677651590520022d9c0d217af06342c16e41626c0f5b24dc"
+  },
+  {
+    "archivo": "DATOS_GIS/metro_tramos_entorno250m.geojson",
+    "bytes": 11983,
+    "sha256": "b5ac2f118e3099d863f152e93b959743e722035fd18d5df5d722eb4f800acdf9"
+  },
+  {
+    "archivo": "FIGURAS_PNG/01_ACTIVIDADES_2026_GRAFICO.png",
+    "bytes": 124247,
+    "sha256": "78b37b73ef1df1751ebdc90328ab50da609c27f99135a2c4e446aa939d109dd4"
+  },
+  {
+    "archivo": "FIGURAS_PNG/02_ACTIVIDADES_2026_MAPA.png",
+    "bytes": 231029,
+    "sha256": "a0289ee81a2c3b1fb5118bcbf2371db9da846ee49c2f6d5793061800e705315b"
+  },
+  {
+    "archivo": "FIGURAS_PNG/03_MOVILIDAD_COTIDIANA.png",
+    "bytes": 351529,
+    "sha256": "327f61da7c97bfb55b164c27e90cb7bc4155b4a22faeb7018b1c526ef6bdd8b5"
+  },
+  {
+    "archivo": "FIGURAS_PNG/04_SINTESIS_FUNCIONAL.png",
+    "bytes": 272134,
+    "sha256": "b56d37aea75dc01725eb892aa509c48bed4b366778457f8774025e1e3f789fe8"
+  },
+  {
+    "archivo": "FIGURAS_PNG/05_EQUIPAMIENTOS_PUBLICOS.png",
+    "bytes": 306139,
+    "sha256": "7f3d7f19d7b058af892965f9360cf4285e7d32b8f849b020e4ea7d28620df939"
+  },
+  {
+    "archivo": "FIGURAS_PNG/06_SALUD_Y_HOSPITALES.png",
+    "bytes": 319333,
+    "sha256": "7ca1e7c32cb9c4a99214845e68d30360f785be5b3fc7155487bcd32503b83638"
+  },
+  {
+    "archivo": "FIGURAS_PNG/07_ESPACIOS_CUATRO_BARRIOS.png",
+    "bytes": 512300,
+    "sha256": "c4c675eeb8635baf6d5204f5b3e368494492aa862d9152dab020db353bb95d68"
+  },
+  {
+    "archivo": "FIGURAS_PNG/08_ESPACIOS_SAN_JUAN_BAUTISTA.png",
+    "bytes": 327744,
+    "sha256": "df8a29644113a5fc2807623f1829fc7744cf4cf896e16119f7792126148ee415"
+  },
+  {
+    "archivo": "FIGURAS_PNG/09_ESPACIOS_SAN_PASCUAL.png",
+    "bytes": 299729,
+    "sha256": "e5fe9a4320d4b4741164a9b30134dcfca2eafe3d077492394f5c068b9d3ce630"
+  },
+  {
+    "archivo": "FIGURAS_PNG/10_ESPACIOS_LA_PIOVERA.png",
+    "bytes": 421473,
+    "sha256": "96b2c283ace050b4589bf828445f8cca9bd48338d8457413a7f9bc3205aa84b3"
+  },
+  {
+    "archivo": "FIGURAS_PNG/11_ESPACIOS_EL_SALVADOR.png",
+    "bytes": 317159,
+    "sha256": "239cf6501afc7828db7ac2ed95123c4e00169aea6fdcc983b046f6a21623001c"
+  },
+  {
+    "archivo": "FIGURAS_PNG/ACTIVIDADES_2023_GRAFICO_CORREGIDO.png",
+    "bytes": 120194,
+    "sha256": "a037265dd42898d02302556bc26478daeafe29d4bceeccf44e6aeac567a64d23"
+  },
+  {
+    "archivo": "FUENTES_Y_ALCANCE/ESPACIO_PUBLICO_PRIVADO_ALCANCE.md",
+    "bytes": 4646,
+    "sha256": "d08f8e7491104a19816e12e0e15cf5273ea9a01f81e19032e5ba337b95b6c500"
+  },
+  {
+    "archivo": "FUENTES_Y_ALCANCE/LEEME_EQUIPAMIENTOS.md",
+    "bytes": 3791,
+    "sha256": "8a7c15093896c859a888409a626735f16fdc78e895f7d9152ba961124a256566"
+  },
+  {
+    "archivo": "FUENTES_Y_ALCANCE/aceras_fuente_actualizada.json",
+    "bytes": 2352,
+    "sha256": "ae7582bbc6ead5b6bc5f4fd64dc7df98d6a8f530907e483acc6283a44eb09bdd"
+  },
+  {
+    "archivo": "FUENTES_Y_ALCANCE/actividades_fuentes.json",
+    "bytes": 4516,
+    "sha256": "9baae6d2cd2d1af27fb2b971c3e1ca5e096bbc932106fee0655fd2a95d701068"
+  },
+  {
+    "archivo": "FUENTES_Y_ALCANCE/espacios_publicos_parcelario_validacion.json",
+    "bytes": 1157,
+    "sha256": "1c1304ef2e98630baff1dcdc7eeee3b54ba3a45f5c97fc9ca1cf7094b6ad8bd2"
+  },
+  {
+    "archivo": "FUENTES_Y_ALCANCE/fuentes_descargas.json",
+    "bytes": 4454,
+    "sha256": "4823df873c3efa8ffbd3e273a5b75295c16c8d8250072e547f62e8be33a05cb9"
+  },
+  {
+    "archivo": "FUENTES_Y_ALCANCE/fuentes_extensiones.json",
+    "bytes": 23463,
+    "sha256": "865b6097e4f62b22e4eee189da1c460b2da1f7ba9a284e9581fee5e009eba80a"
+  },
+  {
+    "archivo": "FUENTES_Y_ALCANCE/fuentes_fichas_titularidad.json",
+    "bytes": 2328,
+    "sha256": "fa3688487fe517bb56d59b62828e768522714f9f78bedb8111c70abbf2a4f272"
+  },
+  {
+    "archivo": "FUENTES_Y_ALCANCE/movilidad_resumen.json",
+    "bytes": 23551,
+    "sha256": "adb48ba5d490522dd1cd4c1e051d42e7e52d9fa6b225eec0307fbd7a196a06ac"
+  },
+  {
+    "archivo": "FUENTES_Y_ALCANCE/viales_fuente_actualizada.json",
+    "bytes": 1746,
+    "sha256": "0affe10750b989abc762d2907dd6ef3dd1d28ead7b797033b119c5ca4d11eea3"
+  },
+  {
+    "archivo": "FUNCIONAL_MOVILIDAD_Y_ESPACIOS.pdf",
+    "bytes": 7854194,
+    "sha256": "4af1a30cb92327495944c16e682b515f067f5cb8c41cfe3c7deffed935dfe774"
+  },
+  {
+    "archivo": "FUNCIONAL_MOVILIDAD_Y_ESPACIOS.pptx",
+    "bytes": 5006398,
+    "sha256": "bb6b93b3525db6908b0a1e7e4e0016369c1ca06eb20dbc7f0a913e84c216003c"
+  },
+  {
+    "archivo": "INDICE_FIGURAS.csv",
+    "bytes": 4305,
+    "sha256": "c821ba1876d2df6608c249c084fcd6bad4bcb6f2123d48ff5612eaef69e4654b"
+  },
+  {
+    "archivo": "LEEME.md",
+    "bytes": 4448,
+    "sha256": "0721fdc65c5da9f227abdd33d6380f48ab9d13ec2ca244a2586891ff31a5617a"
+  }
+]

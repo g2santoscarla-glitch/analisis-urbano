@@ -1,0 +1,33 @@
+{
+  "servicio": "https://sigma.madrid.es/hosted/rest/services/CALLEJERO/CALLEJERO_VIALES/MapServer/0",
+  "consulta": "2026-11-05T09:36:18.018005+00:00",
+  "bbox25830": [
+    443521.40423429175,
+    4477065.626686959,
+    445291.20896169636,
+    4478928.1138468245
+  ],
+  "conteo_servidor_rectangulo": 171,
+  "conteo_geojson_recortado": 122,
+  "geometrias_nulas": 0,
+  "descargas": [
+    {
+      "url": "https://sigma.madrid.es/hosted/rest/services/CALLEJERO/CALLEJERO_VIALES/MapServer/0?f=pjson",
+      "archivo": "originales_franja/viales_metadatos.json",
+      "bytes": 6048,
+      "sha256": "816af4307d3e9babecc48b06598244f69173959ca3c418ece76b1a8705b4fb51"
+    },
+    {
+      "url": "https://sigma.madrid.es/hosted/rest/services/CALLEJERO/CALLEJERO_VIALES/MapServer/0/query?where=1%3D1&geometry=443521.40423429175%2C4477065.626686959%2C445291.20896169636%2C4478928.1138468245&geometryType=esriGeometryEnvelope&inSR=25830&spatialRel=esriSpatialRelIntersects&returnCountOnly=true&f=json",
+      "archivo": "originales_franja/viales_conteo.json",
+      "bytes": 13,
+      "sha256": "e789b538e28f86b843a507571e67519959d586999afd80e825c1b4f1ed859ee8"
+    },
+    {
+      "url": "https://sigma.madrid.es/hosted/rest/services/CALLEJERO/CALLEJERO_VIALES/MapServer/0/query?where=1%3D1&geometry=443521.40423429175%2C4477065.626686959%2C445291.20896169636%2C4478928.1138468245&geometryType=esriGeometryEnvelope&inSR=25830&spatialRel=esriSpatialRelIntersects&outFields=%2A&returnGeometry=true&outSR=25830&resultOffset=0&resultRecordCount=1000&orderByFields=OBJECTID+ASC&f=geojson",
+      "archivo": "originales_franja/viales_0.geojson",
+      "bytes": 3677615,
+      "sha256": "ded6a4721f955988e10bb4f11f888d767508999f32273abb632c7eead2e1ec5c"
+    }
+  ]
+}

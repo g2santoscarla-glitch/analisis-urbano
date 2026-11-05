@@ -1,0 +1,106 @@
+{
+  "manifest": [
+    {
+      "url": "https://datos.madrid.es/api/3/action/datastore_search?resource_id=200085-5-censo-locales&filters=%7B%22id_barrio_local%22%3A+%221506%22%2C+%22id_situacion_local%22%3A+%221%22%7D&limit=1000&offset=0&sort=_id+asc",
+      "archivo": "actividades_sjb_abiertas_0.json",
+      "sha256": "7584a96a9ca40079cb76f4c7a0fb799f94867548c79e09837eb40aa099921e3e",
+      "consulta": "2026-11-05T09:41:02.168927+00:00"
+    }
+  ],
+  "filtros": {
+    "id_barrio_local": "1506",
+    "id_situacion_local": "1"
+  },
+  "registros_originales": 608,
+  "registros_tras_deduplicar": 608,
+  "registros_puerta_calle_y_agrupados": 388,
+  "tipos_acceso_incluidos": [
+    "0 Agrupado",
+    "1 Puerta Calle"
+  ],
+  "duplicados_idlocal_epigrafe": [],
+  "n_locales_distintos_ambito": 329,
+  "n_puntos_local_rama": 278,
+  "incidencias": [],
+  "filas_resumen": [
+    {
+      "codigo_CNAE": "G",
+      "actividad": "Comercio y reparación",
+      "registros_actividad": 120,
+      "locales_distintos": 105,
+      "total_registros_ambito": 388,
+      "porcentaje_registros": 30.927835051546392,
+      "fecha_carga": "04/11/2026",
+      "organismo": "Ayuntamiento de Madrid · Censo de Locales y Actividades",
+      "dataset": "200085-0-censo-locales",
+      "recurso": "200085-5-censo-locales",
+      "filtro": "id_barrio_local=1506; id_situacion_local=1; tipo_acceso=0|1; deduplicar id_local+id_epigrafe"
+    },
+    {
+      "codigo_CNAE": "I",
+      "actividad": "Hostelería",
+      "registros_actividad": 69,
+      "locales_distintos": 66,
+      "total_registros_ambito": 388,
+      "porcentaje_registros": 17.783505154639176,
+      "fecha_carga": "04/11/2026",
+      "organismo": "Ayuntamiento de Madrid · Censo de Locales y Actividades",
+      "dataset": "200085-0-censo-locales",
+      "recurso": "200085-5-censo-locales",
+      "filtro": "id_barrio_local=1506; id_situacion_local=1; tipo_acceso=0|1; deduplicar id_local+id_epigrafe"
+    },
+    {
+      "codigo_CNAE": "Q",
+      "actividad": "Sanidad y servicios sociales",
+      "registros_actividad": 39,
+      "locales_distintos": 38,
+      "total_registros_ambito": 388,
+      "porcentaje_registros": 10.051546391752577,
+      "fecha_carga": "04/11/2026",
+      "organismo": "Ayuntamiento de Madrid · Censo de Locales y Actividades",
+      "dataset": "200085-0-censo-locales",
+      "recurso": "200085-5-censo-locales",
+      "filtro": "id_barrio_local=1506; id_situacion_local=1; tipo_acceso=0|1; deduplicar id_local+id_epigrafe"
+    },
+    {
+      "codigo_CNAE": "S",
+      "actividad": "Otros servicios",
+      "registros_actividad": 34,
+      "locales_distintos": 31,
+      "total_registros_ambito": 388,
+      "porcentaje_registros": 8.762886597938145,
+      "fecha_carga": "04/11/2026",
+      "organismo": "Ayuntamiento de Madrid · Censo de Locales y Actividades",
+      "dataset": "200085-0-censo-locales",
+      "recurso": "200085-5-censo-locales",
+      "filtro": "id_barrio_local=1506; id_situacion_local=1; tipo_acceso=0|1; deduplicar id_local+id_epigrafe"
+    },
+    {
+      "codigo_CNAE": "P",
+      "actividad": "Educación",
+      "registros_actividad": 25,
+      "locales_distintos": 22,
+      "total_registros_ambito": 388,
+      "porcentaje_registros": 6.443298969072165,
+      "fecha_carga": "04/11/2026",
+      "organismo": "Ayuntamiento de Madrid · Censo de Locales y Actividades",
+      "dataset": "200085-0-censo-locales",
+      "recurso": "200085-5-censo-locales",
+      "filtro": "id_barrio_local=1506; id_situacion_local=1; tipo_acceso=0|1; deduplicar id_local+id_epigrafe"
+    },
+    {
+      "codigo_CNAE": "M",
+      "actividad": "Profesionales, científicas y técnicas",
+      "registros_actividad": 17,
+      "locales_distintos": 16,
+      "total_registros_ambito": 388,
+      "porcentaje_registros": 4.381443298969073,
+      "fecha_carga": "04/11/2026",
+      "organismo": "Ayuntamiento de Madrid · Censo de Locales y Actividades",
+      "dataset": "200085-0-censo-locales",
+      "recurso": "200085-5-censo-locales",
+      "filtro": "id_barrio_local=1506; id_situacion_local=1; tipo_acceso=0|1; deduplicar id_local+id_epigrafe"
+    }
+  ],
+  "nota": "Coordenadas del local solo para Puerta Calle; agrupados usan coordenadas de la agrupación conforme al PDF municipal (ETRS89 desde 15/09/2017). Recuento administrativo de actividades vigentes en locales abiertos; no homologable automáticamente a la serie estadística BDM 2023. Un local puede tener varias actividades y ramas. CRS de origen municipal ETRS89/UTM30N."
+}

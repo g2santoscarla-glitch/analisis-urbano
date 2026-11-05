@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "metro_estaciones_entorno250m",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::25830" } },
+"features": [
+{ "type": "Feature", "properties": { "IDESTACION": "4_67", "DENOMINACION": "AVENIDA DE LA PAZ", "LINEAS": "4", "FECHAACTUAL": "20260529" }, "geometry": { "type": "Point", "coordinates": [ 443936.671099999977741, 4478307.88150000013411 ] } },
+{ "type": "Feature", "properties": { "IDESTACION": "4_68", "DENOMINACION": "ARTURO SORIA", "LINEAS": "4", "FECHAACTUAL": "20260529" }, "geometry": { "type": "Point", "coordinates": [ 444362.5921, 4478558.892900000326335 ] } }
+]
+}
